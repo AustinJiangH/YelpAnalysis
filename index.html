@@ -1,0 +1,147 @@
+<html>
+
+<head>
+    <title>Yelp Insight</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+    <!-- echarts  -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.0.0/echarts.common.min.js"
+        integrity="sha512-sgjf2XQikbNM6rYK8HIvY8GnOY0WrXUkluoh71qBzH2Cdm5qLJpFLwX9zCO5lkG11k8oh89yzQ8SOqLlQjIYHw=="
+        crossorigin="anonymous"></script>
+
+    <!-- development version, includes helpful console warnings -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+</head>
+
+<body class=" yellow lighten-5">
+    <nav class="light-blue accent-34">
+        <div class="nav-wrapper">
+            <a href="#" class="brand-logo center">Yelp Insight</a>
+            <ul id="nav-mobile" class="left hide-on-med-and-down">
+                <!-- <li><a href="sass.html">Sass</a></li>
+                <li><a href="badges.html">Components</a></li>
+                <li><a href="collapsible.html">JavaScript</a></li> -->
+            </ul>
+        </div>
+    </nav>
+
+    <div class="row container" id="app">
+        <!-- left -->
+        <div class="col s12 m6 l6">
+            <div class="row">
+
+                <div class="col s12 m12">
+                    <div class="card-panel  ">
+                        <h4>Yelp Insight Dashboard</h4>
+                        <p>
+                            Yelp Insight is a web application which shows you quantitive and qualitive metrics to boost
+                            your business on Yelp.
+                        </p>
+                        <p>
+                            In this application you can find:
+                        </p>
+                        <ol>
+                            <li>overview of your industry.</li>
+                            <li>where your business stands in the industry.</li>
+                            <li>suggestions to boost your business.</li>
+                        </ol>
+
+                        <h5>Enter Business ID to View Personalized Contents</h5>
+                        <label for="business_id">Business ID</label>
+                        <input placeholder="Your Business ID" id="business_id" type="text" class="validate">
+                    </div>
+                </div>
+
+                <div class="col s12 m12">
+                    <div class="card-panel">
+                        <h4>Over View of Your Industry</h4>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th></th>
+                                    <th>Rating</th>
+                                    <th>Visits</th>
+                                    <th>Comments</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Industry Average</td>
+                                    <td>3.5</td>
+                                    <td>3522</td>
+                                    <td>Delicious, Cheap</td>
+                                </tr>
+                                <tr>
+                                    <td>Your Business</td>
+                                    <td>4.2</td>
+                                    <td>2844</td>
+                                    <td>Children-friendly</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <div class="col s12 m12">
+                    <div class="card-panel">
+                        <h4>Pie Chart</h4>
+                        <div id="chart-1" style="height: 20rem;"></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- right -->
+        <div class="col s12 m6 l6">
+            <div class="row">
+
+                <div class="col s12 m12">
+                    <div class="card-panel">
+                        <h4>Bar Plot</h4>
+                        <div id="chart-2" style="height: 25rem;"></div>
+                    </div>
+                </div>
+
+
+                <div class="col s12 m12">
+                    <div class="card-panel ">
+                        <h4>Suggestions</h4>
+                        
+                        <ol>
+                            <li>Free parking</li>
+                            <li>Pick up options</li>
+                            
+                        </ol>
+
+                        
+                    </div>
+                </div>
+
+                <div class="col s12 m12">
+                    <div class="card-panel">
+                        <h4>Contact</h4>
+                        <p>
+                            Questions? Ideas? Glitchs to report? Contact us at <a
+                                href="mailto:hjiang266@wisc.edu">hjiang266@wisc.edu</a>
+                        </p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- app  -->
+    <script src="app/app.js"></script>
+</body>
+
+</html>
