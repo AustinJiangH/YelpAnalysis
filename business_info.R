@@ -3,7 +3,7 @@ install.packages("jsonlite")
 library(rjson)
 library(jsonlite)
 
-data<-jsonlite::stream_in(file("business_city_Chinese.json"),pagesize = 100)
+data<-jsonlite::stream_in(file("data/business_city_Chinese.json"),pagesize = 100)
 str(data)
 head(data)
 colnames(data)
@@ -194,3 +194,4 @@ mean(stars_T)
 mean(stars_F)
 t.test(stars_T,stars_F)
 #p-value = 0.7276
+
