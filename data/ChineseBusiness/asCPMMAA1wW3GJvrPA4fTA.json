@@ -1,0 +1,41 @@
+{
+    "business_id": "asCPMMAA1wW3GJvrPA4fTA",
+    "name": "Tang Dynasty",
+    "address": "Lincoln Square Mall, 300 S Broadway Ave",
+    "city": "Urbana",
+    "state": "IL",
+    "postal_code": "61801",
+    "latitude": 40.1105839,
+    "longitude": -88.2070866,
+    "stars": 3.0,
+    "review_count": 18,
+    "is_open": 0,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "2",
+        "WiFi": "u'no'",
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': True, 'trendy': False, 'upscale': False, 'casual': False}",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsReservations": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Caters": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'none'",
+        "HasTV": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:0"
+    }
+}

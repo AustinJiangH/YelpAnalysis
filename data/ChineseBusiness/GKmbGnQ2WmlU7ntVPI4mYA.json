@@ -1,0 +1,42 @@
+{
+    "business_id": "GKmbGnQ2WmlU7ntVPI4mYA",
+    "name": "Golden Crown Chinese Restaurant",
+    "address": "2292 Kresge Dr",
+    "city": "Amherst",
+    "state": "OH",
+    "postal_code": "44001",
+    "latitude": 41.4166352,
+    "longitude": -82.207212,
+    "stars": 4.0,
+    "review_count": 22,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "False",
+        "HasTV": "True",
+        "BikeParking": "False",
+        "RestaurantsReservations": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "Caters": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "WiFi": "u'free'",
+        "Alcohol": "u'none'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:0-21:30"
+    }
+}

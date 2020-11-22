@@ -1,0 +1,41 @@
+{
+    "business_id": "vVdY2qDO7dkUrU8LXYZ1uA",
+    "name": "Green Jade",
+    "address": "1109 W Windsor",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61821",
+    "latitude": 40.0831798963,
+    "longitude": -88.2643084814,
+    "stars": 4.0,
+    "review_count": 38,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False",
+        "NoiseLevel": "u'average'",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsAttire": "'casual'",
+        "Caters": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsGoodForGroups": "False",
+        "HasTV": "True",
+        "WiFi": "'no'"
+    },
+    "categories": "Seafood, Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "16:0-22:0"
+    }
+}

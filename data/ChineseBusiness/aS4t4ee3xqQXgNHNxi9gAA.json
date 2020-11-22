@@ -1,0 +1,43 @@
+{
+    "business_id": "aS4t4ee3xqQXgNHNxi9gAA",
+    "name": "Flaming Wok",
+    "address": "4237 Lien Rd, Ste H",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53704",
+    "latitude": 43.1206048,
+    "longitude": -89.3089783,
+    "stars": 3.0,
+    "review_count": 86,
+    "is_open": 1,
+    "attributes": {
+        "HasTV": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'none'",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "True",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'average'",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "u'free'",
+        "Caters": "True",
+        "BusinessAcceptsBitcoin": "False",
+        "BikeParking": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Restaurants, Noodles, Chinese",
+    "hours": {
+        "Monday": "11:0-23:0",
+        "Tuesday": "11:0-23:0",
+        "Wednesday": "11:0-23:0",
+        "Thursday": "11:0-23:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-23:0"
+    }
+}

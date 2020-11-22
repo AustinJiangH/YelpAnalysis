@@ -1,0 +1,29 @@
+{
+    "business_id": "R-nmyxEGu4fYGJ2JFbMwlQ",
+    "name": "China House",
+    "address": "10571 Saint Clair Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44108",
+    "latitude": 41.5400845,
+    "longitude": -81.613517,
+    "stars": 3.0,
+    "review_count": 4,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "0:0-0:0",
+        "Tuesday": "0:0-0:0",
+        "Wednesday": "0:0-0:0",
+        "Thursday": "0:0-0:0",
+        "Friday": "0:0-0:0",
+        "Saturday": "0:0-0:0",
+        "Sunday": "0:0-0:0"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "business_id": "O5MzWfMWDeEwkzNVeKdCfg",
+    "name": "China Taste",
+    "address": "630 E Ohio St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15212",
+    "latitude": 40.4541832,
+    "longitude": -79.9981377,
+    "stars": 4.0,
+    "review_count": 21,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "False",
+        "RestaurantsAttire": "'casual'",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'quiet'",
+        "Caters": "False",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:30",
+        "Tuesday": "11:0-22:30",
+        "Wednesday": "11:0-22:30",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-23:30",
+        "Saturday": "11:0-23:30",
+        "Sunday": "12:0-22:30"
+    }
+}

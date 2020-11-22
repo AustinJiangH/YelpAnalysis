@@ -1,0 +1,41 @@
+{
+    "business_id": "F8ZTmT9pGiSF2jx9FZDjdQ",
+    "name": "Zuki Sushi House",
+    "address": "899 E Aurora Rd",
+    "city": "Macedonia",
+    "state": "OH",
+    "postal_code": "44056",
+    "latitude": 41.314242764,
+    "longitude": -81.5064394794,
+    "stars": 5.0,
+    "review_count": 92,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "True",
+        "RestaurantsDelivery": "False",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "'casual'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsPriceRange2": "2",
+        "HasTV": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsTableService": "True",
+        "DogsAllowed": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "u'free'",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'touristy': False, 'hipster': None, 'romantic': None, 'divey': None, 'intimate': None, 'trendy': None, 'upscale': False, 'classy': None, 'casual': True}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': None, 'lot': True, 'valet': False}",
+        "Caters": "False"
+    },
+    "categories": "Chinese, Sushi Bars, Restaurants, Japanese",
+    "hours": {
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "13:0-21:30"
+    }
+}

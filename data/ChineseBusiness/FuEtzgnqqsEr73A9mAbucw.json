@@ -1,0 +1,33 @@
+{
+    "business_id": "FuEtzgnqqsEr73A9mAbucw",
+    "name": "House Gourmet",
+    "address": "1305 E Tallmadge Ave",
+    "city": "Akron",
+    "state": "OH",
+    "postal_code": "44310",
+    "latitude": 41.1023125,
+    "longitude": -81.4678501,
+    "stars": 4.0,
+    "review_count": 5,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'full_bar'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "2",
+        "NoiseLevel": "u'quiet'",
+        "OutdoorSeating": "False",
+        "Caters": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "False",
+        "WiFi": "u'no'",
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "GoodForKids": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

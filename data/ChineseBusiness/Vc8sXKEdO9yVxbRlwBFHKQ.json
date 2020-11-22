@@ -1,0 +1,37 @@
+{
+    "business_id": "Vc8sXKEdO9yVxbRlwBFHKQ",
+    "name": "China Sea",
+    "address": "1384 W 6th St",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44113",
+    "latitude": 41.499006,
+    "longitude": -81.6983659,
+    "stars": 2.5,
+    "review_count": 17,
+    "is_open": 0,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsPriceRange2": "1",
+        "NoiseLevel": "u'average'",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsDelivery": "True",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "HasTV": "False",
+        "RestaurantsReservations": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-22:30",
+        "Wednesday": "11:0-22:30",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "12:0-22:30"
+    }
+}

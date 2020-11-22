@@ -1,0 +1,41 @@
+{
+    "business_id": "WJ0dK9O_prt2ud1BXAZYtg",
+    "name": "Taste of China",
+    "address": "5415 Monona Dr",
+    "city": "Monona",
+    "state": "WI",
+    "postal_code": "53716",
+    "latitude": 43.0602545,
+    "longitude": -89.3266423,
+    "stars": 2.5,
+    "review_count": 19,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'quiet'",
+        "OutdoorSeating": "False",
+        "WiFi": "u'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "HasTV": "False",
+        "Alcohol": "u'none'",
+        "BikeParking": "False",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Chinese, Restaurants, Soup, Seafood",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-22:0"
+    }
+}

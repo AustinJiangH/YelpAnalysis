@@ -1,0 +1,43 @@
+{
+    "business_id": "jIc8lKpK0S265D18cgQKEw",
+    "name": "The Pearl",
+    "address": "20121 Van Aken Blvd",
+    "city": "Shaker Heights",
+    "state": "OH",
+    "postal_code": "44122",
+    "latitude": 41.4765142187,
+    "longitude": -81.5521733012,
+    "stars": 3.0,
+    "review_count": 36,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "2",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'average'",
+        "RestaurantsReservations": "True",
+        "BYOBCorkage": "'no'",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "False",
+        "Alcohol": "u'full_bar'",
+        "HasTV": "False",
+        "Caters": "True",
+        "BikeParking": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "WiFi": "u'no'"
+    },
+    "categories": "Chinese, Event Planning & Services, Asian Fusion, Restaurants, Caterers",
+    "hours": {
+        "Monday": "17:0-22:0",
+        "Tuesday": "17:0-22:0",
+        "Wednesday": "17:0-22:0",
+        "Thursday": "17:0-22:0",
+        "Friday": "17:0-22:0",
+        "Saturday": "15:0-22:0",
+        "Sunday": "15:0-22:0"
+    }
+}

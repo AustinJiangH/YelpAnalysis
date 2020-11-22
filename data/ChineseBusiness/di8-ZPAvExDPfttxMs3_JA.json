@@ -1,0 +1,20 @@
+{
+    "business_id": "di8-ZPAvExDPfttxMs3_JA",
+    "name": "Yummy Buffet",
+    "address": "411 W Gilman St",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53703",
+    "latitude": 43.074349,
+    "longitude": -89.393575,
+    "stars": 1.0,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Chinese, Restaurants, Buffets",
+    "hours": null
+}

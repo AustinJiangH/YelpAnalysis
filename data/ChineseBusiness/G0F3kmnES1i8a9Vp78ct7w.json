@@ -1,0 +1,41 @@
+{
+    "business_id": "G0F3kmnES1i8a9Vp78ct7w",
+    "name": "New Jackie Chen's Chinese Restaurant",
+    "address": "470 E 152nd St",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44110",
+    "latitude": 41.5690816,
+    "longitude": -81.5754946,
+    "stars": 3.5,
+    "review_count": 6,
+    "is_open": 0,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "Caters": "False",
+        "BikeParking": "True",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'quiet'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "HasTV": "True",
+        "RestaurantsDelivery": "False",
+        "Alcohol": "'none'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "12:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

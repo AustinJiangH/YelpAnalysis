@@ -1,0 +1,29 @@
+{
+    "business_id": "RdwJXTQo3Ez9DAbGpybl_w",
+    "name": "Six Minute Chinese",
+    "address": "39 E Green St",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.109988,
+    "longitude": -88.240506,
+    "stars": 1.5,
+    "review_count": 9,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsPriceRange2": "2",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "GoodForKids": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "Caters": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

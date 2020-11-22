@@ -1,0 +1,25 @@
+{
+    "business_id": "9X3XAKb51B4meUDC_NFnsA",
+    "name": "Golden Dragon Chinese Restaurant",
+    "address": "114 Tropiano Ln",
+    "city": "Irwin",
+    "state": "PA",
+    "postal_code": "15642",
+    "latitude": 40.3245138,
+    "longitude": -79.7011549,
+    "stars": 5.0,
+    "review_count": 4,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsDelivery": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

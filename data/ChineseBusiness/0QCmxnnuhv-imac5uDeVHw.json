@@ -1,0 +1,42 @@
+{
+    "business_id": "0QCmxnnuhv-imac5uDeVHw",
+    "name": "China Chef",
+    "address": "9109 State Rte 14",
+    "city": "Streetsboro",
+    "state": "OH",
+    "postal_code": "44241",
+    "latitude": 41.2381899,
+    "longitude": -81.3395717,
+    "stars": 3.5,
+    "review_count": 22,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "GoodForKids": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "True",
+        "WiFi": "u'no'",
+        "HasTV": "True",
+        "Alcohol": "u'none'",
+        "BikeParking": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "Caters": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "12:0-23:0",
+        "Sunday": "12:0-20:30"
+    }
+}

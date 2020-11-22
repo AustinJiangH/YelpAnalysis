@@ -1,0 +1,30 @@
+{
+    "business_id": "5It12biyGxe2Dz6kkf7wGQ",
+    "name": "Oriental Express",
+    "address": "2610 Brandt School Rd",
+    "city": "Wexford",
+    "state": "PA",
+    "postal_code": "15090",
+    "latitude": 40.6150568032,
+    "longitude": -80.0913698314,
+    "stars": 3.5,
+    "review_count": 22,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True",
+        "OutdoorSeating": "True",
+        "BikeParking": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsPriceRange2": "1",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese, American (New)",
+    "hours": null
+}

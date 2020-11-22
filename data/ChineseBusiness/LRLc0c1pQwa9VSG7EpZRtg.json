@@ -1,0 +1,42 @@
+{
+    "business_id": "LRLc0c1pQwa9VSG7EpZRtg",
+    "name": "Empress Court",
+    "address": "8307 Washington St",
+    "city": "Chagrin Falls",
+    "state": "OH",
+    "postal_code": "44023",
+    "latitude": 41.4143997,
+    "longitude": -81.3453343,
+    "stars": 3.5,
+    "review_count": 32,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "False",
+        "WiFi": "'free'",
+        "RestaurantsPriceRange2": "2",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsGoodForGroups": "True",
+        "NoiseLevel": "u'quiet'",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "True",
+        "BikeParking": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Soup, Chicken Shop, Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:30",
+        "Saturday": "11:30-22:30",
+        "Sunday": "12:0-21:0"
+    }
+}

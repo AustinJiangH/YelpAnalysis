@@ -1,0 +1,38 @@
+{
+    "business_id": "uaZYhzg1jcmTrRIeNqHISA",
+    "name": "Buffet House",
+    "address": "Mayland Shopping Center, 5866 Mayfield Rd",
+    "city": "Mayfield Heights",
+    "state": "OH",
+    "postal_code": "44124",
+    "latitude": 41.5197722083,
+    "longitude": -81.4679735899,
+    "stars": 3.0,
+    "review_count": 8,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsPriceRange2": "1",
+        "HasTV": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'beer_and_wine'",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'quiet'",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Chinese, Restaurants, Japanese, Buffets",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0"
+    }
+}

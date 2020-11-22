@@ -1,0 +1,26 @@
+{
+    "business_id": "9XtyBTgenMERfl4hDgnDwA",
+    "name": "China Palace",
+    "address": "1291 N Sherman Ave",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53704",
+    "latitude": 43.1137346,
+    "longitude": -89.3637978,
+    "stars": 4.0,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsPriceRange2": "3",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsReservations": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BYOBCorkage": "'no'",
+        "OutdoorSeating": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

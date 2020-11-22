@@ -1,0 +1,43 @@
+{
+    "business_id": "QdganL5AW9E_fNoRVroLig",
+    "name": "Golden Wok",
+    "address": "405 E University Ave",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.1160086,
+    "longitude": -88.2328539,
+    "stars": 4.0,
+    "review_count": 120,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "RestaurantsAttire": "'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "HasTV": "True",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "Caters": "False",
+        "BikeParking": "False",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'average'",
+        "RestaurantsDelivery": "True",
+        "WiFi": "u'free'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Thai, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "12:0-20:30"
+    }
+}

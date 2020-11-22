@@ -1,0 +1,40 @@
+{
+    "business_id": "caWUE0ItqsG51OaBVlr4Eg",
+    "name": "China Buffet",
+    "address": "14415 Pearl Rd",
+    "city": "Strongsville",
+    "state": "OH",
+    "postal_code": "44136",
+    "latitude": 41.331628,
+    "longitude": -81.836718,
+    "stars": 2.0,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "GoodForKids": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "1",
+        "BikeParking": "False",
+        "RestaurantsTakeOut": "True",
+        "HasTV": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsTableService": "True",
+        "Caters": "False"
+    },
+    "categories": "Japanese, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "11:0-21:30"
+    }
+}

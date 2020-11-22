@@ -1,0 +1,43 @@
+{
+    "business_id": "5ZqybrqiTdbANn2yI3B3VA",
+    "name": "Great Wall",
+    "address": "4515 Verona Rd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53711",
+    "latitude": 43.0352412,
+    "longitude": -89.4535994,
+    "stars": 3.5,
+    "review_count": 27,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "False",
+        "BikeParking": "False",
+        "Alcohol": "u'none'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "Caters": "True",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "WiFi": "u'free'",
+        "RestaurantsAttire": "'casual'",
+        "OutdoorSeating": "False",
+        "DogsAllowed": "False",
+        "HasTV": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-21:30",
+        "Tuesday": "10:30-21:30",
+        "Wednesday": "10:30-21:30",
+        "Thursday": "10:30-21:30",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "12:0-21:30"
+    }
+}

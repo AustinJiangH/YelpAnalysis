@@ -1,0 +1,40 @@
+{
+    "business_id": "xVgBhNzlnSmNY5MwqgBrCQ",
+    "name": "Golden Dragon Chinese Restaurant",
+    "address": "1597 Washington Pike, Ste A8",
+    "city": "Bridgeville",
+    "state": "PA",
+    "postal_code": "15017",
+    "latitude": 40.381816,
+    "longitude": -80.095633,
+    "stars": 2.5,
+    "review_count": 17,
+    "is_open": 1,
+    "attributes": {
+        "BikeParking": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "1",
+        "WiFi": "'no'",
+        "RestaurantsAttire": "'casual'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsReservations": "False",
+        "Alcohol": "'none'",
+        "HasTV": "True",
+        "GoodForKids": "True"
+    },
+    "categories": "Restaurants, Mexican, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "11:0-22:0"
+    }
+}

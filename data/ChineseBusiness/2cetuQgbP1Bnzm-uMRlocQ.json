@@ -1,0 +1,43 @@
+{
+    "business_id": "2cetuQgbP1Bnzm-uMRlocQ",
+    "name": "Nam's Noodle",
+    "address": "1336 Regent St",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53715",
+    "latitude": 43.0679775,
+    "longitude": -89.4084538,
+    "stars": 3.5,
+    "review_count": 113,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "True",
+        "Alcohol": "u'full_bar'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': True, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "True",
+        "RestaurantsPriceRange2": "2",
+        "WiFi": "u'free'",
+        "Caters": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "NoiseLevel": "u'average'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "OutdoorSeating": "False"
+    },
+    "categories": "Vietnamese, Chinese, Asian Fusion, Noodles, Restaurants, Nightlife, Karaoke, Bars",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:30"
+    }
+}

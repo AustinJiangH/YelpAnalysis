@@ -1,0 +1,39 @@
+{
+    "business_id": "r5qUfdiSL2_hHfdqXBJAMA",
+    "name": "Imperial Garden Chinese Restaurant",
+    "address": "4214 E Washington Ave",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53704",
+    "latitude": 43.1264618,
+    "longitude": -89.3115905,
+    "stars": 3.5,
+    "review_count": 30,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsDelivery": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsReservations": "True",
+        "HasTV": "False",
+        "NoiseLevel": "u'average'"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "16:0-21:30",
+        "Tuesday": "16:0-21:30",
+        "Wednesday": "16:0-21:30",
+        "Thursday": "16:0-21:30",
+        "Friday": "16:0-22:30",
+        "Saturday": "11:30-22:30",
+        "Sunday": "11:30-21:0"
+    }
+}

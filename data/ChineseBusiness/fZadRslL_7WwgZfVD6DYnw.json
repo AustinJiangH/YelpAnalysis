@@ -1,0 +1,41 @@
+{
+    "business_id": "fZadRslL_7WwgZfVD6DYnw",
+    "name": "Kar Hing",
+    "address": "211 North Ave",
+    "city": "East Pittsburgh",
+    "state": "PA",
+    "postal_code": "15112",
+    "latitude": 40.4083938599,
+    "longitude": -79.8406982422,
+    "stars": 4.0,
+    "review_count": 15,
+    "is_open": 0,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Alcohol": "u'beer_and_wine'",
+        "WiFi": "u'no'",
+        "HasTV": "True",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "False",
+        "NoiseLevel": "u'quiet'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessAcceptsCreditCards": "False",
+        "RestaurantsGoodForGroups": "True",
+        "Caters": "False",
+        "BikeParking": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:30-21:0",
+        "Tuesday": "11:30-21:0",
+        "Wednesday": "11:30-21:0",
+        "Thursday": "11:30-21:0",
+        "Friday": "11:30-22:0",
+        "Saturday": "12:0-22:0"
+    }
+}

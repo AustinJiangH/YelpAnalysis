@@ -1,0 +1,31 @@
+{
+    "business_id": "SJ08uawNJuzBOUPoLRVs3g",
+    "name": "China Star",
+    "address": "20166 Van Aken Blvd",
+    "city": "Shaker Heights",
+    "state": "OH",
+    "postal_code": "44122",
+    "latitude": 41.4650233,
+    "longitude": -81.5381327,
+    "stars": 3.0,
+    "review_count": 9,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsReservations": "False",
+        "HasTV": "True",
+        "GoodForKids": "True",
+        "BikeParking": "True",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "WiFi": "u'no'",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

@@ -1,0 +1,23 @@
+{
+    "business_id": "uNMQV-r1nO5dfGSGnVTFUA",
+    "name": "No 1 China House",
+    "address": "823 E Warrington Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15210",
+    "latitude": 40.4218885,
+    "longitude": -79.992839,
+    "stars": 3.0,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "u'no'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

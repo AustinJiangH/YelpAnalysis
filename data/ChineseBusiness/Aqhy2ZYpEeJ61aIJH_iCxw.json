@@ -1,0 +1,41 @@
+{
+    "business_id": "Aqhy2ZYpEeJ61aIJH_iCxw",
+    "name": "East China",
+    "address": "5216 Broadview Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44134",
+    "latitude": 41.4186963,
+    "longitude": -81.6954544,
+    "stars": 2.5,
+    "review_count": 29,
+    "is_open": 1,
+    "attributes": {
+        "BikeParking": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "WiFi": "'no'",
+        "HasTV": "True",
+        "GoodForKids": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'average'",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:30",
+        "Tuesday": "10:30-22:30",
+        "Wednesday": "10:30-22:30",
+        "Thursday": "10:30-22:30",
+        "Friday": "10:30-23:30",
+        "Saturday": "10:30-23:30",
+        "Sunday": "12:0-22:0"
+    }
+}

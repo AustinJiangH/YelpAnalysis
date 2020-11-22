@@ -1,0 +1,20 @@
+{
+    "business_id": "EEAtafGPtPhwERoM3onXuw",
+    "name": "Panda Chinese Kitchen",
+    "address": "590 W Pike St",
+    "city": "Canonsburg",
+    "state": "PA",
+    "postal_code": "15317",
+    "latitude": 40.2581081,
+    "longitude": -80.203501,
+    "stars": 2.5,
+    "review_count": 3,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

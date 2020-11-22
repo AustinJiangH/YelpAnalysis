@@ -1,0 +1,40 @@
+{
+    "business_id": "m5MaRXA1rNX1n1Kbr8-Sog",
+    "name": "How Lee",
+    "address": "1621 S Braddock Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15218",
+    "latitude": 40.4270707,
+    "longitude": -79.8905657,
+    "stars": 2.0,
+    "review_count": 5,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsGoodForGroups": "False",
+        "WiFi": "u'no'",
+        "HasTV": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False",
+        "GoodForKids": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsReservations": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "1",
+        "OutdoorSeating": "False",
+        "BikeParking": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}"
+    },
+    "categories": "Chinese, Food, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-21:0"
+    }
+}

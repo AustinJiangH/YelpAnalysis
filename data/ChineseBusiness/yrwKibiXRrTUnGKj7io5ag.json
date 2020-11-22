@@ -1,0 +1,42 @@
+{
+    "business_id": "yrwKibiXRrTUnGKj7io5ag",
+    "name": "Hong Kong King Buffet",
+    "address": "7325 NorthCliff Ave",
+    "city": "Brooklyn",
+    "state": "OH",
+    "postal_code": "44144",
+    "latitude": 41.424721,
+    "longitude": -81.736211,
+    "stars": 2.5,
+    "review_count": 18,
+    "is_open": 0,
+    "attributes": {
+        "Caters": "False",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': True, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BikeParking": "False",
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsAttire": "'casual'",
+        "HasTV": "False",
+        "WiFi": "u'no'",
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "NoiseLevel": "u'average'",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Buffets, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "11:0-22:0"
+    }
+}

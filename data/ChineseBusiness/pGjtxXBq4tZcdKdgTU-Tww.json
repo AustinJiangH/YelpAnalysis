@@ -1,0 +1,43 @@
+{
+    "business_id": "pGjtxXBq4tZcdKdgTU-Tww",
+    "name": "Little Hong Kong",
+    "address": "18332 Bagley Rd",
+    "city": "Middleburg Heights",
+    "state": "OH",
+    "postal_code": "44130",
+    "latitude": 41.3732701,
+    "longitude": -81.8296017,
+    "stars": 4.5,
+    "review_count": 69,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "'casual'",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "WiFi": "'no'",
+        "BikeParking": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "True",
+        "RestaurantsDelivery": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTableService": "True",
+        "Alcohol": "'none'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': None, 'divey': False, 'intimate': True, 'trendy': None, 'upscale': None, 'classy': None, 'casual': True}",
+        "Caters": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForMeal": "{'dessert': None, 'latenight': None, 'lunch': True, 'dinner': True, 'brunch': None, 'breakfast': None}",
+        "NoiseLevel": "'quiet'",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30"
+    }
+}

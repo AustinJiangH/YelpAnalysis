@@ -1,0 +1,42 @@
+{
+    "business_id": "bLh4ysq5RsbzCNSjqHhwyw",
+    "name": "Hong Kong Cafe",
+    "address": "2 S Mills St",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53715",
+    "latitude": 43.0675283,
+    "longitude": -89.4043358,
+    "stars": 3.0,
+    "review_count": 74,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsAttire": "'casual'",
+        "BYOBCorkage": "'no'",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "RestaurantsPriceRange2": "2",
+        "Alcohol": "u'full_bar'",
+        "OutdoorSeating": "False",
+        "HasTV": "True",
+        "RestaurantsDelivery": "True",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "NoiseLevel": "u'quiet'"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:0"
+    }
+}

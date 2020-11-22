@@ -1,0 +1,19 @@
+{
+    "business_id": "-Is6Ney1wmsJAjvDdkaaaQ",
+    "name": "New Lucky",
+    "address": "825 Wood St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15221",
+    "latitude": 40.4426682,
+    "longitude": -79.8856765,
+    "stars": 3.0,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

@@ -1,0 +1,41 @@
+{
+    "business_id": "rLJsrXyY61bouCfH58PKIA",
+    "name": "Asian House",
+    "address": "1 Dempsey Rd, Ste 3",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53714",
+    "latitude": 43.0979823,
+    "longitude": -89.3171363,
+    "stars": 3.0,
+    "review_count": 39,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "WiFi": "'no'",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "None",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsGoodForGroups": "False",
+        "NoiseLevel": "u'average'",
+        "Alcohol": "'none'",
+        "HasTV": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "OutdoorSeating": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:30",
+        "Saturday": "10:30-22:30",
+        "Sunday": "11:0-22:0"
+    }
+}

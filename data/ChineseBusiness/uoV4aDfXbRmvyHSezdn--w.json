@@ -1,0 +1,42 @@
+{
+    "business_id": "uoV4aDfXbRmvyHSezdn--w",
+    "name": "Tai's Asian Bistro",
+    "address": "638 S Whitney Way",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53719",
+    "latitude": 43.051829081,
+    "longitude": -89.4757021905,
+    "stars": 3.5,
+    "review_count": 95,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "NoiseLevel": "u'average'",
+        "WiFi": "u'no'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "HasTV": "True",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'beer_and_wine'",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Caters": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Chinese, Asian Fusion, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "12:0-21:0"
+    }
+}

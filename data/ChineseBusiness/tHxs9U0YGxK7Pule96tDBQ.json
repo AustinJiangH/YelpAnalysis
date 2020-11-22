@@ -1,0 +1,33 @@
+{
+    "business_id": "tHxs9U0YGxK7Pule96tDBQ",
+    "name": "Asia Court",
+    "address": "26625 Brookpark Road Ext.",
+    "city": "North Olmsted",
+    "state": "OH",
+    "postal_code": "44070",
+    "latitude": 41.4156025,
+    "longitude": -81.9234726,
+    "stars": 3.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Vietnamese, Thai, Chinese, Sushi Bars, Restaurants, Food",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:30-22:0",
+        "Sunday": "14:30-21:0"
+    }
+}

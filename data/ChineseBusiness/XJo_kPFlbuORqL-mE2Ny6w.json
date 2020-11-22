@@ -1,0 +1,43 @@
+{
+    "business_id": "XJo_kPFlbuORqL-mE2Ny6w",
+    "name": "Stir Crazy Fresh Asian Grill",
+    "address": "25385 Cedar Rd",
+    "city": "Lyndhurst",
+    "state": "OH",
+    "postal_code": "44122",
+    "latitude": 41.5031439,
+    "longitude": -81.5015117,
+    "stars": 3.0,
+    "review_count": 101,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "True",
+        "RestaurantsPriceRange2": "2",
+        "WiFi": "u'free'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Caters": "False",
+        "RestaurantsDelivery": "False",
+        "NoiseLevel": "u'average'",
+        "OutdoorSeating": "True",
+        "BikeParking": "True",
+        "RestaurantsTakeOut": "True",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "Alcohol": "u'full_bar'"
+    },
+    "categories": "Asian Fusion, Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "11:0-21:0"
+    }
+}

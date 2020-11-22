@@ -1,0 +1,36 @@
+{
+    "business_id": "dRT7tLyakasIjJ4B0Fm92Q",
+    "name": "Dean's House",
+    "address": "14393 Pearl Rd",
+    "city": "Strongsville",
+    "state": "OH",
+    "postal_code": "44136",
+    "latitude": 41.309764,
+    "longitude": -81.834169,
+    "stars": 3.0,
+    "review_count": 34,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "'no'",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsDelivery": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "False",
+        "Alcohol": "u'none'",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-21:30"
+    }
+}

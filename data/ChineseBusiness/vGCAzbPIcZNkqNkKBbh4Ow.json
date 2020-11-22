@@ -1,0 +1,38 @@
+{
+    "business_id": "vGCAzbPIcZNkqNkKBbh4Ow",
+    "name": "Dragon Town",
+    "address": "503 Lincoln Ave",
+    "city": "Bellevue",
+    "state": "PA",
+    "postal_code": "15202",
+    "latitude": 40.4954484,
+    "longitude": -80.0558941,
+    "stars": 3.0,
+    "review_count": 34,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "Caters": "True",
+        "WheelchairAccessible": "True",
+        "HasTV": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsTableService": "True",
+        "RestaurantsReservations": "True",
+        "DogsAllowed": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "u'free'",
+        "Alcohol": "u'none'",
+        "HappyHour": "False"
+    },
+    "categories": "Chinese, Thai, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "12:0-22:0"
+    }
+}

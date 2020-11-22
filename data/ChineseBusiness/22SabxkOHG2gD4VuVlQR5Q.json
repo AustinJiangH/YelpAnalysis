@@ -1,0 +1,31 @@
+{
+    "business_id": "22SabxkOHG2gD4VuVlQR5Q",
+    "name": "China Star",
+    "address": "515 Junction Rd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53717",
+    "latitude": 43.0714257,
+    "longitude": -89.5248896,
+    "stars": 2.5,
+    "review_count": 6,
+    "is_open": 0,
+    "attributes": {
+        "NoiseLevel": "u'quiet'",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "WiFi": "u'no'",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "2",
+        "OutdoorSeating": "True",
+        "RestaurantsDelivery": "True",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "HasTV": "False",
+        "Alcohol": "u'beer_and_wine'"
+    },
+    "categories": "Restaurants, Chinese, Japanese",
+    "hours": null
+}

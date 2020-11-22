@@ -1,0 +1,38 @@
+{
+    "business_id": "GfYzz2Dnnn0CqeDqROAKTQ",
+    "name": "China Inn",
+    "address": "4702 Cottage Grove Rd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53716",
+    "latitude": 43.0845532,
+    "longitude": -89.3010694,
+    "stars": 2.5,
+    "review_count": 23,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "HasTV": "True",
+        "BikeParking": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:30",
+        "Saturday": "10:30-22:30",
+        "Sunday": "11:0-22:0"
+    }
+}

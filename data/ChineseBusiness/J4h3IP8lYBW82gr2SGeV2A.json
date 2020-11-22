@@ -1,0 +1,21 @@
+{
+    "business_id": "J4h3IP8lYBW82gr2SGeV2A",
+    "name": "Manchu Wok",
+    "address": "5300 Riverside Dr",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44135",
+    "latitude": 41.4106123,
+    "longitude": -81.838659,
+    "stars": 2.0,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "WiFi": "u'no'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

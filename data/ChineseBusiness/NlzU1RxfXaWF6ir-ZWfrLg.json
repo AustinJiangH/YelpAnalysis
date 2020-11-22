@@ -1,0 +1,42 @@
+{
+    "business_id": "NlzU1RxfXaWF6ir-ZWfrLg",
+    "name": "Madison Cuisine",
+    "address": "785 University Ave",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53715",
+    "latitude": 43.0730348,
+    "longitude": -89.398342,
+    "stars": 3.0,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "HasTV": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "OutdoorSeating": "False",
+        "WiFi": "u'free'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "True",
+        "RestaurantsDelivery": "False",
+        "BusinessAcceptsBitcoin": "False",
+        "WheelchairAccessible": "False",
+        "RestaurantsTableService": "False",
+        "Caters": "False",
+        "DogsAllowed": "False",
+        "GoodForKids": "False",
+        "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Asian Fusion, Sushi Bars, Japanese, Burgers, Fast Food, Restaurants, American (Traditional), Chinese",
+    "hours": {
+        "Monday": "10:0-22:0",
+        "Tuesday": "10:0-22:0",
+        "Wednesday": "10:0-22:0",
+        "Thursday": "10:0-22:0",
+        "Friday": "10:0-22:0",
+        "Saturday": "10:0-22:0",
+        "Sunday": "10:0-22:0"
+    }
+}

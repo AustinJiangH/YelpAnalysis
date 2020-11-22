@@ -1,0 +1,38 @@
+{
+    "business_id": "6T6EpsPG7SXZ0qDUvp34wg",
+    "name": "Dynasty Chinese Restaurant",
+    "address": "2705 W Beltline Hwy",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53713",
+    "latitude": 43.0344752,
+    "longitude": -89.4235646,
+    "stars": 3.5,
+    "review_count": 48,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "BikeParking": "None",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsTableService": "None",
+        "WheelchairAccessible": "None",
+        "Alcohol": "None",
+        "RestaurantsReservations": "True",
+        "WiFi": "u'free'",
+        "HasTV": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

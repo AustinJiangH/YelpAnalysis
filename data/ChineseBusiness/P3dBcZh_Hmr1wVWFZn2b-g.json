@@ -1,0 +1,42 @@
+{
+    "business_id": "P3dBcZh_Hmr1wVWFZn2b-g",
+    "name": "Hunan Chinese Restaurant",
+    "address": "1136 E Thorn Run Rd",
+    "city": "Coraopolis",
+    "state": "PA",
+    "postal_code": "15108",
+    "latitude": 40.505778,
+    "longitude": -80.2095604,
+    "stars": 3.5,
+    "review_count": 31,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "WiFi": "u'no'",
+        "Alcohol": "u'none'",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'quiet'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsTableService": "True",
+        "RestaurantsReservations": "False",
+        "HasTV": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:0",
+        "Saturday": "12:0-21:0"
+    }
+}

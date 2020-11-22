@@ -1,0 +1,41 @@
+{
+    "business_id": "QIgeUHHn2hrrdEBBm1wFvA",
+    "name": "Taste of Sichuan",
+    "address": "515 State St",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53703",
+    "latitude": 43.0747501,
+    "longitude": -89.3942144,
+    "stars": 4.0,
+    "review_count": 22,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "True",
+        "WheelchairAccessible": "True",
+        "HappyHour": "False",
+        "OutdoorSeating": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True",
+        "RestaurantsReservations": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': True, 'lot': False, 'valet': False}",
+        "WiFi": "u'free'",
+        "Caters": "True",
+        "RestaurantsTableService": "True",
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-22:0"
+    }
+}

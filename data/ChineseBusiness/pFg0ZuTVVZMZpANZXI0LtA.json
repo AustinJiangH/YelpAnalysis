@@ -1,0 +1,43 @@
+{
+    "business_id": "pFg0ZuTVVZMZpANZXI0LtA",
+    "name": "Golden Sea",
+    "address": "2736 N Ridge Rd",
+    "city": "Painesville",
+    "state": "OH",
+    "postal_code": "44077",
+    "latitude": 41.764242,
+    "longitude": -81.181496,
+    "stars": 3.0,
+    "review_count": 17,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'average'",
+        "Caters": "True",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsDelivery": "False",
+        "BikeParking": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsGoodForGroups": "True",
+        "WiFi": "'no'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "GoodForKids": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "HasTV": "True"
+    },
+    "categories": "Vietnamese, Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-21:0",
+        "Tuesday": "10:30-21:0",
+        "Wednesday": "10:30-21:0",
+        "Thursday": "10:30-21:0",
+        "Friday": "10:30-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "11:0-20:30"
+    }
+}

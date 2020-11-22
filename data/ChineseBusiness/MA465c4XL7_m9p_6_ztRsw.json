@@ -1,0 +1,43 @@
+{
+    "business_id": "MA465c4XL7_m9p_6_ztRsw",
+    "name": "Me Lyng Restaurant",
+    "address": "213 W 8th Ave",
+    "city": "West Homestead",
+    "state": "PA",
+    "postal_code": "15120",
+    "latitude": 40.405053,
+    "longitude": -79.913952,
+    "stars": 3.5,
+    "review_count": 57,
+    "is_open": 1,
+    "attributes": {
+        "WiFi": "u'free'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "True",
+        "NoiseLevel": "u'average'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "BikeParking": "True",
+        "RestaurantsPriceRange2": "2",
+        "HasTV": "False",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "GoodForKids": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "Caters": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Vietnamese, Chinese, Restaurants",
+    "hours": {
+        "Monday": "16:0-21:0",
+        "Tuesday": "16:0-21:0",
+        "Wednesday": "16:0-21:0",
+        "Thursday": "16:0-21:0",
+        "Friday": "16:0-22:0",
+        "Saturday": "15:30-22:0",
+        "Sunday": "15:30-21:0"
+    }
+}

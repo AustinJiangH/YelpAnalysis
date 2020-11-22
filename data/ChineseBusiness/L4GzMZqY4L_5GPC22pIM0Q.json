@@ -1,0 +1,24 @@
+{
+    "business_id": "L4GzMZqY4L_5GPC22pIM0Q",
+    "name": "China Buffet",
+    "address": "5983 Andrews Rd",
+    "city": "Mentor-on-the-Lake",
+    "state": "OH",
+    "postal_code": "44060",
+    "latitude": 41.7070464,
+    "longitude": -81.3612934,
+    "stars": 3.0,
+    "review_count": 7,
+    "is_open": 0,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "2",
+        "GoodForKids": "False",
+        "Caters": "False"
+    },
+    "categories": "Food, Chinese, Restaurants",
+    "hours": null
+}

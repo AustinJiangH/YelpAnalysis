@@ -1,0 +1,32 @@
+{
+    "business_id": "4wzfwVrijdT--mWTESjw9g",
+    "name": "China King",
+    "address": "205 W Warren St",
+    "city": "Saint Joseph",
+    "state": "IL",
+    "postal_code": "61873",
+    "latitude": 40.1129997,
+    "longitude": -88.0422169,
+    "stars": 4.0,
+    "review_count": 13,
+    "is_open": 1,
+    "attributes": {
+        "Caters": "False",
+        "NoiseLevel": "u'quiet'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "BikeParking": "True",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False",
+        "Ambience": "None",
+        "Alcohol": "u'none'",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "WiFi": "'no'",
+        "OutdoorSeating": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

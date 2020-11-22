@@ -1,0 +1,37 @@
+{
+    "business_id": "rcnjeruxT_-zThMekbMUbA",
+    "name": "Panda Express",
+    "address": "2855 State Road",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "postal_code": "44223",
+    "latitude": 41.149599,
+    "longitude": -81.5079981,
+    "stars": 2.5,
+    "review_count": 34,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "'casual'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "OutdoorSeating": "False",
+        "HasTV": "True"
+    },
+    "categories": "Fast Food, Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:30",
+        "Saturday": "10:30-22:30",
+        "Sunday": "11:0-21:30"
+    }
+}

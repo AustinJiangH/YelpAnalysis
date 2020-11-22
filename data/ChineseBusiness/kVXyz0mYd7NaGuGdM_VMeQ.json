@@ -1,0 +1,43 @@
+{
+    "business_id": "kVXyz0mYd7NaGuGdM_VMeQ",
+    "name": "Asian Sweet Bakery",
+    "address": "1017 S Park St",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53715",
+    "latitude": 43.0560299,
+    "longitude": -89.3976643,
+    "stars": 4.5,
+    "review_count": 100,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "'casual'",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "'quiet'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': True, 'breakfast': True}",
+        "GoodForKids": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "BikeParking": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTableService": "False",
+        "RestaurantsDelivery": "False",
+        "Alcohol": "u'none'",
+        "WiFi": "'no'",
+        "Caters": "False",
+        "RestaurantsGoodForGroups": "False",
+        "HasTV": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Chinese, Food, Restaurants, Bakeries",
+    "hours": {
+        "Tuesday": "9:0-19:0",
+        "Wednesday": "9:0-19:0",
+        "Thursday": "9:0-19:0",
+        "Friday": "9:0-19:0",
+        "Saturday": "9:0-19:0",
+        "Sunday": "9:0-19:0"
+    }
+}

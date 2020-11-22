@@ -1,0 +1,43 @@
+{
+    "business_id": "GDpd9KZdUgnjcoCWTTphqw",
+    "name": "Szechuan Gourmet",
+    "address": "1735 E 36th St",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44114",
+    "latitude": 41.508505,
+    "longitude": -81.663319,
+    "stars": 4.5,
+    "review_count": 214,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsPriceRange2": "2",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "u'no'",
+        "BikeParking": "True",
+        "RestaurantsDelivery": "False",
+        "NoiseLevel": "u'average'",
+        "RestaurantsReservations": "True",
+        "Caters": "False",
+        "Alcohol": "u'beer_and_wine'",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "OutdoorSeating": "False",
+        "HasTV": "False"
+    },
+    "categories": "Szechuan, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

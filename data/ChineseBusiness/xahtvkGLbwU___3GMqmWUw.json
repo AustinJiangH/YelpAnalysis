@@ -1,0 +1,32 @@
+{
+    "business_id": "xahtvkGLbwU___3GMqmWUw",
+    "name": "Hunan Lake Chinese Restaurant",
+    "address": "7357 Lake Shore Blvd",
+    "city": "Mentor",
+    "state": "OH",
+    "postal_code": "44060",
+    "latitude": 41.7012517,
+    "longitude": -81.3769597,
+    "stars": 3.5,
+    "review_count": 12,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsPriceRange2": "2",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "16:0-21:0",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:0",
+        "Saturday": "11:30-22:0",
+        "Sunday": "16:0-21:0"
+    }
+}

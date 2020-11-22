@@ -1,0 +1,42 @@
+{
+    "business_id": "i4CF-bIEfNeYoQ87klS78Q",
+    "name": "Benichopsticks Restaurant",
+    "address": "1025 Waterdam Plz, Unit D",
+    "city": "Canonsburg",
+    "state": "PA",
+    "postal_code": "15317",
+    "latitude": 40.262821,
+    "longitude": -80.133828,
+    "stars": 3.5,
+    "review_count": 54,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "'beer_and_wine'",
+        "RestaurantsAttire": "u'casual'",
+        "BikeParking": "False",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "2",
+        "WiFi": "'no'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Chinese, Restaurants, Japanese",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "12:0-21:0"
+    }
+}

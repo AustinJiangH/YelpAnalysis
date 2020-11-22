@@ -1,0 +1,42 @@
+{
+    "business_id": "XhMfL-6lt-prYyC9Lp02gg",
+    "name": "Best Wok Chinese",
+    "address": "7671 W Ridgewood Dr",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44129",
+    "latitude": 41.383402,
+    "longitude": -81.737832,
+    "stars": 4.0,
+    "review_count": 26,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsGoodForGroups": "False",
+        "GoodForKids": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BikeParking": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "NoiseLevel": "u'quiet'",
+        "WiFi": "u'no'",
+        "Caters": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:30-22:0"
+    }
+}

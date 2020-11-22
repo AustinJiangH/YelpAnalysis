@@ -1,0 +1,30 @@
+{
+    "business_id": "pA3ltu4j31uatVu0_Gu1PQ",
+    "name": "Crazy Buffet",
+    "address": "702 W Town Ctr Blvd",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.1431418,
+    "longitude": -88.2547899,
+    "stars": 4.0,
+    "review_count": 5,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "'casual'"
+    },
+    "categories": "Buffets, Restaurants, Chinese, Sushi Bars",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "11:0-22:0"
+    }
+}

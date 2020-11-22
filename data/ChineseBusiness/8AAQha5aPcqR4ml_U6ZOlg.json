@@ -1,0 +1,38 @@
+{
+    "business_id": "8AAQha5aPcqR4ml_U6ZOlg",
+    "name": "China Star",
+    "address": "1308 Copley Rd",
+    "city": "Akron",
+    "state": "OH",
+    "postal_code": "44320",
+    "latitude": 41.0841653,
+    "longitude": -81.5690901,
+    "stars": 2.5,
+    "review_count": 6,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsPriceRange2": "2",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "WiFi": "'free'",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-23:0",
+        "Tuesday": "11:0-23:0",
+        "Wednesday": "11:0-23:0",
+        "Thursday": "11:0-23:0",
+        "Friday": "11:0-0:0",
+        "Saturday": "11:0-0:0",
+        "Sunday": "12:0-23:0"
+    }
+}

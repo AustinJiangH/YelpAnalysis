@@ -1,0 +1,38 @@
+{
+    "business_id": "J71s0xScHVbOuFUfsAXtmQ",
+    "name": "Uncle Chen",
+    "address": "503 Lincoln Ave",
+    "city": "Bellevue",
+    "state": "PA",
+    "postal_code": "15202",
+    "latitude": 40.4954484,
+    "longitude": -80.0558941,
+    "stars": 3.0,
+    "review_count": 9,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "HasTV": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "True",
+        "RestaurantsAttire": "'casual'",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "'quiet'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "12:0-22:0",
+        "Sunday": "12:0-21:0"
+    }
+}

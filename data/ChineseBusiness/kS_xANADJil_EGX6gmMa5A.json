@@ -1,0 +1,27 @@
+{
+    "business_id": "kS_xANADJil_EGX6gmMa5A",
+    "name": "China City",
+    "address": "4225 Fulton Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44144",
+    "latitude": 41.4415234,
+    "longitude": -81.7227367,
+    "stars": 3.0,
+    "review_count": 13,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsAttire": "'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "True",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Ethnic Food, Restaurants, Asian Fusion, Specialty Food, Chinese, Szechuan, Food",
+    "hours": null
+}

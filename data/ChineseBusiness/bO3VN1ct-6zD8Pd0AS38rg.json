@@ -1,0 +1,41 @@
+{
+    "business_id": "bO3VN1ct-6zD8Pd0AS38rg",
+    "name": "Wai Wai Buffet & Grill",
+    "address": "113 Cavasina Dr, Ste 8",
+    "city": "Canonsburg",
+    "state": "PA",
+    "postal_code": "15317",
+    "latitude": 40.2634203,
+    "longitude": -80.1738365,
+    "stars": 2.0,
+    "review_count": 24,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "False",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsAttire": "u'casual'",
+        "BikeParking": "False",
+        "Caters": "False",
+        "NoiseLevel": "u'very_loud'",
+        "WiFi": "u'no'",
+        "Alcohol": "u'none'",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Buffets, Chinese",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30"
+    }
+}

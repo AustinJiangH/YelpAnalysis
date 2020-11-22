@@ -1,0 +1,41 @@
+{
+    "business_id": "bFBV-rYwr6qKT7u0ovZhQg",
+    "name": "Noodles & Company",
+    "address": "10638 Perry Hwy",
+    "city": "Wexford",
+    "state": "PA",
+    "postal_code": "15090",
+    "latitude": 40.6131682,
+    "longitude": -80.0541681,
+    "stars": 3.5,
+    "review_count": 17,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "True",
+        "Caters": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "Alcohol": "'none'",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'average'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "True",
+        "HasTV": "False",
+        "BikeParking": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}"
+    },
+    "categories": "American (New), Comfort Food, Italian, Asian Fusion, Mediterranean, Noodles, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:0"
+    }
+}

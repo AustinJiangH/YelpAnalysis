@@ -1,0 +1,43 @@
+{
+    "business_id": "GeeR1ScER2WpFoJs1sTjsA",
+    "name": "Panda Express",
+    "address": "1401 Center Rd",
+    "city": "Avon",
+    "state": "OH",
+    "postal_code": "44011",
+    "latitude": 41.4691486288,
+    "longitude": -82.0192191362,
+    "stars": 2.5,
+    "review_count": 50,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "DriveThru": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False",
+        "NoiseLevel": "u'average'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForKids": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsPriceRange2": "1",
+        "HasTV": "True",
+        "Alcohol": "'none'",
+        "BikeParking": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTableService": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "OutdoorSeating": "True",
+        "RestaurantsAttire": "'casual'"
+    },
+    "categories": "Fast Food, Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "11:0-21:30"
+    }
+}

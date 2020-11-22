@@ -1,0 +1,19 @@
+{
+    "business_id": "HHGuAjkU9gQyxpwTZAJ_aQ",
+    "name": "China King",
+    "address": "Monroeville Mall",
+    "city": "Monroeville",
+    "state": "PA",
+    "postal_code": "15146",
+    "latitude": 40.429137,
+    "longitude": -79.796003,
+    "stars": 3.5,
+    "review_count": 3,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

@@ -1,0 +1,31 @@
+{
+    "business_id": "m5t6Ork5uMHRvIlCmP6ULQ",
+    "name": "China Chef",
+    "address": "6328 Pearl Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44130",
+    "latitude": 41.3887888,
+    "longitude": -81.7646407,
+    "stars": 3.0,
+    "review_count": 16,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "True",
+        "BikeParking": "False",
+        "WiFi": "'no'",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "'casual'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

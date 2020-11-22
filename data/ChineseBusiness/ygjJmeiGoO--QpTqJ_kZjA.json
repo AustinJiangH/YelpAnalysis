@@ -1,0 +1,43 @@
+{
+    "business_id": "ygjJmeiGoO--QpTqJ_kZjA",
+    "name": "Flat Top Grill",
+    "address": "Hilldale Shopping Center, 538 N Midvale Blvd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53705",
+    "latitude": 43.0714684364,
+    "longitude": -89.4523766041,
+    "stars": 3.0,
+    "review_count": 100,
+    "is_open": 0,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "BikeParking": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BYOBCorkage": "'no'",
+        "RestaurantsPriceRange2": "2",
+        "BusinessParking": "{'garage': True, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "True",
+        "Caters": "False",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'average'",
+        "HasTV": "True",
+        "Alcohol": "u'full_bar'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "WiFi": "u'no'",
+        "RestaurantsDelivery": "False"
+    },
+    "categories": "Chinese, Vegetarian, Do-It-Yourself Food, Asian Fusion, Restaurants, Vegan, Thai, Food, Gluten-Free",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:0"
+    }
+}

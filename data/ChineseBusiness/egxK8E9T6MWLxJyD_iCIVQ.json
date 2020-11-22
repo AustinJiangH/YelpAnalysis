@@ -1,0 +1,43 @@
+{
+    "business_id": "egxK8E9T6MWLxJyD_iCIVQ",
+    "name": "China Palace",
+    "address": "409 Broad St",
+    "city": "Sewickley",
+    "state": "PA",
+    "postal_code": "15143",
+    "latitude": 40.5398354576,
+    "longitude": -80.1812363073,
+    "stars": 3.0,
+    "review_count": 49,
+    "is_open": 1,
+    "attributes": {
+        "BikeParking": "True",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "True",
+        "RestaurantsReservations": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "WiFi": "'free'",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "'average'",
+        "Caters": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': False}",
+        "RestaurantsDelivery": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Sushi Bars, Chinese, Restaurants, Asian Fusion",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-21:30"
+    }
+}

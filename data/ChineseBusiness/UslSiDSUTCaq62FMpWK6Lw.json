@@ -1,0 +1,33 @@
+{
+    "business_id": "UslSiDSUTCaq62FMpWK6Lw",
+    "name": "China Max",
+    "address": "1000 Ross Park Mall Dr",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15237",
+    "latitude": 40.5428252,
+    "longitude": -80.0075487,
+    "stars": 2.5,
+    "review_count": 9,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'average'",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Alcohol": "u'none'",
+        "Caters": "False",
+        "BikeParking": "False",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Food, Chinese",
+    "hours": null
+}

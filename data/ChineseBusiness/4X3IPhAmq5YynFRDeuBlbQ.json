@@ -1,0 +1,41 @@
+{
+    "business_id": "4X3IPhAmq5YynFRDeuBlbQ",
+    "name": "Sunrise Kitchen",
+    "address": "3515 Hudson Dr, Ste 700",
+    "city": "Stow",
+    "state": "OH",
+    "postal_code": "44224",
+    "latitude": 41.165096283,
+    "longitude": -81.4758834839,
+    "stars": 3.0,
+    "review_count": 23,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "WiFi": "u'no'",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "False",
+        "GoodForKids": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "True",
+        "BikeParking": "False",
+        "HasTV": "True",
+        "Alcohol": "u'none'"
+    },
+    "categories": "Seafood, Vegetarian, Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-23:0",
+        "Saturday": "10:30-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

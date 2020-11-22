@@ -1,0 +1,43 @@
+{
+    "business_id": "QI0PGXbGkIdInOOBeq6ieQ",
+    "name": "TJ Buffet Sushi and Grill",
+    "address": "4801 McKnight Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15237",
+    "latitude": 40.5226505128,
+    "longitude": -80.0064798072,
+    "stars": 3.0,
+    "review_count": 37,
+    "is_open": 0,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "BikeParking": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsAttire": "'casual'",
+        "HasTV": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTableService": "False",
+        "GoodForKids": "True",
+        "Alcohol": "'full_bar'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'quiet'",
+        "WiFi": "'no'"
+    },
+    "categories": "Chinese, Japanese, Restaurants, Sushi Bars, Buffets",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:0"
+    }
+}

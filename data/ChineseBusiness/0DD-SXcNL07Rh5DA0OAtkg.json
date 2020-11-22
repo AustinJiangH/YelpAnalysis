@@ -1,0 +1,43 @@
+{
+    "business_id": "0DD-SXcNL07Rh5DA0OAtkg",
+    "name": "Tj Buffet Sushi & Grill",
+    "address": "5866 Mayfield Rd",
+    "city": "Mayfield Heights",
+    "state": "OH",
+    "postal_code": "44124",
+    "latitude": 41.5195502972,
+    "longitude": -81.46807082,
+    "stars": 2.5,
+    "review_count": 39,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "'casual'",
+        "NoiseLevel": "u'loud'",
+        "RestaurantsTakeOut": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTableService": "True",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "1",
+        "Caters": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "Alcohol": "u'none'",
+        "OutdoorSeating": "False",
+        "HasTV": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BikeParking": "True"
+    },
+    "categories": "Sushi Bars, Restaurants, Buffets, Chinese",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:30"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "business_id": "jwuR0AGCw_BaM8uEkKyVEw",
+    "name": "Main Moon",
+    "address": "4850 Larson Beach Rd",
+    "city": "Mc Farland",
+    "state": "WI",
+    "postal_code": "53558",
+    "latitude": 43.0183323893,
+    "longitude": -89.2990612503,
+    "stars": 3.0,
+    "review_count": 15,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "WiFi": "u'no'",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsReservations": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'average'",
+        "Alcohol": "u'none'",
+        "Caters": "False",
+        "BikeParking": "True",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:30-21:30"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "business_id": "XaqWUocr0MlYVi5yusjk0Q",
+    "name": "China Wok",
+    "address": "29241 Center Ridge Rd",
+    "city": "Westlake",
+    "state": "OH",
+    "postal_code": "44145",
+    "latitude": 41.4328001,
+    "longitude": -81.9426767,
+    "stars": 2.5,
+    "review_count": 31,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsGoodForGroups": "False",
+        "WiFi": "'no'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "OutdoorSeating": "False",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

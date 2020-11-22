@@ -1,0 +1,31 @@
+{
+    "business_id": "B10A-q2fskHqLx5miQpmOw",
+    "name": "WFH Oriental Food Market",
+    "address": "2306 Penn Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15222",
+    "latitude": 40.4527925,
+    "longitude": -79.9811055,
+    "stars": 4.0,
+    "review_count": 9,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "False",
+        "BikeParking": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "Caters": "False",
+        "RestaurantsPriceRange2": "2",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Chinese, International Grocery, Grocery, Food, Restaurants, Korean, Asian Fusion",
+    "hours": {
+        "Monday": "9:0-18:30",
+        "Tuesday": "9:0-18:30",
+        "Wednesday": "9:0-18:30",
+        "Thursday": "9:0-18:30",
+        "Friday": "9:0-18:30",
+        "Saturday": "9:0-18:30",
+        "Sunday": "9:0-18:30"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "business_id": "XE97VxjZoRxV6IM05grY0g",
+    "name": "Sizzling Hut",
+    "address": "404 N Main St",
+    "city": "DeForest",
+    "state": "WI",
+    "postal_code": "53532",
+    "latitude": 43.2510066,
+    "longitude": -89.3439362,
+    "stars": 4.5,
+    "review_count": 31,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsPriceRange2": "2",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "WiFi": "'no'",
+        "HasTV": "True",
+        "BikeParking": "True",
+        "RestaurantsTableService": "True",
+        "Alcohol": "u'beer_and_wine'",
+        "OutdoorSeating": "False"
+    },
+    "categories": "Szechuan, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "16:0-21:0"
+    }
+}

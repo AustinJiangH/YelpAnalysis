@@ -1,0 +1,30 @@
+{
+    "business_id": "tVcnGCg8AICT_hoI-4gMsw",
+    "name": "Szechuan Garden",
+    "address": "6654 Mineral Point Rd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53705",
+    "latitude": 43.061601,
+    "longitude": -89.4965481,
+    "stars": 4.5,
+    "review_count": 21,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Soup, Chinese, Seafood, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-22:0"
+    }
+}

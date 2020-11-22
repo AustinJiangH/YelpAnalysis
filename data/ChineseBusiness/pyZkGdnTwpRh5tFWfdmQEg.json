@@ -1,0 +1,43 @@
+{
+    "business_id": "pyZkGdnTwpRh5tFWfdmQEg",
+    "name": "Chin's Asia Fresh",
+    "address": "8414 Old Sauk Rd",
+    "city": "Middleton",
+    "state": "WI",
+    "postal_code": "53562",
+    "latitude": 43.0753452677,
+    "longitude": -89.5284801808,
+    "stars": 3.0,
+    "review_count": 71,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "False",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "OutdoorSeating": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "RestaurantsGoodForGroups": "True",
+        "NoiseLevel": "u'average'",
+        "Alcohol": "u'none'",
+        "BikeParking": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTableService": "False",
+        "HasTV": "True",
+        "WiFi": "'no'"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:0",
+        "Saturday": "11:0-21:0",
+        "Sunday": "11:0-21:0"
+    }
+}

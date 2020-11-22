@@ -1,0 +1,19 @@
+{
+    "business_id": "GnOyx_42NpBALQxXmEMxuQ",
+    "name": "Stir Fry 88",
+    "address": "4954 Great Northern Blvd",
+    "city": "North Olmsted",
+    "state": "OH",
+    "postal_code": "44070",
+    "latitude": 41.417586,
+    "longitude": -81.906549,
+    "stars": 2.5,
+    "review_count": 5,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

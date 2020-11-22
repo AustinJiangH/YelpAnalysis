@@ -1,0 +1,27 @@
+{
+    "business_id": "PN6YCsAdFHcHST9vPaxIuw",
+    "name": "Liang's Hunan Restaurant",
+    "address": "957 Liberty Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15222",
+    "latitude": 40.4434132,
+    "longitude": -79.9961509,
+    "stars": 1.5,
+    "review_count": 7,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "True",
+        "NoiseLevel": "u'quiet'",
+        "Alcohol": "u'beer_and_wine'",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

@@ -1,0 +1,43 @@
+{
+    "business_id": "EHKzu5r2NEz5Zq2R84J4ow",
+    "name": "Taipei Tokyo",
+    "address": "304 Mall Blvd",
+    "city": "Monroeville",
+    "state": "PA",
+    "postal_code": "15146",
+    "latitude": 40.4342481,
+    "longitude": -79.7857618,
+    "stars": 4.0,
+    "review_count": 141,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "u'average'",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "False",
+        "GoodForKids": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsDelivery": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'full_bar'",
+        "HasTV": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "Caters": "False",
+        "WiFi": "u'no'",
+        "RestaurantsReservations": "True"
+    },
+    "categories": "Chinese, Japanese, Restaurants, Sushi Bars",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:0-21:0"
+    }
+}

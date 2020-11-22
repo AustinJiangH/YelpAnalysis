@@ -1,0 +1,27 @@
+{
+    "business_id": "rf8x3ZTUwzmRUyJgoIZllQ",
+    "name": "Spicy Tang",
+    "address": "611 E Green St",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.1101814367,
+    "longitude": -88.2296706364,
+    "stars": 3.0,
+    "review_count": 12,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsTableService": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "1",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "False",
+        "GoodForKids": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "'casual'"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

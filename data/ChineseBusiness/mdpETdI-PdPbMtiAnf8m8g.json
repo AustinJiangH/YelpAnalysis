@@ -1,0 +1,29 @@
+{
+    "business_id": "mdpETdI-PdPbMtiAnf8m8g",
+    "name": "Panda Express",
+    "address": "1028 Freeport Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15238",
+    "latitude": 40.48676,
+    "longitude": -79.8871478,
+    "stars": 1.5,
+    "review_count": 18,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Fast Food, Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-21:0",
+        "Tuesday": "10:30-21:0",
+        "Wednesday": "10:30-21:0",
+        "Thursday": "10:30-21:0",
+        "Friday": "10:30-21:30",
+        "Saturday": "10:30-21:30",
+        "Sunday": "11:0-21:0"
+    }
+}

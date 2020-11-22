@@ -1,0 +1,43 @@
+{
+    "business_id": "oQg9JbKz7T1Zmm6GW1plrQ",
+    "name": "House of Mei",
+    "address": "120 E Main St",
+    "city": "Sun Prairie",
+    "state": "WI",
+    "postal_code": "53590",
+    "latitude": 43.1835114,
+    "longitude": -89.2128523,
+    "stars": 4.0,
+    "review_count": 48,
+    "is_open": 0,
+    "attributes": {
+        "WiFi": "u'no'",
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsTableService": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BikeParking": "True",
+        "RestaurantsDelivery": "False",
+        "HasTV": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "Caters": "False",
+        "NoiseLevel": "u'quiet'"
+    },
+    "categories": "Chinese, Food, Restaurants, Food Delivery Services",
+    "hours": {
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:0"
+    }
+}

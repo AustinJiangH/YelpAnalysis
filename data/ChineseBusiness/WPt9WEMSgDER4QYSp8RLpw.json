@@ -1,0 +1,31 @@
+{
+    "business_id": "WPt9WEMSgDER4QYSp8RLpw",
+    "name": "China Dragon",
+    "address": "11680 Snow Rd",
+    "city": "Parma Heights",
+    "state": "OH",
+    "postal_code": "44130",
+    "latitude": 41.4053424,
+    "longitude": -81.7682081,
+    "stars": 4.0,
+    "review_count": 4,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "business_id": "ZU6pUJNBGXQZrWD9zEHtuQ",
+    "name": "Top China Buffet",
+    "address": "143 Hillcrest Shopping Ctr",
+    "city": "New Kensington",
+    "state": "PA",
+    "postal_code": "15068",
+    "latitude": 40.584178,
+    "longitude": -79.708713,
+    "stars": 3.0,
+    "review_count": 9,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsReservations": "True",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "False",
+        "RestaurantsPriceRange2": "2",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "NoiseLevel": "'quiet'",
+        "Alcohol": "'none'",
+        "BikeParking": "False",
+        "RestaurantsAttire": "'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "WiFi": "'no'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

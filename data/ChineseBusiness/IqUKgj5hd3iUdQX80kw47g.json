@@ -1,0 +1,25 @@
+{
+    "business_id": "IqUKgj5hd3iUdQX80kw47g",
+    "name": "Joe's Kitchen",
+    "address": "4602 Monona Dr",
+    "city": "Monona",
+    "state": "WI",
+    "postal_code": "53716",
+    "latitude": 43.070110321,
+    "longitude": -89.3255767822,
+    "stars": 5.0,
+    "review_count": 6,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Food, Restaurants, Chinese",
+    "hours": null
+}

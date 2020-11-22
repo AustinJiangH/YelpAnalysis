@@ -1,0 +1,42 @@
+{
+    "business_id": "HNW4P0jAhXYRJ_op7OcWCw",
+    "name": "Great China",
+    "address": "619 N Sherman Ave",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53704",
+    "latitude": 43.1077901,
+    "longitude": -89.3636289,
+    "stars": 2.5,
+    "review_count": 25,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsGoodForGroups": "False",
+        "BikeParking": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "WiFi": "u'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'average'",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-22:0"
+    }
+}

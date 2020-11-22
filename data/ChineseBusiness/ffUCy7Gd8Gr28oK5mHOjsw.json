@@ -1,0 +1,40 @@
+{
+    "business_id": "ffUCy7Gd8Gr28oK5mHOjsw",
+    "name": "Asia Express",
+    "address": "721 N High Point Rd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53717",
+    "latitude": 43.0755809,
+    "longitude": -89.518577,
+    "stars": 3.5,
+    "review_count": 10,
+    "is_open": 0,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "Caters": "True",
+        "GoodForKids": "True",
+        "WiFi": "u'no'",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "False",
+        "Alcohol": "u'none'",
+        "HasTV": "False",
+        "RestaurantsPriceRange2": "1",
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "16:30-21:0",
+        "Tuesday": "16:30-21:0",
+        "Wednesday": "16:30-21:0",
+        "Thursday": "16:30-21:0",
+        "Friday": "16:30-21:30",
+        "Saturday": "16:30-21:30"
+    }
+}

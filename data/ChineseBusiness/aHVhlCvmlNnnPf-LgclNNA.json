@@ -1,0 +1,41 @@
+{
+    "business_id": "aHVhlCvmlNnnPf-LgclNNA",
+    "name": "Sesame Inn Chinese Restaurant",
+    "address": "Station Square, 125 W Station Square Dr",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15219",
+    "latitude": 40.4313077145,
+    "longitude": -80.0019075326,
+    "stars": 3.0,
+    "review_count": 28,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "False",
+        "Alcohol": "u'full_bar'",
+        "GoodForKids": "True",
+        "HasTV": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "False",
+        "NoiseLevel": "u'quiet'",
+        "WiFi": "u'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "BusinessParking": "{'garage': True, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:30-22:0",
+        "Tuesday": "11:30-22:0",
+        "Wednesday": "11:30-22:0",
+        "Thursday": "11:30-22:0",
+        "Friday": "11:30-23:0",
+        "Saturday": "11:30-23:0",
+        "Sunday": "12:0-21:0"
+    }
+}

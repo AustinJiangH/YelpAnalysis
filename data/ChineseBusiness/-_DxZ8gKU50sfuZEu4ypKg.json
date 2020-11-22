@@ -1,0 +1,43 @@
+{
+    "business_id": "-_DxZ8gKU50sfuZEu4ypKg",
+    "name": "Saigon Restaurant and Bar",
+    "address": "2061 E 4th St",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44115",
+    "latitude": 41.498806,
+    "longitude": -81.68987,
+    "stars": 4.0,
+    "review_count": 220,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "2",
+        "OutdoorSeating": "True",
+        "Caters": "False",
+        "WiFi": "'free'",
+        "BikeParking": "True",
+        "GoodForKids": "False",
+        "HasTV": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "'casual'",
+        "NoiseLevel": "u'average'",
+        "Alcohol": "'full_bar'",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': True}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "HappyHour": "True"
+    },
+    "categories": "Chinese, Vietnamese, Thai, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "17:0-23:0"
+    }
+}

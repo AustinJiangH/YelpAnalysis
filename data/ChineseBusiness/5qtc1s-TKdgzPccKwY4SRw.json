@@ -1,0 +1,28 @@
+{
+    "business_id": "5qtc1s-TKdgzPccKwY4SRw",
+    "name": "Silk Pagoda Restaurant",
+    "address": "4070 Beechwood Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15217",
+    "latitude": 40.4274093,
+    "longitude": -79.9382045,
+    "stars": 3.0,
+    "review_count": 14,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "NoiseLevel": "u'loud'",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsDelivery": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

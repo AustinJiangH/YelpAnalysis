@@ -1,0 +1,26 @@
+{
+    "business_id": "zYb8dR4tsolqeJRj8x4tdw",
+    "name": "Dumpling Noodle BBQ",
+    "address": "715 S Neil St",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.1077197457,
+    "longitude": -88.2436650619,
+    "stars": 3.0,
+    "review_count": 20,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True"
+    },
+    "categories": "Barbeque, Restaurants, Noodles, Chinese",
+    "hours": null
+}

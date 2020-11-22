@@ -1,0 +1,41 @@
+{
+    "business_id": "-cnAmACYQpwRyfjuZHay3w",
+    "name": "China Wok",
+    "address": "8021 Broadview Rd",
+    "city": "Broadview Heights",
+    "state": "OH",
+    "postal_code": "44147",
+    "latitude": 41.347579,
+    "longitude": -81.6839395432,
+    "stars": 3.0,
+    "review_count": 12,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "HappyHour": "True",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'quiet'",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "False",
+        "RestaurantsPriceRange2": "1",
+        "HasTV": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'touristy': None, 'hipster': None, 'romantic': False, 'divey': None, 'intimate': False, 'trendy': False, 'upscale': None, 'classy': False, 'casual': None}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "15:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "11:30-22:0"
+    }
+}

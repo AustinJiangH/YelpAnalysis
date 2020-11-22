@@ -1,0 +1,38 @@
+{
+    "business_id": "go623pgRx2nfIpsV4ePHXg",
+    "name": "Great Wall",
+    "address": "1130 Perry Hwy",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15237",
+    "latitude": 40.5482139,
+    "longitude": -80.0355079,
+    "stars": 3.5,
+    "review_count": 12,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "BikeParking": "False",
+        "GoodForKids": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:30-10:0",
+        "Tuesday": "11:30-10:0",
+        "Wednesday": "11:30-10:0",
+        "Thursday": "11:30-10:0",
+        "Friday": "11:30-10:0",
+        "Saturday": "11:30-11:0",
+        "Sunday": "11:30-11:0"
+    }
+}

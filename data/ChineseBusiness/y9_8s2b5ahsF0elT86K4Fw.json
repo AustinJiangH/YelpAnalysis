@@ -1,0 +1,30 @@
+{
+    "business_id": "y9_8s2b5ahsF0elT86K4Fw",
+    "name": "Wing Wah",
+    "address": "899 East Aurora Rd",
+    "city": "Macedonia",
+    "state": "OH",
+    "postal_code": "44056",
+    "latitude": 41.3139794155,
+    "longitude": -81.5063181002,
+    "stars": 3.0,
+    "review_count": 11,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

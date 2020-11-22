@@ -1,0 +1,28 @@
+{
+    "business_id": "xUsLyzWQId6nXwNDVq08qQ",
+    "name": "Lotus Garden",
+    "address": "3911 Saw Mill Run Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15227",
+    "latitude": 40.368626,
+    "longitude": -79.983,
+    "stars": 4.0,
+    "review_count": 6,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsGoodForGroups": "True",
+        "Alcohol": "u'full_bar'",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "True",
+        "RestaurantsPriceRange2": "2"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

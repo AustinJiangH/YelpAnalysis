@@ -1,0 +1,30 @@
+{
+    "business_id": "0Z4__YJxeGnYcbx05Mfw_w",
+    "name": "Honey Moon Chinese Restaurant",
+    "address": "2021 Clay Pike",
+    "city": "Irwin",
+    "state": "PA",
+    "postal_code": "15642",
+    "latitude": 40.305713,
+    "longitude": -79.726267,
+    "stars": 2.5,
+    "review_count": 3,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Food, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "16:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-21:0"
+    }
+}

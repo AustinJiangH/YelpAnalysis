@@ -1,0 +1,43 @@
+{
+    "business_id": "z8Cw9KBnDj3X40H9fXElYw",
+    "name": "New Peking Express",
+    "address": "9507 State Rte 14",
+    "city": "Streetsboro",
+    "state": "OH",
+    "postal_code": "44241",
+    "latitude": 41.2434926,
+    "longitude": -81.3562907,
+    "stars": 3.5,
+    "review_count": 36,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "u'average'",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "WiFi": "u'no'",
+        "Alcohol": "u'none'",
+        "BikeParking": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsGoodForGroups": "True",
+        "Caters": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Restaurants, Buffets, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:0"
+    }
+}

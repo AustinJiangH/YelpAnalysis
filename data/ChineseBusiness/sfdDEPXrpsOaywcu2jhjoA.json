@@ -1,0 +1,27 @@
+{
+    "business_id": "sfdDEPXrpsOaywcu2jhjoA",
+    "name": "Panda Express",
+    "address": "9540 State Route 14",
+    "city": "Streetsboro",
+    "state": "OH",
+    "postal_code": "44241",
+    "latitude": 41.2479685956,
+    "longitude": -81.3592395776,
+    "stars": 2.0,
+    "review_count": 18,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Fast Food, Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-21:30",
+        "Tuesday": "10:30-21:30",
+        "Wednesday": "10:30-21:30",
+        "Thursday": "10:30-21:30",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "10:30-21:30"
+    }
+}

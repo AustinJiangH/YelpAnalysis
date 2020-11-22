@@ -1,0 +1,42 @@
+{
+    "business_id": "A8jt8v7bixb_DswY2uJQaw",
+    "name": "Red Bowl",
+    "address": "28500 Miles Rd",
+    "city": "Solon",
+    "state": "OH",
+    "postal_code": "44139",
+    "latitude": 41.4235764,
+    "longitude": -81.4774021,
+    "stars": 3.5,
+    "review_count": 36,
+    "is_open": 1,
+    "attributes": {
+        "HasTV": "False",
+        "NoiseLevel": "u'average'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "ByAppointmentOnly": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsTableService": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "BikeParking": "False",
+        "RestaurantsReservations": "True",
+        "WiFi": "u'free'",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Chinese, Restaurants, Thai",
+    "hours": {
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "12:30-20:30"
+    }
+}

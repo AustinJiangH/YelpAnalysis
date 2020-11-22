@@ -1,0 +1,33 @@
+{
+    "business_id": "hZAKEk_nNEIxd-IUkZlghA",
+    "name": "Great Wall Chinese Restaurant",
+    "address": "14 S Main St, Ste 4",
+    "city": "Munroe Falls",
+    "state": "OH",
+    "postal_code": "44262",
+    "latitude": 41.1389899,
+    "longitude": -81.4387572,
+    "stars": 3.5,
+    "review_count": 6,
+    "is_open": 0,
+    "attributes": {
+        "Caters": "True",
+        "Alcohol": "'none'",
+        "NoiseLevel": "'average'",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsGoodForGroups": "False",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "'casual'",
+        "WiFi": "'no'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "1"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

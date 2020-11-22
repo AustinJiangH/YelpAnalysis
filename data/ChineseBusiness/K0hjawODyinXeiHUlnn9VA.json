@@ -1,0 +1,35 @@
+{
+    "business_id": "K0hjawODyinXeiHUlnn9VA",
+    "name": "Green Lake",
+    "address": "141 Richmond St",
+    "city": "Painesville",
+    "state": "OH",
+    "postal_code": "44077",
+    "latitude": 41.7253269,
+    "longitude": -81.2486361,
+    "stars": 3.5,
+    "review_count": 15,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsGoodForGroups": "True",
+        "NoiseLevel": "None",
+        "RestaurantsAttire": "'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:30",
+        "Tuesday": "10:30-22:30",
+        "Wednesday": "10:30-22:30",
+        "Thursday": "10:30-22:30",
+        "Friday": "10:30-23:30",
+        "Saturday": "10:30-23:30",
+        "Sunday": "11:30-22:30"
+    }
+}

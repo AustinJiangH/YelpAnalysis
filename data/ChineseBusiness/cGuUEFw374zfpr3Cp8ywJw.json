@@ -1,0 +1,31 @@
+{
+    "business_id": "cGuUEFw374zfpr3Cp8ywJw",
+    "name": "Shanghai 1938",
+    "address": "200 S Matthews",
+    "city": "Urbana",
+    "state": "IL",
+    "postal_code": "61801",
+    "latitude": 40.1108998121,
+    "longitude": -88.225634608,
+    "stars": 2.0,
+    "review_count": 4,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "2",
+        "GoodForKids": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Restaurants, Chinese, Food Stands",
+    "hours": {
+        "Monday": "16:30-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "12:0-22:0",
+        "Sunday": "12:0-21:0"
+    }
+}

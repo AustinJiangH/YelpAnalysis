@@ -1,0 +1,25 @@
+{
+    "business_id": "5S8KaaAIjqo2bJcVlMNW5w",
+    "name": "Sichuan House Chinese Restaurant",
+    "address": "1717 Cochran Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15220",
+    "latitude": 40.3923379,
+    "longitude": -80.0662223,
+    "stars": 3.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsPriceRange2": "2",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

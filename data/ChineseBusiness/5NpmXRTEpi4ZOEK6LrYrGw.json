@@ -1,0 +1,43 @@
+{
+    "business_id": "5NpmXRTEpi4ZOEK6LrYrGw",
+    "name": "China King",
+    "address": "319 S Division St",
+    "city": "Stoughton",
+    "state": "WI",
+    "postal_code": "53589",
+    "latitude": 42.9162149495,
+    "longitude": -89.2203672297,
+    "stars": 4.0,
+    "review_count": 22,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "RestaurantsTableService": "False",
+        "WiFi": "u'no'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'",
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsTakeOut": "True",
+        "HasTV": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "BikeParking": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsPriceRange2": "1",
+        "Caters": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-21:30"
+    }
+}

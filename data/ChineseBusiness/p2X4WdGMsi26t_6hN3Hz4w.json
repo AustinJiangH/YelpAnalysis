@@ -1,0 +1,43 @@
+{
+    "business_id": "p2X4WdGMsi26t_6hN3Hz4w",
+    "name": "Mekong Restaurant",
+    "address": "1429 Potomac Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15216",
+    "latitude": 40.395543,
+    "longitude": -80.034904,
+    "stars": 3.5,
+    "review_count": 70,
+    "is_open": 1,
+    "attributes": {
+        "HasTV": "True",
+        "OutdoorSeating": "False",
+        "BikeParking": "True",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'quiet'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "True",
+        "WiFi": "u'free'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "'none'",
+        "Caters": "True",
+        "BusinessAcceptsBitcoin": "False",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True"
+    },
+    "categories": "Vietnamese, Soup, Chinese, Asian Fusion, Restaurants",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:0",
+        "Saturday": "11:30-22:0",
+        "Sunday": "12:0-21:0"
+    }
+}

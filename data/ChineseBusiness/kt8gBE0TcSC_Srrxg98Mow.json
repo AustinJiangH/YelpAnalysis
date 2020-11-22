@@ -1,0 +1,21 @@
+{
+    "business_id": "kt8gBE0TcSC_Srrxg98Mow",
+    "name": "Great Wall Chinese Restaurant",
+    "address": "4930 Turney Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44125",
+    "latitude": 41.425735,
+    "longitude": -81.613844,
+    "stars": 3.5,
+    "review_count": 7,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "False",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

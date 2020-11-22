@@ -1,0 +1,30 @@
+{
+    "business_id": "YufWhkZQPC6As55MuXTU8g",
+    "name": "No. 1 Kitchen",
+    "address": "1107 Brownsville Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15210",
+    "latitude": 40.405338,
+    "longitude": -79.989673,
+    "stars": 3.5,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "None",
+        "NoiseLevel": "u'average'",
+        "RestaurantsReservations": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

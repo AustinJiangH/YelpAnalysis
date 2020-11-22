@@ -1,0 +1,26 @@
+{
+    "business_id": "jTRKHyPmR5RwHVsqmhPTwg",
+    "name": "Jade Chinese Kitchen",
+    "address": "14421 Cedar Rd",
+    "city": "South Euclid",
+    "state": "OH",
+    "postal_code": "44121",
+    "latitude": 41.5017074,
+    "longitude": -81.5205765,
+    "stars": 4.0,
+    "review_count": 5,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Chinese, Restaurants, Kosher, Halal",
+    "hours": {
+        "Monday": "16:0-21:0",
+        "Tuesday": "16:0-21:0",
+        "Wednesday": "16:0-21:0",
+        "Thursday": "16:0-21:0",
+        "Friday": "11:0-14:0",
+        "Sunday": "11:30-21:0"
+    }
+}

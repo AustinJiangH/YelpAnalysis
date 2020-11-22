@@ -1,0 +1,41 @@
+{
+    "business_id": "T4JGbW9XEGQVrLpQcNFXtA",
+    "name": "Sun Luck Garden",
+    "address": "1901 S Taylor Rd",
+    "city": "Cleveland Heights",
+    "state": "OH",
+    "postal_code": "44118",
+    "latitude": 41.5078027,
+    "longitude": -81.5551856,
+    "stars": 3.5,
+    "review_count": 51,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "u'quiet'",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsGoodForGroups": "True",
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsDelivery": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "True",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "WiFi": "u'no'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': None, 'intimate': None, 'trendy': None, 'upscale': False, 'classy': False, 'casual': None}",
+        "HasTV": "True",
+        "WheelchairAccessible": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "15:0-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-21:30",
+        "Saturday": "12:0-21:30",
+        "Sunday": "15:0-21:30"
+    }
+}

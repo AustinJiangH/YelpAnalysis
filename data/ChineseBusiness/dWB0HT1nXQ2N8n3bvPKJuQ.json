@@ -1,0 +1,43 @@
+{
+    "business_id": "dWB0HT1nXQ2N8n3bvPKJuQ",
+    "name": "John's Chinese & Sushi Restaurant",
+    "address": "1778 N Highland Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15241",
+    "latitude": 40.3527436,
+    "longitude": -80.051873,
+    "stars": 4.0,
+    "review_count": 28,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "Alcohol": "u'none'",
+        "HasTV": "True",
+        "RestaurantsDelivery": "True",
+        "NoiseLevel": "'quiet'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "WiFi": "u'free'",
+        "BikeParking": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Caters": "True",
+        "RestaurantsReservations": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsPriceRange2": "2",
+        "HappyHour": "True"
+    },
+    "categories": "Chinese, Restaurants, Sushi Bars",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:30",
+        "Saturday": "11:30-22:30",
+        "Sunday": "12:0-21:30"
+    }
+}

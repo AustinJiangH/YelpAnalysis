@@ -1,0 +1,31 @@
+{
+    "business_id": "WesHVJ45hCr17_bn9s69nw",
+    "name": "No 1 Buffet",
+    "address": "28981 Lorain Rd",
+    "city": "North Olmsted",
+    "state": "OH",
+    "postal_code": "44070",
+    "latitude": 41.406773,
+    "longitude": -81.9425009,
+    "stars": 2.5,
+    "review_count": 15,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsGoodForGroups": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsPriceRange2": "1"
+    },
+    "categories": "Buffets, Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

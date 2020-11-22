@@ -1,0 +1,27 @@
+{
+    "business_id": "YZItTPlVWeq13bfAJtT2-g",
+    "name": "China House II",
+    "address": "7400 Church St",
+    "city": "Swissvale",
+    "state": "PA",
+    "postal_code": "15218",
+    "latitude": 40.4214683,
+    "longitude": -79.8898717,
+    "stars": 3.0,
+    "review_count": 9,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "False",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

@@ -1,0 +1,40 @@
+{
+    "business_id": "NG5qynmV0kzxQMFJG7mhEw",
+    "name": "Hong Kong Taste",
+    "address": "366 Butler St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15223",
+    "latitude": 40.4967683,
+    "longitude": -79.9437313,
+    "stars": 3.0,
+    "review_count": 18,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsReservations": "False",
+        "WiFi": "'no'",
+        "Alcohol": "u'none'",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "False",
+        "BikeParking": "True",
+        "GoodForKids": "False",
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "True"
+    },
+    "categories": "Japanese, Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "12:0-22:30",
+        "Sunday": "12:0-22:0"
+    }
+}

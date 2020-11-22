@@ -1,0 +1,38 @@
+{
+    "business_id": "EKQiKd7EMZjsa4JokFaeAg",
+    "name": "China King",
+    "address": "2145 S Neil St",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.0877237618,
+    "longitude": -88.2479701689,
+    "stars": 2.5,
+    "review_count": 32,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "WiFi": "u'free'",
+        "RestaurantsDelivery": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "1",
+        "NoiseLevel": "u'quiet'",
+        "HasTV": "True",
+        "GoodForKids": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:30",
+        "Saturday": "10:30-22:30",
+        "Sunday": "11:30-21:30"
+    }
+}

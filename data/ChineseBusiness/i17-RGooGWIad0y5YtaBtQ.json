@@ -1,0 +1,43 @@
+{
+    "business_id": "i17-RGooGWIad0y5YtaBtQ",
+    "name": "China House",
+    "address": "4506 Liberty Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15224",
+    "latitude": 40.4628283,
+    "longitude": -79.9516846,
+    "stars": 4.0,
+    "review_count": 49,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "Caters": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "True",
+        "BikeParking": "True",
+        "HasTV": "True",
+        "RestaurantsReservations": "False",
+        "WiFi": "u'no'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "NoiseLevel": "u'quiet'"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "11:0-22:0"
+    }
+}

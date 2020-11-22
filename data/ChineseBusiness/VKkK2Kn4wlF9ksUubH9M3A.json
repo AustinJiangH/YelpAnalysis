@@ -1,0 +1,21 @@
+{
+    "business_id": "VKkK2Kn4wlF9ksUubH9M3A",
+    "name": "China Kitchen",
+    "address": "544 N Center St",
+    "city": "Lagrange",
+    "state": "OH",
+    "postal_code": "44050",
+    "latitude": 41.2458578513,
+    "longitude": -82.118034102,
+    "stars": 2.5,
+    "review_count": 3,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

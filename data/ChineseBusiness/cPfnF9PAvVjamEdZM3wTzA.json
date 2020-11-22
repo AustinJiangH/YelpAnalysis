@@ -1,0 +1,30 @@
+{
+    "business_id": "cPfnF9PAvVjamEdZM3wTzA",
+    "name": "QQ Asian Buffet",
+    "address": "1291 N Sherman Ave",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53704",
+    "latitude": 43.1137364,
+    "longitude": -89.3637805,
+    "stars": 2.0,
+    "review_count": 11,
+    "is_open": 0,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "2",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': True, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "HasTV": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

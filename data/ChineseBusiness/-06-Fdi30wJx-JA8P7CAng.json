@@ -1,0 +1,42 @@
+{
+    "business_id": "-06-Fdi30wJx-JA8P7CAng",
+    "name": "China House",
+    "address": "27241 Wolf Rd",
+    "city": "Bay Village",
+    "state": "OH",
+    "postal_code": "44140",
+    "latitude": 41.4844092,
+    "longitude": -81.9218547,
+    "stars": 3.5,
+    "review_count": 42,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "True",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "Alcohol": "'none'",
+        "HasTV": "True",
+        "WiFi": "'no'",
+        "NoiseLevel": "'average'"
+    },
+    "categories": "Restaurants, Chinese, Seafood, Cantonese, Szechuan",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:0-22:0"
+    }
+}

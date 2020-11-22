@@ -1,0 +1,43 @@
+{
+    "business_id": "PhNdyQTtZjOQ1bqoT4S3oA",
+    "name": "China Bay",
+    "address": "6820 Biddulph Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44144",
+    "latitude": 41.431217,
+    "longitude": -81.7332203,
+    "stars": 4.0,
+    "review_count": 32,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "WiFi": "u'no'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "Caters": "False",
+        "Alcohol": "'none'",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BikeParking": "False",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsTableService": "False",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Cantonese, Chinese, Szechuan",
+    "hours": {
+        "Monday": "10:30-22:30",
+        "Tuesday": "10:30-22:30",
+        "Wednesday": "10:30-22:30",
+        "Thursday": "10:30-22:30",
+        "Friday": "10:30-23:0",
+        "Saturday": "10:30-23:0",
+        "Sunday": "10:30-22:0"
+    }
+}

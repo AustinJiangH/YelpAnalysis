@@ -1,0 +1,32 @@
+{
+    "business_id": "5L-dBWit8Y90bnP3nsAauQ",
+    "name": "China Bay",
+    "address": "478 N Abbe Rd",
+    "city": "Elyria",
+    "state": "OH",
+    "postal_code": "44035",
+    "latitude": 41.387391,
+    "longitude": -82.078457,
+    "stars": 4.5,
+    "review_count": 8,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "Caters": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsDelivery": "True",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

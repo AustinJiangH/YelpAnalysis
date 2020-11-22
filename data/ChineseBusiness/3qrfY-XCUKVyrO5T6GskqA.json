@@ -1,0 +1,43 @@
+{
+    "business_id": "3qrfY-XCUKVyrO5T6GskqA",
+    "name": "Noodles & Company",
+    "address": "3805 Forbes Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15213",
+    "latitude": 40.4418195,
+    "longitude": -79.9568582,
+    "stars": 3.0,
+    "review_count": 75,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "WiFi": "'no'",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'average'",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "Caters": "True",
+        "BikeParking": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Italian, Asian Fusion, Comfort Food, American (New), Mediterranean, Sandwiches, Salad, Restaurants, Pasta Shops, Noodles, Specialty Food, Food, Chinese",
+    "hours": {
+        "Monday": "0:0-0:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

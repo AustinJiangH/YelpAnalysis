@@ -1,0 +1,41 @@
+{
+    "business_id": "cjKplU8iMakS8Q7ZorzYVA",
+    "name": "New China House",
+    "address": "4309 Northern Pike",
+    "city": "Monroeville",
+    "state": "PA",
+    "postal_code": "15146",
+    "latitude": 40.4349398,
+    "longitude": -79.7535085,
+    "stars": 3.5,
+    "review_count": 18,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "WiFi": "u'no'",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "WheelchairAccessible": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsTableService": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

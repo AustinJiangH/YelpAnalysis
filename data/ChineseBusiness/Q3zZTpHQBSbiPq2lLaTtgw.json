@@ -1,0 +1,41 @@
+{
+    "business_id": "Q3zZTpHQBSbiPq2lLaTtgw",
+    "name": "Sichuan Palace",
+    "address": "60 Federal Dr",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15235",
+    "latitude": 40.4623662678,
+    "longitude": -79.8267316637,
+    "stars": 4.0,
+    "review_count": 17,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsTableService": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "GoodForKids": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BikeParking": "False",
+        "HasTV": "True",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Imported Food, Ethnic Food, Szechuan, Food, Specialty Food, Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:0",
+        "Saturday": "11:30-22:0",
+        "Sunday": "12:30-21:0"
+    }
+}

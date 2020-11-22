@@ -1,0 +1,32 @@
+{
+    "business_id": "OPIX1wTOll0aZT08Wr6sDw",
+    "name": "China Dragon",
+    "address": "3468 Mayfield Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44118",
+    "latitude": 41.51628,
+    "longitude": -81.55327,
+    "stars": 3.5,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "BusinessParking": "None",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "True",
+        "Ambience": "None",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "BikeParking": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

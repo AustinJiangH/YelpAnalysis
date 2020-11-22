@@ -1,0 +1,41 @@
+{
+    "business_id": "uno5w5Zkhwn-yFkJgFuYOw",
+    "name": "Asian Cuisine",
+    "address": "4528 Broadway Blvd",
+    "city": "Monroeville",
+    "state": "PA",
+    "postal_code": "15146",
+    "latitude": 40.389637485,
+    "longitude": -79.7659568602,
+    "stars": 4.5,
+    "review_count": 4,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "'casual'",
+        "Alcohol": "'none'",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsDelivery": "False",
+        "HasTV": "True",
+        "BikeParking": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "NoiseLevel": "'quiet'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Restaurants, Asian Fusion, Chinese, Thai",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

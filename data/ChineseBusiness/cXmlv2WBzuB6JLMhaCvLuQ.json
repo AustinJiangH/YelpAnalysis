@@ -1,0 +1,43 @@
+{
+    "business_id": "cXmlv2WBzuB6JLMhaCvLuQ",
+    "name": "Han Chinese Kabob & Grill",
+    "address": "3710 Payne Ave, Ste 110",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44114",
+    "latitude": 41.5095919,
+    "longitude": -81.662275,
+    "stars": 4.0,
+    "review_count": 110,
+    "is_open": 1,
+    "attributes": {
+        "BikeParking": "False",
+        "Caters": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsGoodForGroups": "True",
+        "WiFi": "'no'",
+        "RestaurantsTableService": "True",
+        "RestaurantsReservations": "True",
+        "HasTV": "False",
+        "RestaurantsAttire": "'casual'",
+        "NoiseLevel": "'average'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "Alcohol": "'none'",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': True, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForKids": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': None, 'lunch': True, 'dinner': True, 'brunch': None, 'breakfast': False}"
+    },
+    "categories": "Restaurants, Chinese, Specialty Food, Noodles, Soup, Kebab, Food",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "11:30-22:0"
+    }
+}

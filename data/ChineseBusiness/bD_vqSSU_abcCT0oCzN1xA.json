@@ -1,0 +1,42 @@
+{
+    "business_id": "bD_vqSSU_abcCT0oCzN1xA",
+    "name": "Wok of Life",
+    "address": "",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15212",
+    "latitude": 40.4828051,
+    "longitude": -80.0367259,
+    "stars": 2.5,
+    "review_count": 4,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "WiFi": "u'no'",
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "'average'",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "False",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "True",
+        "BikeParking": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Alcohol": "'none'",
+        "HasTV": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsTableService": "False",
+        "Caters": "True"
+    },
+    "categories": "Food, Food Trucks, Restaurants, Chinese",
+    "hours": {
+        "Wednesday": "11:0-14:0",
+        "Thursday": "11:0-14:0",
+        "Friday": "11:0-14:0",
+        "Saturday": "12:0-16:0",
+        "Sunday": "11:0-14:0"
+    }
+}

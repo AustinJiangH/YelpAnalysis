@@ -1,0 +1,40 @@
+{
+    "business_id": "QkZEdBfKhXwCF38AJG1Ylw",
+    "name": "Tom's Red Pepper",
+    "address": "1019 N Gammon Rd",
+    "city": "Middleton",
+    "state": "WI",
+    "postal_code": "53562",
+    "latitude": 43.0843849,
+    "longitude": -89.5014806,
+    "stars": 3.5,
+    "review_count": 30,
+    "is_open": 0,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True",
+        "WiFi": "u'no'",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'average'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsGoodForGroups": "False",
+        "BikeParking": "True",
+        "HasTV": "True"
+    },
+    "categories": "Mexican, Restaurants, Chinese",
+    "hours": {
+        "Tuesday": "16:0-21:30",
+        "Wednesday": "16:0-21:30",
+        "Thursday": "16:0-21:30",
+        "Friday": "16:0-22:0",
+        "Saturday": "11:30-22:0",
+        "Sunday": "11:30-21:0"
+    }
+}

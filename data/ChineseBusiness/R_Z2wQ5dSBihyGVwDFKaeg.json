@@ -1,0 +1,30 @@
+{
+    "business_id": "R_Z2wQ5dSBihyGVwDFKaeg",
+    "name": "East China",
+    "address": "16834 Chagrin",
+    "city": "Shaker Heights",
+    "state": "OH",
+    "postal_code": "44120",
+    "latitude": 41.4642597,
+    "longitude": -81.5617282,
+    "stars": 3.0,
+    "review_count": 9,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "False",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessAcceptsCreditCards": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsPriceRange2": "1",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForKids": "True",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

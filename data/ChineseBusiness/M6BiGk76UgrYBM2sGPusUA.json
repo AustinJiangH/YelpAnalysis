@@ -1,0 +1,25 @@
+{
+    "business_id": "M6BiGk76UgrYBM2sGPusUA",
+    "name": "Maing Wok Kitchen",
+    "address": "35085 Center Ridge Rd",
+    "city": "North Ridgeville",
+    "state": "OH",
+    "postal_code": "44039",
+    "latitude": 41.3928108,
+    "longitude": -82.0063744,
+    "stars": 2.5,
+    "review_count": 11,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "GoodForKids": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

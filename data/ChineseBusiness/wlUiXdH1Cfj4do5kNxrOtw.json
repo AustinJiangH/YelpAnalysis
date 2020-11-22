@@ -1,0 +1,41 @@
+{
+    "business_id": "wlUiXdH1Cfj4do5kNxrOtw",
+    "name": "Hunan of Lyndhurst",
+    "address": "5670 Mayfield Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44124",
+    "latitude": 41.5191431776,
+    "longitude": -81.4751980321,
+    "stars": 2.5,
+    "review_count": 22,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Caters": "False",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "WiFi": "'no'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsPriceRange2": "2",
+        "HasTV": "True",
+        "RestaurantsDelivery": "False",
+        "BikeParking": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:30-22:0",
+        "Tuesday": "11:30-22:0",
+        "Wednesday": "11:30-22:0",
+        "Thursday": "11:30-22:0",
+        "Friday": "11:30-23:0",
+        "Saturday": "11:30-23:0",
+        "Sunday": "15:0-21:0"
+    }
+}

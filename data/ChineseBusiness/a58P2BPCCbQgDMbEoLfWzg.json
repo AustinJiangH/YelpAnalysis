@@ -1,0 +1,42 @@
+{
+    "business_id": "a58P2BPCCbQgDMbEoLfWzg",
+    "name": "Emperor's Palace",
+    "address": "2136 Rockwell Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44114",
+    "latitude": 41.508385,
+    "longitude": -81.678449,
+    "stars": 3.5,
+    "review_count": 129,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'full_bar'",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "2",
+        "NoiseLevel": "u'average'",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Caters": "True",
+        "RestaurantsReservations": "True",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True",
+        "WiFi": "u'no'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "RestaurantsDelivery": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': True}",
+        "BusinessParking": "{'garage': False, 'street': None, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Chinese, Dim Sum, Restaurants, Cantonese, Vegetarian",
+    "hours": {
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "10:0-22:0",
+        "Sunday": "10:0-22:0"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "business_id": "Ieaw3mw4GcPiF4PZkDYuFw",
+    "name": "Lucky Chinese Restaurant",
+    "address": "11360 Perry Hwy, Ste 1",
+    "city": "Wexford",
+    "state": "PA",
+    "postal_code": "15090",
+    "latitude": 40.6230346,
+    "longitude": -80.0532697,
+    "stars": 4.5,
+    "review_count": 6,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsPriceRange2": "2",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "'casual'",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

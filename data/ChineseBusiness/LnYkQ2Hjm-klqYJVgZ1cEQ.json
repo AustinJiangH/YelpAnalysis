@@ -1,0 +1,33 @@
+{
+    "business_id": "LnYkQ2Hjm-klqYJVgZ1cEQ",
+    "name": "Sakura",
+    "address": "530 Euclid Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44115",
+    "latitude": 41.499097,
+    "longitude": -81.68919,
+    "stars": 4.0,
+    "review_count": 13,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsPriceRange2": "1",
+        "WiFi": "u'no'",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "True",
+        "NoiseLevel": "u'average'",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForKids": "True",
+        "Alcohol": "u'none'",
+        "HasTV": "True"
+    },
+    "categories": "Sushi Bars, Chinese, Japanese, Restaurants",
+    "hours": null
+}

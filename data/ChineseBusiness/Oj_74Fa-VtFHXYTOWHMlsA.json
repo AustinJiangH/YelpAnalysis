@@ -1,0 +1,40 @@
+{
+    "business_id": "Oj_74Fa-VtFHXYTOWHMlsA",
+    "name": "Lucky Dragon Chinese Restaurant",
+    "address": "5100 Butler St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15201",
+    "latitude": 40.4783789,
+    "longitude": -79.9555457,
+    "stars": 3.0,
+    "review_count": 8,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'quiet'",
+        "OutdoorSeating": "False",
+        "WiFi": "u'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "Alcohol": "u'none'",
+        "RestaurantsReservations": "False",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:30",
+        "Tuesday": "11:0-22:30",
+        "Wednesday": "11:0-22:30",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:30"
+    }
+}

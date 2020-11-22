@@ -1,0 +1,30 @@
+{
+    "business_id": "mZde8M2gs5popxzKOvCo5w",
+    "name": "South China Wok Restaurant",
+    "address": "500 E Royalton Rd",
+    "city": "Broadview Heights",
+    "state": "OH",
+    "postal_code": "44147",
+    "latitude": 41.3133837,
+    "longitude": -81.6822908,
+    "stars": 2.5,
+    "review_count": 16,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "True",
+        "RestaurantsReservations": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'beer_and_wine'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': False}",
+        "WiFi": "'no'"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

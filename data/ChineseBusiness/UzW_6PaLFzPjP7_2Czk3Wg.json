@@ -1,0 +1,40 @@
+{
+    "business_id": "UzW_6PaLFzPjP7_2Czk3Wg",
+    "name": "China King Chinese Restaurant",
+    "address": "1120 Pearl Rd",
+    "city": "Brunswick",
+    "state": "OH",
+    "postal_code": "44212",
+    "latitude": 41.2447894,
+    "longitude": -81.8417745,
+    "stars": 3.5,
+    "review_count": 27,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "False",
+        "RestaurantsDelivery": "False",
+        "NoiseLevel": "u'average'",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsPriceRange2": "2",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese, Asian Fusion",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "12:0-21:0"
+    }
+}

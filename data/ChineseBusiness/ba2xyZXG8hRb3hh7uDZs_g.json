@@ -1,0 +1,43 @@
+{
+    "business_id": "ba2xyZXG8hRb3hh7uDZs_g",
+    "name": "New Chinatown Buffet",
+    "address": "5234 Cobblestone Rd",
+    "city": "Sheffield Village",
+    "state": "OH",
+    "postal_code": "44035",
+    "latitude": 41.419496,
+    "longitude": -82.0811004,
+    "stars": 3.0,
+    "review_count": 29,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'average'",
+        "WiFi": "'no'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "False",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsPriceRange2": "2",
+        "BikeParking": "False",
+        "HasTV": "True",
+        "RestaurantsTableService": "True"
+    },
+    "categories": "Buffets, Japanese, Sushi Bars, Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "11:30-21:30"
+    }
+}

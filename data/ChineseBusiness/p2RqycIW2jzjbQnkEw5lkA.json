@@ -1,0 +1,42 @@
+{
+    "business_id": "p2RqycIW2jzjbQnkEw5lkA",
+    "name": "Noodles & Company",
+    "address": "6520 Monona Dr At Pier 37",
+    "city": "Monona",
+    "state": "WI",
+    "postal_code": "53716",
+    "latitude": 43.0470458,
+    "longitude": -89.3239739,
+    "stars": 2.5,
+    "review_count": 37,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "WiFi": "'no'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'beer_and_wine'",
+        "NoiseLevel": "u'average'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "GoodForKids": "True",
+        "Caters": "True",
+        "BikeParking": "True",
+        "HasTV": "True"
+    },
+    "categories": "Comfort Food, Asian Fusion, Restaurants, Thai, Italian, Chinese, Noodles, Pasta Shops, Food, Salad, Specialty Food",
+    "hours": {
+        "Monday": "0:0-0:0",
+        "Tuesday": "10:30-21:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "10:30-21:0"
+    }
+}

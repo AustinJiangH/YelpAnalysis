@@ -1,0 +1,42 @@
+{
+    "business_id": "8ZL4ed3Y8_F6AgPAYxgi2g",
+    "name": "Hunan Chester",
+    "address": "12611 Chillicothe Rd",
+    "city": "Chesterland",
+    "state": "OH",
+    "postal_code": "44026",
+    "latitude": 41.525976,
+    "longitude": -81.336288,
+    "stars": 3.5,
+    "review_count": 15,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "True",
+        "RestaurantsReservations": "True",
+        "GoodForKids": "True",
+        "BikeParking": "True",
+        "Caters": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "None",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'",
+        "Ambience": "None",
+        "RestaurantsPriceRange2": "1",
+        "NoiseLevel": "u'average'",
+        "RestaurantsDelivery": "True",
+        "WiFi": "u'no'"
+    },
+    "categories": "Chinese, Soup, Restaurants",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:0",
+        "Saturday": "11:30-22:0",
+        "Sunday": "16:0-21:0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "business_id": "S1mm3JFYmuewmKfUK8M8iw",
+    "name": "Chai's Pittsburgh Fusion",
+    "address": "1000 Airport Blvd, Fl 3",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15231",
+    "latitude": 40.4961011227,
+    "longitude": -80.2459079054,
+    "stars": 3.5,
+    "review_count": 12,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "2",
+        "GoodForKids": "False",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True"
+    },
+    "categories": "Sushi Bars, Chinese, Restaurants",
+    "hours": null
+}

@@ -1,0 +1,42 @@
+{
+    "business_id": "dazGlP4Rk4nxlyMtlvkpvA",
+    "name": "Dragon I",
+    "address": "422 State St",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53703",
+    "latitude": 43.075006,
+    "longitude": -89.3921359,
+    "stars": 2.5,
+    "review_count": 76,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Alcohol": "u'full_bar'",
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': True, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'free'",
+        "RestaurantsReservations": "True",
+        "NoiseLevel": "u'average'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsAttire": "u'casual'",
+        "Caters": "True",
+        "RestaurantsDelivery": "True",
+        "BikeParking": "True",
+        "HasTV": "True",
+        "GoodForKids": "True"
+    },
+    "categories": "Asian Fusion, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:30"
+    }
+}

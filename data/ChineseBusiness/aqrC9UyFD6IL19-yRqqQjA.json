@@ -1,0 +1,18 @@
+{
+    "business_id": "aqrC9UyFD6IL19-yRqqQjA",
+    "name": "China Wok",
+    "address": "423 Cleveland St",
+    "city": "Elyria",
+    "state": "OH",
+    "postal_code": "44035",
+    "latitude": 41.3743749,
+    "longitude": -82.0861478,
+    "stars": 3.0,
+    "review_count": 6,
+    "is_open": 1,
+    "attributes": {
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

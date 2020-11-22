@@ -1,0 +1,43 @@
+{
+    "business_id": "Msq2CBPFaY7Fe7h7R20fOA",
+    "name": "Dragon Palace",
+    "address": "1714 Main St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15215",
+    "latitude": 40.466841,
+    "longitude": -79.9568091,
+    "stars": 4.0,
+    "review_count": 20,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "WheelchairAccessible": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "Alcohol": "u'none'",
+        "HasTV": "True",
+        "HappyHour": "False",
+        "Caters": "True",
+        "DogsAllowed": "False",
+        "RestaurantsTableService": "True",
+        "WiFi": "u'free'",
+        "BusinessAcceptsBitcoin": "False",
+        "RestaurantsDelivery": "True",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-21:30"
+    }
+}

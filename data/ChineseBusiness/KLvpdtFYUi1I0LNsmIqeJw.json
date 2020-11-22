@@ -1,0 +1,43 @@
+{
+    "business_id": "KLvpdtFYUi1I0LNsmIqeJw",
+    "name": "Happy Wok",
+    "address": "429 Commerce Dr",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53719",
+    "latitude": 43.059889,
+    "longitude": -89.523622,
+    "stars": 3.5,
+    "review_count": 42,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "BikeParking": "True",
+        "HasTV": "True",
+        "Alcohol": "u'none'",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "WiFi": "u'no'",
+        "RestaurantsAttire": "u'casual'",
+        "Caters": "True"
+    },
+    "categories": "Chinese, Restaurants, Mexican",
+    "hours": {
+        "Monday": "10:30-21:30",
+        "Tuesday": "10:30-21:30",
+        "Wednesday": "10:30-21:30",
+        "Thursday": "10:30-21:30",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "10:30-21:30"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "business_id": "1p5izA5Py5zN7CuNAxPkvw",
+    "name": "No. 1 Chinese Restaurant",
+    "address": "27333 Detroit Rd",
+    "city": "Westlake",
+    "state": "OH",
+    "postal_code": "44145",
+    "latitude": 41.4665,
+    "longitude": -81.923267,
+    "stars": 2.5,
+    "review_count": 23,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'none'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsPriceRange2": "2",
+        "Caters": "True",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "'casual'",
+        "OutdoorSeating": "False",
+        "BikeParking": "False",
+        "WiFi": "'no'",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

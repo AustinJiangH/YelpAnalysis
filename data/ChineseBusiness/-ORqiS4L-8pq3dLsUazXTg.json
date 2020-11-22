@@ -1,0 +1,42 @@
+{
+    "business_id": "-ORqiS4L-8pq3dLsUazXTg",
+    "name": "Asian House",
+    "address": "1300 Hoffman Blvd, Ste 1808",
+    "city": "West Mifflin",
+    "state": "PA",
+    "postal_code": "15122",
+    "latitude": 40.3836653131,
+    "longitude": -79.8676539436,
+    "stars": 3.5,
+    "review_count": 7,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Alcohol": "'none'",
+        "BikeParking": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "'quiet'",
+        "WiFi": "'no'",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "False",
+        "Caters": "False",
+        "RestaurantsAttire": "'casual'",
+        "HasTV": "True",
+        "RestaurantsReservations": "False"
+    },
+    "categories": "Ethnic Food, Chinese, Specialty Food, Food, Restaurants, Thai",
+    "hours": {
+        "Monday": "10:30-22:30",
+        "Tuesday": "10:30-22:30",
+        "Wednesday": "10:30-22:30",
+        "Thursday": "10:30-22:30",
+        "Friday": "10:30-23:0",
+        "Saturday": "10:30-23:0",
+        "Sunday": "10:30-22:30"
+    }
+}

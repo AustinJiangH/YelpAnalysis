@@ -1,0 +1,41 @@
+{
+    "business_id": "MFbTdZe4Aby_0UbWWsfl6Q",
+    "name": "Food King",
+    "address": "1733 Pearl Rd, Ste 115",
+    "city": "Brunswick",
+    "state": "OH",
+    "postal_code": "44212",
+    "latitude": 41.2281456,
+    "longitude": -81.8397961,
+    "stars": 4.0,
+    "review_count": 19,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "'average'",
+        "Alcohol": "'none'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Caters": "False",
+        "BikeParking": "True",
+        "GoodForKids": "True",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "11:0-21:30"
+    }
+}

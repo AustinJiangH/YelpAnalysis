@@ -1,0 +1,41 @@
+{
+    "business_id": "nb3v4cQdZAYfbcw6eAD4Dg",
+    "name": "China House",
+    "address": "50 Market Place Dr",
+    "city": "Imperial",
+    "state": "PA",
+    "postal_code": "15071",
+    "latitude": 40.441391,
+    "longitude": -80.2394865,
+    "stars": 3.5,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "1",
+        "WiFi": "u'free'",
+        "RestaurantsAttire": "'casual'",
+        "HasTV": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Alcohol": "u'none'",
+        "RestaurantsTableService": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:0-22:0"
+    }
+}

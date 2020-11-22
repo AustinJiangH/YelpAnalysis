@@ -1,0 +1,24 @@
+{
+    "business_id": "3BkMnrNVkG_szOP0wQlX5A",
+    "name": "C-U LaLa Noodle",
+    "address": "410 E Green St, Ste 13",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.1106376,
+    "longitude": -88.2324833,
+    "stars": 1.5,
+    "review_count": 4,
+    "is_open": 1,
+    "attributes": null,
+    "categories": "Chinese, Noodles, Restaurants",
+    "hours": {
+        "Monday": "11:0-20:30",
+        "Tuesday": "11:0-20:30",
+        "Wednesday": "11:0-20:30",
+        "Thursday": "11:0-20:30",
+        "Friday": "11:0-20:30",
+        "Saturday": "11:0-20:30",
+        "Sunday": "11:0-20:30"
+    }
+}

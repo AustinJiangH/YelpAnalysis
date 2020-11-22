@@ -1,0 +1,36 @@
+{
+    "business_id": "izzrCdvwa1TT8rBsE7Ch7w",
+    "name": "Szechuan",
+    "address": "3306 University Ave",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53705",
+    "latitude": 43.0752904,
+    "longitude": -89.4443184,
+    "stars": 3.0,
+    "review_count": 6,
+    "is_open": 0,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "False",
+        "RestaurantsDelivery": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "1"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "12:0-21:0"
+    }
+}

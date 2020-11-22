@@ -1,0 +1,43 @@
+{
+    "business_id": "gyDTYm_NDWXEHBPGnL-oRQ",
+    "name": "Noodles & Company",
+    "address": "232 State St Johnson",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53703",
+    "latitude": 43.0749274,
+    "longitude": -89.3895327,
+    "stars": 3.0,
+    "review_count": 85,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "u'average'",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "Alcohol": "u'beer_and_wine'",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "1",
+        "WiFi": "'free'",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Caters": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "RestaurantsDelivery": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "HasTV": "True"
+    },
+    "categories": "Comfort Food, Italian, Asian Fusion, Mediterranean, Noodles, Restaurants, Chinese, Specialty Food, American (New), Salad, Pasta Shops, Food",
+    "hours": {
+        "Monday": "0:0-0:0",
+        "Tuesday": "10:30-21:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "10:30-22:0"
+    }
+}

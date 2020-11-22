@@ -1,0 +1,35 @@
+{
+    "business_id": "HiJ2GEMZGKI8vwalAp2h-Q",
+    "name": "Sichuan Hot Pot Cuisine",
+    "address": "2162 Rockwell Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44114",
+    "latitude": 41.5086365,
+    "longitude": -81.6781363,
+    "stars": 4.5,
+    "review_count": 22,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsTableService": "True",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "None",
+        "RestaurantsReservations": "True",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'free'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "True"
+    },
+    "categories": "Szechuan, Hot Pot, Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:30-22:0",
+        "Tuesday": "11:30-22:0",
+        "Wednesday": "11:30-22:0",
+        "Thursday": "11:30-22:0",
+        "Friday": "12:0-22:30",
+        "Saturday": "12:0-22:30",
+        "Sunday": "12:0-22:0"
+    }
+}

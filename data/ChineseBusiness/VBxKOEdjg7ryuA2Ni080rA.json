@@ -1,0 +1,28 @@
+{
+    "business_id": "VBxKOEdjg7ryuA2Ni080rA",
+    "name": "China Town 1",
+    "address": "3718 Pearl Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44109",
+    "latitude": 41.4540638,
+    "longitude": -81.701891,
+    "stars": 4.5,
+    "review_count": 7,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "'casual'",
+        "BusinessAcceptsCreditCards": "False",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "HasTV": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

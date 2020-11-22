@@ -1,0 +1,40 @@
+{
+    "business_id": "G4JLnk8TkeAhZ71V4Pof8A",
+    "name": "Panda Express",
+    "address": "4155 William Penn Hwy",
+    "city": "Monroeville",
+    "state": "PA",
+    "postal_code": "15146",
+    "latitude": 40.4392892,
+    "longitude": -79.7651236,
+    "stars": 3.0,
+    "review_count": 35,
+    "is_open": 1,
+    "attributes": {
+        "HasTV": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'average'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsTableService": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "False",
+        "DogsAllowed": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Fast Food, Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:30",
+        "Saturday": "10:30-22:30",
+        "Sunday": "11:0-21:0"
+    }
+}

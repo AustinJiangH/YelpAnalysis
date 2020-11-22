@@ -1,0 +1,30 @@
+{
+    "business_id": "gFyntTks-Qd5CjDU8_2Kog",
+    "name": "Golden Palace Buffet",
+    "address": "647 Smithfield St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15222",
+    "latitude": 40.4427692,
+    "longitude": -79.9970479,
+    "stars": 3.0,
+    "review_count": 30,
+    "is_open": 0,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "u'casual'",
+        "WiFi": "u'no'",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': True, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "True",
+        "HasTV": "False",
+        "RestaurantsReservations": "False",
+        "BikeParking": "True"
+    },
+    "categories": "Restaurants, Chinese, Buffets",
+    "hours": null
+}

@@ -1,0 +1,38 @@
+{
+    "business_id": "dmiSOfKvwfjNHMQddKGG_Q",
+    "name": "Golden Gate Restaurant",
+    "address": "700 Saint Clair Ave",
+    "city": "Clairton",
+    "state": "PA",
+    "postal_code": "15025",
+    "latitude": 40.2933624,
+    "longitude": -79.8892245,
+    "stars": 3.0,
+    "review_count": 5,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "False",
+        "BusinessAcceptsBitcoin": "False",
+        "Alcohol": "u'none'",
+        "OutdoorSeating": "False",
+        "BikeParking": "False",
+        "Caters": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "WiFi": "u'no'",
+        "RestaurantsReservations": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "0:0-0:0",
+        "Tuesday": "11:30-19:30",
+        "Wednesday": "11:30-19:30",
+        "Thursday": "11:30-19:30",
+        "Friday": "11:30-19:30",
+        "Saturday": "15:0-19:30",
+        "Sunday": "15:0-19:30"
+    }
+}

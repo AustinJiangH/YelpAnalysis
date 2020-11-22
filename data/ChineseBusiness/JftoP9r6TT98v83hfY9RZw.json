@@ -1,0 +1,33 @@
+{
+    "business_id": "JftoP9r6TT98v83hfY9RZw",
+    "name": "Mandarin House Chinese Restaurant",
+    "address": "10393 W Pleasant Valley Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44130",
+    "latitude": 41.36342,
+    "longitude": -81.7580821,
+    "stars": 3.5,
+    "review_count": 35,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'no'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'beer_and_wine'",
+        "GoodForKids": "True",
+        "Caters": "False",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants, Food, Vietnamese",
+    "hours": null
+}

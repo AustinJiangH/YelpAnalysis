@@ -1,0 +1,43 @@
+{
+    "business_id": "asAHqgKQtCWiBbC3XriSIQ",
+    "name": "Chang Jiang",
+    "address": "646 S Gammon Rd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53719",
+    "latitude": 43.0505454,
+    "longitude": -89.5039768,
+    "stars": 3.5,
+    "review_count": 32,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Caters": "False",
+        "RestaurantsReservations": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "WiFi": "'no'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsPriceRange2": "1",
+        "BikeParking": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese, Food, Ethnic Food, Specialty Food",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-22:0"
+    }
+}

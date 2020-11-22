@@ -1,0 +1,31 @@
+{
+    "business_id": "exx_UjNFHW2uPI1ZT7JFNA",
+    "name": "AnSun",
+    "address": "2411 Village Green Pl",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61822",
+    "latitude": 40.083446,
+    "longitude": -88.297332,
+    "stars": 3.0,
+    "review_count": 16,
+    "is_open": 0,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'full_bar'",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "NoiseLevel": "u'quiet'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "HasTV": "True",
+        "OutdoorSeating": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

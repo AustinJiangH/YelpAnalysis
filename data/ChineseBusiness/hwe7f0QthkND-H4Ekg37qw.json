@@ -1,0 +1,43 @@
+{
+    "business_id": "hwe7f0QthkND-H4Ekg37qw",
+    "name": "New Dumpling And Sushi House",
+    "address": "2138 Murray Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15217",
+    "latitude": 40.4326061,
+    "longitude": -79.9233686,
+    "stars": 3.5,
+    "review_count": 82,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "True",
+        "GoodForKids": "True",
+        "WiFi": "u'no'",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsAttire": "'casual'",
+        "Alcohol": "u'full_bar'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "BikeParking": "True",
+        "Caters": "True",
+        "RestaurantsReservations": "True",
+        "RestaurantsTableService": "True",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese, Asian Fusion",
+    "hours": {
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-21:30"
+    }
+}

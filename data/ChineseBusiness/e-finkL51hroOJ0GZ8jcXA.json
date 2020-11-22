@@ -1,0 +1,28 @@
+{
+    "business_id": "e-finkL51hroOJ0GZ8jcXA",
+    "name": "China One West",
+    "address": "518 Grand Canyon Dr",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53719",
+    "latitude": 43.055135,
+    "longitude": -89.497286,
+    "stars": 2.5,
+    "review_count": 11,
+    "is_open": 0,
+    "attributes": {
+        "WiFi": "u'no'",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'average'",
+        "GoodForKids": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1",
+        "HasTV": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

@@ -1,0 +1,41 @@
+{
+    "business_id": "Bv1AGJ3p_X35tqUcVDrpHg",
+    "name": "China King",
+    "address": "33125 Center Ridge Rd",
+    "city": "North Ridgeville",
+    "state": "OH",
+    "postal_code": "44039",
+    "latitude": 41.40475,
+    "longitude": -81.982606,
+    "stars": 3.5,
+    "review_count": 14,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'no'",
+        "HasTV": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "True",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "None",
+        "Caters": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "2",
+        "BikeParking": "True"
+    },
+    "categories": "Restaurants, Chinese, Food",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-21:30"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "business_id": "d51qbs6CitHbFD--G-AEVw",
+    "name": "Shanghai 1938",
+    "address": "2504 Village Green Pl",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61822",
+    "latitude": 40.0822044585,
+    "longitude": -88.2959151641,
+    "stars": 3.0,
+    "review_count": 22,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "True",
+        "RestaurantsPriceRange2": "2",
+        "HasTV": "False",
+        "WiFi": "u'paid'",
+        "RestaurantsTakeOut": "True",
+        "Caters": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'quiet'",
+        "BikeParking": "True",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'beer_and_wine'"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "17:0-21:0",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-23:0",
+        "Saturday": "12:0-23:0",
+        "Sunday": "16:0-21:0"
+    }
+}

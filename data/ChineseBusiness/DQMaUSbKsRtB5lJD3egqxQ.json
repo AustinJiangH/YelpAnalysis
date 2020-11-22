@@ -1,0 +1,43 @@
+{
+    "business_id": "DQMaUSbKsRtB5lJD3egqxQ",
+    "name": "Wah Kee Wonton Noodle",
+    "address": "600 Williamson St, Ste E",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53703",
+    "latitude": 43.0766991,
+    "longitude": -89.374957,
+    "stars": 3.5,
+    "review_count": 166,
+    "is_open": 0,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'beer_and_wine'",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "Caters": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "NoiseLevel": "u'average'",
+        "RestaurantsReservations": "False",
+        "HasTV": "True",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BikeParking": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "WiFi": "u'no'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Noodles, Szechuan, Cantonese, Restaurants, Chinese",
+    "hours": {
+        "Monday": "16:30-21:30",
+        "Tuesday": "16:30-21:30",
+        "Wednesday": "16:30-21:30",
+        "Thursday": "16:30-21:30",
+        "Friday": "16:30-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "12:0-21:0"
+    }
+}

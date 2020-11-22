@@ -1,0 +1,40 @@
+{
+    "business_id": "KF1ngA96RBiRM5h8V7IQ2g",
+    "name": "Cool Ice Taipei Kitchen",
+    "address": "5813 Forbes Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15217",
+    "latitude": 40.4381461,
+    "longitude": -79.9223846,
+    "stars": 4.0,
+    "review_count": 30,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsDelivery": "True",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'quiet'",
+        "Caters": "False",
+        "RestaurantsReservations": "False",
+        "Alcohol": "u'none'",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "WiFi": "u'free'",
+        "HasTV": "False",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Ice Cream & Frozen Yogurt, Food, Taiwanese, Restaurants, Chinese",
+    "hours": {
+        "Tuesday": "13:0-21:0",
+        "Wednesday": "12:0-21:0",
+        "Thursday": "12:0-21:0",
+        "Friday": "12:0-22:0",
+        "Saturday": "12:0-22:0",
+        "Sunday": "12:0-20:30"
+    }
+}

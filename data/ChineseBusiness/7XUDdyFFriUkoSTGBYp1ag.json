@@ -1,0 +1,29 @@
+{
+    "business_id": "7XUDdyFFriUkoSTGBYp1ag",
+    "name": "Asian Bistro",
+    "address": "455 Penn Lincoln Dr",
+    "city": "Imperial",
+    "state": "PA",
+    "postal_code": "15126",
+    "latitude": 40.4426795,
+    "longitude": -80.235987,
+    "stars": 4.5,
+    "review_count": 3,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "HasTV": "True",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Thai, Asian Fusion, Restaurants, Chinese",
+    "hours": {
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:30",
+        "Saturday": "12:30-21:30",
+        "Sunday": "13:30-20:30"
+    }
+}

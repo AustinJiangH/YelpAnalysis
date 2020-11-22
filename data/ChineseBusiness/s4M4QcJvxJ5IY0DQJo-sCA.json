@@ -1,0 +1,43 @@
+{
+    "business_id": "s4M4QcJvxJ5IY0DQJo-sCA",
+    "name": "Leaf and Plate",
+    "address": "5884 Ellsworth Ave, 1st Fl",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15232",
+    "latitude": 40.4577813,
+    "longitude": -79.9279191,
+    "stars": 5.0,
+    "review_count": 7,
+    "is_open": 0,
+    "attributes": {
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': True, 'valet': False}",
+        "OutdoorSeating": "True",
+        "BusinessAcceptsBitcoin": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsReservations": "True",
+        "RestaurantsPriceRange2": "2",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "False",
+        "HasTV": "False",
+        "RestaurantsTableService": "True",
+        "RestaurantsDelivery": "False",
+        "BikeParking": "True",
+        "DogsAllowed": "False",
+        "Alcohol": "'none'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "WiFi": "u'free'"
+    },
+    "categories": "Chinese, Mongolian, Sandwiches, Restaurants, Soup, Food, Salad, Tea Rooms",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

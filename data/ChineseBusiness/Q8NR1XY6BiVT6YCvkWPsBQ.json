@@ -1,0 +1,38 @@
+{
+    "business_id": "Q8NR1XY6BiVT6YCvkWPsBQ",
+    "name": "Magic Wok",
+    "address": "1027 N Aurora Rd",
+    "city": "Aurora",
+    "state": "OH",
+    "postal_code": "44202",
+    "latitude": 41.3455033,
+    "longitude": -81.3763519,
+    "stars": 4.0,
+    "review_count": 13,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "None",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "12:0-22:0",
+        "Sunday": "15:0-21:0"
+    }
+}

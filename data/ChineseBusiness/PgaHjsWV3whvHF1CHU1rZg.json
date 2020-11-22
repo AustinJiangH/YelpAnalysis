@@ -1,0 +1,42 @@
+{
+    "business_id": "PgaHjsWV3whvHF1CHU1rZg",
+    "name": "King Wah",
+    "address": "20668 Center Ridge Rd",
+    "city": "Rocky River",
+    "state": "OH",
+    "postal_code": "44116",
+    "latitude": 41.4630934,
+    "longitude": -81.849458,
+    "stars": 3.5,
+    "review_count": 109,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "True",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "True",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsPriceRange2": "2",
+        "Caters": "True",
+        "WiFi": "'free'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "BikeParking": "True",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "NoiseLevel": "u'average'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': True}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:30-22:0",
+        "Sunday": "11:30-22:0"
+    }
+}

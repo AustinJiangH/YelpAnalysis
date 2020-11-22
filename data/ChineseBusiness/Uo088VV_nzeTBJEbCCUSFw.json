@@ -1,0 +1,42 @@
+{
+    "business_id": "Uo088VV_nzeTBJEbCCUSFw",
+    "name": "China City",
+    "address": "156 Cherry St",
+    "city": "Kent",
+    "state": "OH",
+    "postal_code": "44240",
+    "latitude": 41.1397514,
+    "longitude": -81.3591117,
+    "stars": 3.5,
+    "review_count": 59,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'quiet'",
+        "Alcohol": "u'beer_and_wine'",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsDelivery": "True",
+        "OutdoorSeating": "False",
+        "Caters": "False",
+        "WiFi": "'free'",
+        "BikeParking": "True",
+        "RestaurantsReservations": "True",
+        "GoodForKids": "True",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

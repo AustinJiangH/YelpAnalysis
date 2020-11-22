@@ -1,0 +1,43 @@
+{
+    "business_id": "imBVeP4aA-aLTdPD-t8_WQ",
+    "name": "China Wok",
+    "address": "1724 Fordem Ave",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53704",
+    "latitude": 43.0945835,
+    "longitude": -89.3641631,
+    "stars": 3.0,
+    "review_count": 48,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "True",
+        "RestaurantsGoodForGroups": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "GoodForKids": "False",
+        "Corkage": "False",
+        "WiFi": "u'no'",
+        "BYOBCorkage": "'yes_free'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "RestaurantsReservations": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "True",
+        "HasTV": "False",
+        "RestaurantsAttire": "'casual'",
+        "NoiseLevel": "u'average'",
+        "Caters": "True"
+    },
+    "categories": "Restaurants, Chinese, Asian Fusion",
+    "hours": {
+        "Tuesday": "10:45-22:0",
+        "Wednesday": "10:45-22:0",
+        "Thursday": "10:45-22:0",
+        "Friday": "10:45-22:30",
+        "Saturday": "10:45-22:30",
+        "Sunday": "10:45-22:0"
+    }
+}

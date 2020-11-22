@@ -1,0 +1,19 @@
+{
+    "business_id": "v630GIZJUVlggrMSDLGclQ",
+    "name": "No.1 Asian Buffet",
+    "address": "1990 Cooper Foster Park Rd",
+    "city": "Lorain",
+    "state": "OH",
+    "postal_code": "44053",
+    "latitude": 41.418297,
+    "longitude": -82.2030839,
+    "stars": 2.0,
+    "review_count": 4,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "NoiseLevel": "u'average'"
+    },
+    "categories": "Asian Fusion, Chinese, Restaurants",
+    "hours": null
+}

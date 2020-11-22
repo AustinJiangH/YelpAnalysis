@@ -1,0 +1,42 @@
+{
+    "business_id": "MLwVTDhM2DOESvKGcfKCsg",
+    "name": "Magic Wok",
+    "address": "2044 Atwood Ave",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53704",
+    "latitude": 43.092519,
+    "longitude": -89.353881,
+    "stars": 4.0,
+    "review_count": 68,
+    "is_open": 0,
+    "attributes": {
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "HasTV": "False",
+        "RestaurantsTableService": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "BikeParking": "True",
+        "WiFi": "'free'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "Alcohol": "u'beer_and_wine'",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "12:0-21:0"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "business_id": "RN-fX-LiwUm46a6G_r1xSw",
+    "name": "China Moon",
+    "address": "10735 Ravenna Rd",
+    "city": "Twinsburg",
+    "state": "OH",
+    "postal_code": "44087",
+    "latitude": 41.331638,
+    "longitude": -81.464009,
+    "stars": 3.0,
+    "review_count": 17,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "RestaurantsReservations": "True",
+        "Ambience": "None",
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "None",
+        "RestaurantsAttire": "'casual'",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'no'",
+        "RestaurantsPriceRange2": "1",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

@@ -1,0 +1,39 @@
+{
+    "business_id": "JQ4tpUOOwlrZXSyW4Wlyaw",
+    "name": "China Garden",
+    "address": "120 E Main St",
+    "city": "Sun Prairie",
+    "state": "WI",
+    "postal_code": "53590",
+    "latitude": 43.1835006,
+    "longitude": -89.2128213,
+    "stars": 4.0,
+    "review_count": 10,
+    "is_open": 0,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1",
+        "HappyHour": "False",
+        "RestaurantsTableService": "True",
+        "WiFi": "u'no'",
+        "WheelchairAccessible": "False",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsReservations": "True",
+        "GoodForKids": "True",
+        "BikeParking": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:0",
+        "Saturday": "11:0-21:0",
+        "Sunday": "12:0-21:0"
+    }
+}

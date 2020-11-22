@@ -1,0 +1,43 @@
+{
+    "business_id": "j1i7s55PmOFzJC3l6O8PiA",
+    "name": "Hong Kong Station",
+    "address": "1441 Regent St",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53711",
+    "latitude": 43.067569,
+    "longitude": -89.410727,
+    "stars": 3.5,
+    "review_count": 50,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "WiFi": "'free'",
+        "BikeParking": "True",
+        "RestaurantsTableService": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Caters": "False",
+        "RestaurantsPriceRange2": "2",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "Alcohol": "u'beer_and_wine'",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'average'",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "HasTV": "True",
+        "RestaurantsAttire": "u'casual'"
+    },
+    "categories": "Cantonese, Chinese, Restaurants",
+    "hours": {
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "11:0-21:30"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "business_id": "dHJ4PT5C9mr6QPs4o_DaSA",
+    "name": "Golden Dragon",
+    "address": "1634 State Rd",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "postal_code": "44223",
+    "latitude": 41.1278723,
+    "longitude": -81.5087648,
+    "stars": 3.5,
+    "review_count": 36,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "True",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "2",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "'casual'",
+        "NoiseLevel": "u'average'",
+        "Alcohol": "u'full_bar'",
+        "HasTV": "True",
+        "RestaurantsDelivery": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "BikeParking": "True",
+        "WiFi": "'free'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Restaurants, Sushi Bars, Chinese, Japanese",
+    "hours": {
+        "Monday": "11:30-22:0",
+        "Tuesday": "11:30-22:0",
+        "Wednesday": "11:30-22:0",
+        "Thursday": "11:30-22:0",
+        "Friday": "11:30-23:0",
+        "Saturday": "11:30-23:0"
+    }
+}

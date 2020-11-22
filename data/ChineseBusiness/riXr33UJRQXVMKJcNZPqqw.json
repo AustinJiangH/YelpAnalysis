@@ -1,0 +1,42 @@
+{
+    "business_id": "riXr33UJRQXVMKJcNZPqqw",
+    "name": "Wing Kee",
+    "address": "23161 Emery Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44128",
+    "latitude": 41.4357413332,
+    "longitude": -81.5152082,
+    "stars": 1.5,
+    "review_count": 15,
+    "is_open": 1,
+    "attributes": {
+        "WiFi": "u'no'",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'quiet'",
+        "Caters": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "HasTV": "True"
+    },
+    "categories": "Seafood, Soup, Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:30",
+        "Tuesday": "10:30-22:30",
+        "Wednesday": "10:30-22:30",
+        "Thursday": "10:30-22:30",
+        "Friday": "10:30-23:30",
+        "Saturday": "10:30-23:30",
+        "Sunday": "12:0-22:0"
+    }
+}

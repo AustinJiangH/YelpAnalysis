@@ -1,0 +1,20 @@
+{
+    "business_id": "M-4dNFcnRJ0_hI357OLGhg",
+    "name": "Golden Palace",
+    "address": "5920 Steubenville Pike",
+    "city": "Robinson Township",
+    "state": "PA",
+    "postal_code": "15205",
+    "latitude": 40.4492001,
+    "longitude": -80.1413137,
+    "stars": 4.5,
+    "review_count": 5,
+    "is_open": 0,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsPriceRange2": "2"
+    },
+    "categories": "Dim Sum, Restaurants, Chinese, Food",
+    "hours": null
+}

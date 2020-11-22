@@ -1,0 +1,42 @@
+{
+    "business_id": "rloarAwOAiQWss9kdl41nQ",
+    "name": "Jade Garden Restaurant",
+    "address": "4450 William Penn Hwy",
+    "city": "Murrysville",
+    "state": "PA",
+    "postal_code": "15668",
+    "latitude": 40.426683,
+    "longitude": -79.6782316,
+    "stars": 3.5,
+    "review_count": 24,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "'full_bar'",
+        "HasTV": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BikeParking": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsReservations": "True",
+        "NoiseLevel": "u'average'",
+        "RestaurantsPriceRange2": "2",
+        "WiFi": "u'free'",
+        "Caters": "True",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Restaurants, Thai, Sushi Bars, Chinese",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:30",
+        "Saturday": "11:30-22:30",
+        "Sunday": "0:0-21:30"
+    }
+}

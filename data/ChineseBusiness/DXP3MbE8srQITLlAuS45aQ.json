@@ -1,0 +1,43 @@
+{
+    "business_id": "DXP3MbE8srQITLlAuS45aQ",
+    "name": "Hunan Bar",
+    "address": "239 Atwood St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15213",
+    "latitude": 40.4402935,
+    "longitude": -79.9562913,
+    "stars": 4.0,
+    "review_count": 77,
+    "is_open": 1,
+    "attributes": {
+        "Caters": "True",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsReservations": "True",
+        "WiFi": "u'no'",
+        "BikeParking": "True",
+        "NoiseLevel": "u'quiet'",
+        "HasTV": "True",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "2",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': None, 'upscale': False, 'classy': False, 'casual': True}"
+    },
+    "categories": "Chinese, Restaurants, Szechuan",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:30-21:30"
+    }
+}

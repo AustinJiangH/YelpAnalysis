@@ -1,0 +1,43 @@
+{
+    "business_id": "CbsS6VvPsIvpytUbLAu71Q",
+    "name": "Oriental Palace Buffet",
+    "address": "3364 Warren Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44111",
+    "latitude": 41.4624927,
+    "longitude": -81.8032376,
+    "stars": 3.0,
+    "review_count": 54,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "1",
+        "NoiseLevel": "u'average'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsReservations": "False",
+        "Caters": "False",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "True",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "WiFi": "u'no'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True"
+    },
+    "categories": "Buffets, Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-21:30"
+    }
+}

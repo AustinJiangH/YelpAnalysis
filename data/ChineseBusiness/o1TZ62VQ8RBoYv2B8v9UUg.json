@@ -1,0 +1,23 @@
+{
+    "business_id": "o1TZ62VQ8RBoYv2B8v9UUg",
+    "name": "China One",
+    "address": "2765 E 55th St",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44104",
+    "latitude": 41.4832268,
+    "longitude": -81.6506821,
+    "stars": 2.0,
+    "review_count": 6,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "True",
+        "RestaurantsAttire": "'casual'",
+        "GoodForKids": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

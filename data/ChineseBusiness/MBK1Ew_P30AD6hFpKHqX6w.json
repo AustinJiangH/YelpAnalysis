@@ -1,0 +1,41 @@
+{
+    "business_id": "MBK1Ew_P30AD6hFpKHqX6w",
+    "name": "China Buffet",
+    "address": "1071 Mountain View Dr",
+    "city": "West Mifflin",
+    "state": "PA",
+    "postal_code": "15122",
+    "latitude": 40.3474293,
+    "longitude": -79.9491155,
+    "stars": 2.0,
+    "review_count": 11,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "False",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'quiet'",
+        "Alcohol": "'none'",
+        "RestaurantsDelivery": "False",
+        "BikeParking": "False",
+        "OutdoorSeating": "False",
+        "GoodForKids": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "WiFi": "'no'",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Restaurants, Chinese, Buffets",
+    "hours": {
+        "Monday": "11:15-21:0",
+        "Tuesday": "11:15-21:0",
+        "Wednesday": "11:15-21:0",
+        "Thursday": "11:15-21:0",
+        "Friday": "11:15-21:30",
+        "Saturday": "11:15-21:30",
+        "Sunday": "11:15-20:0"
+    }
+}

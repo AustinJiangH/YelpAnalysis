@@ -1,0 +1,39 @@
+{
+    "business_id": "7toYPf5ZAjCkEuwaMPtDwQ",
+    "name": "Wah Fu Chinese Restaurant",
+    "address": "15210 Bagley Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44130",
+    "latitude": 41.3696012127,
+    "longitude": -81.8036576249,
+    "stars": 3.0,
+    "review_count": 56,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForKids": "True",
+        "HasTV": "True",
+        "RestaurantsReservations": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:30",
+        "Saturday": "11:30-22:30",
+        "Sunday": "12:0-20:30"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "business_id": "HbtpJdgRLQcfn2HhqC7wAA",
+    "name": "Rice Bowl",
+    "address": "1375 N Portage Path",
+    "city": "Akron",
+    "state": "OH",
+    "postal_code": "44313",
+    "latitude": 41.1324547165,
+    "longitude": -81.5490881494,
+    "stars": 3.0,
+    "review_count": 19,
+    "is_open": 0,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "WiFi": "'no'",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "Alcohol": "'beer_and_wine'",
+        "HasTV": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "1",
+        "Caters": "True",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "American (New), Food, Restaurants, Japanese, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:0-21:30"
+    }
+}

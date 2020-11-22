@@ -1,0 +1,42 @@
+{
+    "business_id": "XF2eTNV5RfzoSJQ-kRZJmA",
+    "name": "Spice Thai Cuisine",
+    "address": "8870 Darrow Rd",
+    "city": "Twinsburg",
+    "state": "OH",
+    "postal_code": "44087",
+    "latitude": 41.3074471345,
+    "longitude": -81.4420044422,
+    "stars": 3.5,
+    "review_count": 79,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "NoiseLevel": "u'average'",
+        "RestaurantsAttire": "u'casual'",
+        "WiFi": "u'no'",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "2",
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsReservations": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "'beer_and_wine'",
+        "Caters": "True",
+        "RestaurantsDelivery": "None",
+        "BikeParking": "True",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Chinese, Restaurants, Thai",
+    "hours": {
+        "Tuesday": "16:30-21:0",
+        "Wednesday": "16:30-21:0",
+        "Thursday": "16:30-21:0",
+        "Friday": "11:30-22:0",
+        "Saturday": "11:30-22:0",
+        "Sunday": "16:30-21:0"
+    }
+}

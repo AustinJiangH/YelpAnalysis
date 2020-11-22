@@ -1,0 +1,33 @@
+{
+    "business_id": "YU7KZJP0LsLcvU4eIHhtfw",
+    "name": "Hunan Wok Chinese Restaurant",
+    "address": "1822 Homeville Rd",
+    "city": "West Mifflin",
+    "state": "PA",
+    "postal_code": "15122",
+    "latitude": 40.365078,
+    "longitude": -79.8718048,
+    "stars": 3.5,
+    "review_count": 7,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "Alcohol": "u'none'",
+        "BusinessAcceptsCreditCards": "False",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'no'",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'quiet'",
+        "Caters": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsReservations": "False",
+        "HasTV": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

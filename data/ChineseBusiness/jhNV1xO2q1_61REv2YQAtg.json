@@ -1,0 +1,32 @@
+{
+    "business_id": "jhNV1xO2q1_61REv2YQAtg",
+    "name": "China Buffet",
+    "address": "5866 Mayfield Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44124",
+    "latitude": 41.519235,
+    "longitude": -81.4678053,
+    "stars": 3.5,
+    "review_count": 5,
+    "is_open": 0,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "HasTV": "False",
+        "Caters": "False",
+        "NoiseLevel": "u'average'",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "False",
+        "WiFi": "u'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

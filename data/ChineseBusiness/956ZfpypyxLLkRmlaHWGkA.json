@@ -1,0 +1,42 @@
+{
+    "business_id": "956ZfpypyxLLkRmlaHWGkA",
+    "name": "Double Dragon Buffet",
+    "address": "6276 Pearl Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44130",
+    "latitude": 41.3910348,
+    "longitude": -81.7637795,
+    "stars": 2.5,
+    "review_count": 38,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'average'",
+        "RestaurantsPriceRange2": "2",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "Alcohol": "'beer_and_wine'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "WiFi": "u'no'",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "BikeParking": "True",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Chinese, Buffets, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "11:0-21:30"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "business_id": "FOIQ49HJ6Y5fPl8QYr34XA",
+    "name": "Hunan Inn",
+    "address": "3939 Washington Rd",
+    "city": "McMurray",
+    "state": "PA",
+    "postal_code": "15317",
+    "latitude": 40.2706066,
+    "longitude": -80.1262667,
+    "stars": 3.5,
+    "review_count": 17,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "'quiet'",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsReservations": "False",
+        "WiFi": "'no'",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "12:0-21:30"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "business_id": "eW6HLU-M3xJOpGyKLrWxUg",
+    "name": "Asian Cafe",
+    "address": "701 Cooke Dr",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15234",
+    "latitude": 40.3689607,
+    "longitude": -80.033156,
+    "stars": 4.0,
+    "review_count": 30,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "WiFi": "'no'",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "Caters": "False",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': None, 'divey': False, 'intimate': None, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'none'"
+    },
+    "categories": "Thai, Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-23:0",
+        "Saturday": "10:30-23:0",
+        "Sunday": "10:30-22:0"
+    }
+}

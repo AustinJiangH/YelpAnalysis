@@ -1,0 +1,42 @@
+{
+    "business_id": "2Cmpz9lgr-wfOLAwgUf79g",
+    "name": "ZenZen Taste \u56db\u5408\u9662",
+    "address": "6634 Watts Rd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53719",
+    "latitude": 43.0506402,
+    "longitude": -89.4976197,
+    "stars": 4.0,
+    "review_count": 49,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "'none'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "True",
+        "RestaurantsTableService": "True",
+        "BikeParking": "True",
+        "WiFi": "'no'",
+        "RestaurantsPriceRange2": "2",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "HasTV": "False",
+        "OutdoorSeating": "False"
+    },
+    "categories": "Restaurants, Chinese, Asian Fusion",
+    "hours": {
+        "Monday": "17:0-21:0",
+        "Wednesday": "5:0-21:0",
+        "Thursday": "17:0-21:0",
+        "Friday": "17:0-21:0",
+        "Saturday": "17:0-21:0",
+        "Sunday": "17:0-21:0"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "business_id": "OiR6kP_mAD47vKU1WiPshg",
+    "name": "Asian Wok Chinese Restaurant",
+    "address": "24389 Detroit Rd",
+    "city": "Westlake",
+    "state": "OH",
+    "postal_code": "44145",
+    "latitude": 41.4706331,
+    "longitude": -81.8906794,
+    "stars": 3.0,
+    "review_count": 33,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "True",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "True",
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "WiFi": "'no'",
+        "BikeParking": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "14:0-22:0",
+        "Sunday": "12:0-21:0"
+    }
+}

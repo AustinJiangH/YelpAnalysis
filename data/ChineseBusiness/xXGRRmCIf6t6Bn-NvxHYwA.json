@@ -1,0 +1,41 @@
+{
+    "business_id": "xXGRRmCIf6t6Bn-NvxHYwA",
+    "name": "Foo Sing",
+    "address": "25102 Brookpark Rd, Ste 130",
+    "city": "North Olmsted",
+    "state": "OH",
+    "postal_code": "44070",
+    "latitude": 41.4193581,
+    "longitude": -81.8968105,
+    "stars": 3.5,
+    "review_count": 41,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "'quiet'",
+        "RestaurantsDelivery": "True",
+        "HasTV": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Alcohol": "u'beer_and_wine'",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "WiFi": "u'free'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Seafood, Chinese, Restaurants, Asian Fusion",
+    "hours": {
+        "Monday": "0:0-0:0",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30"
+    }
+}

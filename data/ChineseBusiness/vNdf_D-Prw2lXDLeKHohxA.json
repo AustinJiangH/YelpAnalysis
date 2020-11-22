@@ -1,0 +1,30 @@
+{
+    "business_id": "vNdf_D-Prw2lXDLeKHohxA",
+    "name": "Pandas",
+    "address": "4174 Wheatley Rd, Ste 600",
+    "city": "Richfield",
+    "state": "OH",
+    "postal_code": "44286",
+    "latitude": 41.2195696,
+    "longitude": -81.6369753,
+    "stars": 3.5,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+        "WiFi": "u'no'",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:0",
+        "Sunday": "15:30-20:30"
+    }
+}

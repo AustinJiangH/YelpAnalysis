@@ -1,0 +1,39 @@
+{
+    "business_id": "z3hD4GX5gSJtuqNhN-o2cg",
+    "name": "I Wok",
+    "address": "113 Calvin St",
+    "city": "Savoy",
+    "state": "IL",
+    "postal_code": "61874",
+    "latitude": 40.0590115158,
+    "longitude": -88.2522375155,
+    "stars": 4.0,
+    "review_count": 41,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "'none'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsPriceRange2": "1",
+        "HasTV": "True",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "'quiet'",
+        "BikeParking": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsReservations": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "11:30-21:30"
+    }
+}

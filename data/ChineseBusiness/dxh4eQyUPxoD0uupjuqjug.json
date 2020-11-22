@@ -1,0 +1,41 @@
+{
+    "business_id": "dxh4eQyUPxoD0uupjuqjug",
+    "name": "China Gourmet",
+    "address": "1971 W Market St",
+    "city": "Akron",
+    "state": "OH",
+    "postal_code": "44313",
+    "latitude": 41.113899,
+    "longitude": -81.578352,
+    "stars": 3.0,
+    "review_count": 13,
+    "is_open": 0,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "NoiseLevel": "u'quiet'",
+        "HasTV": "True",
+        "WiFi": "u'no'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "True",
+        "RestaurantsDelivery": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "RestaurantsPriceRange2": "2",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "Alcohol": "u'full_bar'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:30-22:0",
+        "Tuesday": "11:30-22:0",
+        "Wednesday": "11:30-22:0",
+        "Thursday": "11:30-22:0",
+        "Friday": "11:30-23:0",
+        "Saturday": "11:30-23:0",
+        "Sunday": "12:0-21:0"
+    }
+}

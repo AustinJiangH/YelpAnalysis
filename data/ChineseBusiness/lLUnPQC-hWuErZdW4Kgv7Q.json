@@ -1,0 +1,22 @@
+{
+    "business_id": "lLUnPQC-hWuErZdW4Kgv7Q",
+    "name": "Tj Asian Express & Sushi",
+    "address": "500 Southpark Ctr",
+    "city": "Strongsville",
+    "state": "OH",
+    "postal_code": "44136",
+    "latitude": 41.3088372,
+    "longitude": -81.8204038,
+    "stars": 3.0,
+    "review_count": 7,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "GoodForKids": "True"
+    },
+    "categories": "Sushi Bars, Restaurants, Chinese",
+    "hours": null
+}

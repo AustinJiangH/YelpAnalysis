@@ -1,0 +1,31 @@
+{
+    "business_id": "WTluJrwTxVxZkXovV6cnnQ",
+    "name": "Panda Express",
+    "address": "7223 McKnight Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15237",
+    "latitude": 40.536824,
+    "longitude": -80.012042,
+    "stars": 3.0,
+    "review_count": 8,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Restaurants, Chinese, Fast Food",
+    "hours": {
+        "Monday": "10:30-21:30",
+        "Tuesday": "10:30-21:30",
+        "Wednesday": "10:30-21:30",
+        "Thursday": "10:30-21:30",
+        "Friday": "9:0-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "11:0-21:0"
+    }
+}

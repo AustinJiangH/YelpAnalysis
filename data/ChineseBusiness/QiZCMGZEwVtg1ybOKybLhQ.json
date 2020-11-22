@@ -1,0 +1,40 @@
+{
+    "business_id": "QiZCMGZEwVtg1ybOKybLhQ",
+    "name": "Kanda House",
+    "address": "258 N Craig St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15213",
+    "latitude": 40.451222,
+    "longitude": -79.9515915,
+    "stars": 2.0,
+    "review_count": 7,
+    "is_open": 0,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "u'quiet'",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "2",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True",
+        "RestaurantsTableService": "True",
+        "RestaurantsDelivery": "True",
+        "Caters": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Chinese, Vietnamese, Japanese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0"
+    }
+}

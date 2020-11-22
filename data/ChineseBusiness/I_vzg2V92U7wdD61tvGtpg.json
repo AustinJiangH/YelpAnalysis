@@ -1,0 +1,40 @@
+{
+    "business_id": "I_vzg2V92U7wdD61tvGtpg",
+    "name": "The Tong Garden",
+    "address": "956 Brookline Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15226",
+    "latitude": 40.3917885,
+    "longitude": -80.0177097,
+    "stars": 4.0,
+    "review_count": 19,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "GoodForKids": "True",
+        "WiFi": "u'no'",
+        "HasTV": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "False",
+        "Alcohol": "u'none'",
+        "BusinessAcceptsCreditCards": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'average'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:0-22:30",
+        "Tuesday": "10:0-22:30",
+        "Wednesday": "10:0-22:30",
+        "Thursday": "10:0-22:30",
+        "Friday": "10:0-23:0",
+        "Saturday": "10:0-23:0",
+        "Sunday": "11:0-22:0"
+    }
+}

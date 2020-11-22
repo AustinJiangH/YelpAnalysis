@@ -1,0 +1,30 @@
+{
+    "business_id": "Wqdws1zeQYTzV_7jq1a0hw",
+    "name": "Don Don Chinese Restaurant",
+    "address": "146 E Main St",
+    "city": "Carnegie",
+    "state": "PA",
+    "postal_code": "15106",
+    "latitude": 40.4079873,
+    "longitude": -80.0857029,
+    "stars": 3.0,
+    "review_count": 17,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False",
+        "HasTV": "True",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

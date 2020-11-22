@@ -1,0 +1,42 @@
+{
+    "business_id": "DCab_cz7nDDW-IPsnKGb_A",
+    "name": "Double 10",
+    "address": "3306 University Ave",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53705",
+    "latitude": 43.0756343,
+    "longitude": -89.4446351,
+    "stars": 4.0,
+    "review_count": 68,
+    "is_open": 0,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "Caters": "True",
+        "WiFi": "u'no'",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsDelivery": "True",
+        "GoodForKids": "True",
+        "Alcohol": "u'none'",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "HasTV": "False",
+        "BikeParking": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1"
+    },
+    "categories": "Food, Chinese, Food Delivery Services, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

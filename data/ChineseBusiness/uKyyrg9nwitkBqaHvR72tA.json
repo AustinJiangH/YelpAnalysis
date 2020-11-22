@@ -1,0 +1,31 @@
+{
+    "business_id": "uKyyrg9nwitkBqaHvR72tA",
+    "name": "Tai Wah Chinese Restaurant",
+    "address": "5835 Darrow Rd",
+    "city": "Hudson",
+    "state": "OH",
+    "postal_code": "44236",
+    "latitude": 41.2242702,
+    "longitude": -81.4403934,
+    "stars": 2.0,
+    "review_count": 11,
+    "is_open": 0,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'average'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "2",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'full_bar'",
+        "WiFi": "u'no'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

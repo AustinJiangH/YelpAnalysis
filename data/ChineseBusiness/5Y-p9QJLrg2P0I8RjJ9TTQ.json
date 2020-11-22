@@ -1,0 +1,40 @@
+{
+    "business_id": "5Y-p9QJLrg2P0I8RjJ9TTQ",
+    "name": "Chang Jiang",
+    "address": "4929 Commercial Ave",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53704",
+    "latitude": 43.1056341465,
+    "longitude": -89.2967010739,
+    "stars": 3.0,
+    "review_count": 12,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "None",
+        "GoodForKids": "False",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'none'",
+        "BikeParking": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "NoiseLevel": "u'average'",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "HasTV": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:0-22:0"
+    }
+}

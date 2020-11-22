@@ -1,0 +1,42 @@
+{
+    "business_id": "ldKrUirpZZ6JDnNwOwLpvw",
+    "name": "Ichiban Buffet",
+    "address": "105 N Mattis Ave",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61821",
+    "latitude": 40.1170483,
+    "longitude": -88.2783637,
+    "stars": 3.0,
+    "review_count": 35,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsPriceRange2": "1",
+        "Alcohol": "u'none'",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "NoiseLevel": "u'average'",
+        "WiFi": "u'no'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "Caters": "False",
+        "BikeParking": "True",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Sushi Bars, Chinese, Buffets, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "11:0-21:0"
+    }
+}

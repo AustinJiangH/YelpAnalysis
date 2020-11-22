@@ -1,0 +1,40 @@
+{
+    "business_id": "2lXYidovGbSa56cd07oHlg",
+    "name": "Hunan of Stow",
+    "address": "4157 Bridgewater Pkwy",
+    "city": "Stow",
+    "state": "OH",
+    "postal_code": "44224",
+    "latitude": 41.1803286,
+    "longitude": -81.4816831,
+    "stars": 3.0,
+    "review_count": 15,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsReservations": "False",
+        "Alcohol": "u'none'",
+        "BikeParking": "True",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "False",
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "False",
+        "HasTV": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1"
+    },
+    "categories": "Food, Chinese, Food Delivery Services, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:30",
+        "Saturday": "16:0-22:30",
+        "Sunday": "16:0-21:30"
+    }
+}

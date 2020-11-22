@@ -1,0 +1,43 @@
+{
+    "business_id": "t_yiQnxUDdPPCN2z4QyezA",
+    "name": "Golden Harbor Authentic Chinese Cuisine",
+    "address": "505 S Neil St",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.1110535,
+    "longitude": -88.2441408,
+    "stars": 4.5,
+    "review_count": 430,
+    "is_open": 1,
+    "attributes": {
+        "HasTV": "False",
+        "WiFi": "u'no'",
+        "RestaurantsPriceRange2": "2",
+        "BikeParking": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Caters": "True",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'average'",
+        "RestaurantsDelivery": "False",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "True",
+        "Alcohol": "u'none'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessAcceptsBitcoin": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': True}"
+    },
+    "categories": "Restaurants, Chinese, Taiwanese, Dim Sum",
+    "hours": {
+        "Tuesday": "16:30-21:0",
+        "Wednesday": "16:30-21:0",
+        "Thursday": "16:30-21:0",
+        "Friday": "16:30-21:0",
+        "Saturday": "16:30-21:0",
+        "Sunday": "16:30-20:30"
+    }
+}

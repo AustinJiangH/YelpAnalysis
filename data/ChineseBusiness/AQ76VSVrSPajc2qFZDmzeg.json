@@ -1,0 +1,26 @@
+{
+    "business_id": "AQ76VSVrSPajc2qFZDmzeg",
+    "name": "Panda Express",
+    "address": "106 E University Ave",
+    "city": "Urbana",
+    "state": "IL",
+    "postal_code": "61801",
+    "latitude": 40.1168417,
+    "longitude": -88.206665,
+    "stars": 3.0,
+    "review_count": 7,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Chinese, Restaurants, Fast Food",
+    "hours": {
+        "Monday": "10:30-21:30",
+        "Tuesday": "10:30-21:30",
+        "Wednesday": "10:30-21:30",
+        "Thursday": "10:30-21:30",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "10:30-21:30"
+    }
+}

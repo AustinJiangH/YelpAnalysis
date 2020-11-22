@@ -1,0 +1,25 @@
+{
+    "business_id": "izOvku5li7kyzY76UzLP2g",
+    "name": "Yen's Gourmet",
+    "address": "4219 Murray Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15217",
+    "latitude": 40.4225614,
+    "longitude": -79.9285714,
+    "stars": 2.0,
+    "review_count": 3,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

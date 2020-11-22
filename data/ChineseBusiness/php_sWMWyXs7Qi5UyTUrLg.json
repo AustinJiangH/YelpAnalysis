@@ -1,0 +1,39 @@
+{
+    "business_id": "php_sWMWyXs7Qi5UyTUrLg",
+    "name": "Asian Star",
+    "address": "182 Ohio River Blvd",
+    "city": "Leetsdale",
+    "state": "PA",
+    "postal_code": "15056",
+    "latitude": 40.559405,
+    "longitude": -80.205455,
+    "stars": 3.5,
+    "review_count": 16,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "'quiet'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "False",
+        "Caters": "False",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "Alcohol": "'none'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True"
+    },
+    "categories": "Pan Asian, Asian Fusion, Restaurants, Food, Specialty Food, Ethnic Food, Chinese",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:30",
+        "Saturday": "10:30-22:30",
+        "Sunday": "11:30-22:0"
+    }
+}

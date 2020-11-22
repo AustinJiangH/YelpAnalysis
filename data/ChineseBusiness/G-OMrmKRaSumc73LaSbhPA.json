@@ -1,0 +1,28 @@
+{
+    "business_id": "G-OMrmKRaSumc73LaSbhPA",
+    "name": "China Wok",
+    "address": "4060 Brownsvile Rd",
+    "city": "Brentwood",
+    "state": "PA",
+    "postal_code": "15227",
+    "latitude": 40.3665113,
+    "longitude": -79.9815697,
+    "stars": 3.5,
+    "review_count": 16,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "HasTV": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

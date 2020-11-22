@@ -1,0 +1,42 @@
+{
+    "business_id": "4rSHsXO4ozQoD0hoPCDatQ",
+    "name": "China Express",
+    "address": "13621 Detroit Ave",
+    "city": "Lakewood",
+    "state": "OH",
+    "postal_code": "44107",
+    "latitude": 41.4851133,
+    "longitude": -81.7872673,
+    "stars": 2.5,
+    "review_count": 31,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "False",
+        "NoiseLevel": "'average'",
+        "Caters": "False",
+        "WiFi": "u'no'",
+        "BikeParking": "False",
+        "HasTV": "True",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:30-23:30",
+        "Tuesday": "11:30-23:30",
+        "Wednesday": "11:30-23:30",
+        "Thursday": "11:30-23:30",
+        "Friday": "11:30-23:30",
+        "Saturday": "10:30-23:30",
+        "Sunday": "12:0-22:30"
+    }
+}

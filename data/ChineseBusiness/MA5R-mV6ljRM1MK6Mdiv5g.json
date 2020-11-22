@@ -1,0 +1,42 @@
+{
+    "business_id": "MA5R-mV6ljRM1MK6Mdiv5g",
+    "name": "Panda Express",
+    "address": "2000 N Neil St",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.142039,
+    "longitude": -88.244042,
+    "stars": 3.5,
+    "review_count": 11,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "False",
+        "BusinessParking": "None",
+        "RestaurantsPriceRange2": "1",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'loud'",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "None",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "None",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsTableService": "False",
+        "Ambience": "None",
+        "DriveThru": "False",
+        "HasTV": "True"
+    },
+    "categories": "Fast Food, Banks & Credit Unions, Restaurants, Chinese, Financial Services",
+    "hours": {
+        "Monday": "10:30-21:0",
+        "Tuesday": "10:30-21:0",
+        "Wednesday": "10:30-21:0",
+        "Thursday": "10:30-21:0",
+        "Friday": "10:30-21:0",
+        "Saturday": "10:30-21:0",
+        "Sunday": "11:0-18:0"
+    }
+}

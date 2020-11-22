@@ -1,0 +1,28 @@
+{
+    "business_id": "dyaSQBKagPYylOJxsU8CMA",
+    "name": "Jimmy Tsang's Chinese Restaurant",
+    "address": "5700 Centre Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15206",
+    "latitude": 40.4571291,
+    "longitude": -79.9334864,
+    "stars": 3.0,
+    "review_count": 11,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'full_bar'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

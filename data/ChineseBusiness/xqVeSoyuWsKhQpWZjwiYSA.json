@@ -1,0 +1,22 @@
+{
+    "business_id": "xqVeSoyuWsKhQpWZjwiYSA",
+    "name": "Golden Gate Chinese Express",
+    "address": "1585 Golden Gate Plz",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44124",
+    "latitude": 41.519549,
+    "longitude": -81.4498892,
+    "stars": 1.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

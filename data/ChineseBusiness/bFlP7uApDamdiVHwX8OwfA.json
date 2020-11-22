@@ -1,0 +1,41 @@
+{
+    "business_id": "bFlP7uApDamdiVHwX8OwfA",
+    "name": "China Ichiban",
+    "address": "318 Curry Hollow Rd",
+    "city": "Pleasant Hills",
+    "state": "PA",
+    "postal_code": "15236",
+    "latitude": 40.3375560832,
+    "longitude": -79.9761933088,
+    "stars": 3.5,
+    "review_count": 26,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "WiFi": "u'free'",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': True, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "'casual'",
+        "BikeParking": "True",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsDelivery": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "NoiseLevel": "u'quiet'",
+        "HasTV": "True",
+        "GoodForKids": "False",
+        "RestaurantsPriceRange2": "2"
+    },
+    "categories": "Seafood, Chinese, Soup, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:0-21:0"
+    }
+}

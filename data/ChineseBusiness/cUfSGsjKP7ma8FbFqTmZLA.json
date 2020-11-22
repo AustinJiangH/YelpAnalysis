@@ -1,0 +1,28 @@
+{
+    "business_id": "cUfSGsjKP7ma8FbFqTmZLA",
+    "name": "Honeymoon Chinese Restaurant",
+    "address": "2021 Clay Pike",
+    "city": "Irwin",
+    "state": "PA",
+    "postal_code": "15642",
+    "latitude": 40.3043179,
+    "longitude": -79.7265755,
+    "stars": 4.5,
+    "review_count": 4,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsGoodForGroups": "False",
+        "HasTV": "True",
+        "GoodForKids": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

@@ -1,0 +1,42 @@
+{
+    "business_id": "J_NA-_WNLAJQg7eZwn1dWw",
+    "name": "Sesame Inn",
+    "address": "2975 Washington Rd",
+    "city": "Mc Murray",
+    "state": "PA",
+    "postal_code": "15317",
+    "latitude": 40.2950002,
+    "longitude": -80.1013775,
+    "stars": 3.5,
+    "review_count": 52,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsDelivery": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "HasTV": "True",
+        "RestaurantsTableService": "True",
+        "WiFi": "u'free'",
+        "BikeParking": "True",
+        "BusinessParking": "{'garage': None, 'street': None, 'validated': None, 'lot': True, 'valet': False}",
+        "Alcohol": "u'full_bar'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': True}",
+        "GoodForMeal": "{'dessert': None, 'latenight': None, 'lunch': True, 'dinner': None, 'brunch': None, 'breakfast': None}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:30-21:0",
+        "Tuesday": "10:30-21:0",
+        "Wednesday": "10:30-21:0",
+        "Thursday": "10:30-21:0",
+        "Friday": "10:30-21:0",
+        "Saturday": "10:30-21:0",
+        "Sunday": "12:0-21:0"
+    }
+}

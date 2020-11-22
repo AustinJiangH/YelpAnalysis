@@ -1,0 +1,42 @@
+{
+    "business_id": "w9h-pTp1K6JMos-xzl3Wyw",
+    "name": "Hot Wok Express",
+    "address": "1102 W University Ave",
+    "city": "Urbana",
+    "state": "IL",
+    "postal_code": "61801",
+    "latitude": 40.1166669,
+    "longitude": -88.2226294,
+    "stars": 3.0,
+    "review_count": 26,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "1",
+        "Alcohol": "u'none'",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "WiFi": "u'no'",
+        "Caters": "False",
+        "NoiseLevel": "u'average'",
+        "BikeParking": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "HasTV": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:0",
+        "Saturday": "11:0-21:0",
+        "Sunday": "11:0-21:0"
+    }
+}

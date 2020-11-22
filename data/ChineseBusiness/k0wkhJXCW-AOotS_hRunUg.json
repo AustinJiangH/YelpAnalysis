@@ -1,0 +1,29 @@
+{
+    "business_id": "k0wkhJXCW-AOotS_hRunUg",
+    "name": "Panda Garden",
+    "address": "2973 S Park Rd",
+    "city": "Bethel Park",
+    "state": "PA",
+    "postal_code": "15102",
+    "latitude": 40.327322,
+    "longitude": -80.0420148,
+    "stars": 3.5,
+    "review_count": 7,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "False",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "HasTV": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

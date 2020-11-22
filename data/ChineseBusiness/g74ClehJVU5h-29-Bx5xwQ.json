@@ -1,0 +1,40 @@
+{
+    "business_id": "g74ClehJVU5h-29-Bx5xwQ",
+    "name": "King Dragon",
+    "address": "3310 Kent Rd",
+    "city": "Stow",
+    "state": "OH",
+    "postal_code": "44224",
+    "latitude": 41.1586848,
+    "longitude": -81.4416184,
+    "stars": 4.0,
+    "review_count": 22,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "'none'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BikeParking": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "'casual'",
+        "WiFi": "'free'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-23:0",
+        "Saturday": "10:30-23:0",
+        "Sunday": "11:30-22:0"
+    }
+}

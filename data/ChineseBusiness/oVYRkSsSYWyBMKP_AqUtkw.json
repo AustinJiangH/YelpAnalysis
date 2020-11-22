@@ -1,0 +1,29 @@
+{
+    "business_id": "oVYRkSsSYWyBMKP_AqUtkw",
+    "name": "Asian Garden",
+    "address": "1144 W Pleasant Valley",
+    "city": "Parma",
+    "state": "OH",
+    "postal_code": "44131",
+    "latitude": 41.3615301,
+    "longitude": -81.6880185,
+    "stars": 3.0,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "Alcohol": "u'full_bar'",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'quiet'"
+    },
+    "categories": "Restaurants, Chinese, Japanese",
+    "hours": null
+}

@@ -1,0 +1,42 @@
+{
+    "business_id": "CuIPocteo1F3LEn1OqUoHg",
+    "name": "China Jade",
+    "address": "2190 Brookpark Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44134",
+    "latitude": 41.4198193,
+    "longitude": -81.6967548,
+    "stars": 4.0,
+    "review_count": 47,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsPriceRange2": "2",
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'no'",
+        "BikeParking": "False",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "Caters": "False",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "False",
+        "NoiseLevel": "u'quiet'",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:30-22:0",
+        "Tuesday": "11:30-22:0",
+        "Wednesday": "11:30-22:0",
+        "Thursday": "11:30-22:0",
+        "Friday": "11:30-23:30",
+        "Saturday": "11:30-23:30",
+        "Sunday": "12:0-21:30"
+    }
+}

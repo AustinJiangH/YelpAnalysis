@@ -1,0 +1,26 @@
+{
+    "business_id": "u7fc6_zgJEnEq3rEkC1gBg",
+    "name": "Chop Sticks",
+    "address": "2018 Murray Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15217",
+    "latitude": 40.4341822,
+    "longitude": -79.9230114,
+    "stars": 3.0,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'average'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

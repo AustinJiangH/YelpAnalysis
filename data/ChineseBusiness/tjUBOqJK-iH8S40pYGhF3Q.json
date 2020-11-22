@@ -1,0 +1,31 @@
+{
+    "business_id": "tjUBOqJK-iH8S40pYGhF3Q",
+    "name": "Sesame & Soy",
+    "address": "2173 Professor Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44113",
+    "latitude": 41.4823993,
+    "longitude": -81.6871554,
+    "stars": 4.5,
+    "review_count": 16,
+    "is_open": 0,
+    "attributes": {
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsReservations": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants, Taiwanese",
+    "hours": {
+        "Monday": "0:0-0:0",
+        "Wednesday": "16:0-21:0",
+        "Thursday": "16:0-21:0",
+        "Friday": "16:0-21:0",
+        "Saturday": "16:0-21:0",
+        "Sunday": "16:0-21:0"
+    }
+}

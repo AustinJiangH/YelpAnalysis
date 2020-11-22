@@ -1,0 +1,29 @@
+{
+    "business_id": "Sq7BouKjTovLesy6qewv5A",
+    "name": "Great Wall",
+    "address": "201 W Main St",
+    "city": "Monongahela",
+    "state": "PA",
+    "postal_code": "15063",
+    "latitude": 40.2016905,
+    "longitude": -79.9241836,
+    "stars": 3.5,
+    "review_count": 9,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "False",
+        "RestaurantsDelivery": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:30",
+        "Saturday": "11:30-22:30",
+        "Sunday": "11:30-21:30"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "business_id": "I2lDmQHDxnUKbEBJuJCW6w",
+    "name": "Hunan East",
+    "address": "724 Richmond Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44143",
+    "latitude": 41.5408481,
+    "longitude": -81.497809,
+    "stars": 4.0,
+    "review_count": 97,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsPriceRange2": "2",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "BikeParking": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "'none'",
+        "NoiseLevel": "u'average'",
+        "WiFi": "'no'",
+        "Caters": "False",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:30"
+    }
+}

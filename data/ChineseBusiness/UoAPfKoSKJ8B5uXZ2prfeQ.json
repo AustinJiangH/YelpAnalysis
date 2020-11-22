@@ -1,0 +1,37 @@
+{
+    "business_id": "UoAPfKoSKJ8B5uXZ2prfeQ",
+    "name": "Moonstar",
+    "address": "768 N Main",
+    "city": "Oregon",
+    "state": "WI",
+    "postal_code": "53575",
+    "latitude": 42.9374286,
+    "longitude": -89.3829876,
+    "stars": 3.5,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTableService": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsPriceRange2": "2",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "HasTV": "True"
+    },
+    "categories": "Asian Fusion, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "11:0-21:30"
+    }
+}

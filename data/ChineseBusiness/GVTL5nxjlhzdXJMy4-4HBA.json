@@ -1,0 +1,38 @@
+{
+    "business_id": "GVTL5nxjlhzdXJMy4-4HBA",
+    "name": "Sun Sun Chinese Restaurant",
+    "address": "4203 Ridge Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44144",
+    "latitude": 41.4422838,
+    "longitude": -81.7348003,
+    "stars": 3.0,
+    "review_count": 15,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "HasTV": "True",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:30",
+        "Tuesday": "11:0-22:30",
+        "Wednesday": "11:0-22:30",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:30-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

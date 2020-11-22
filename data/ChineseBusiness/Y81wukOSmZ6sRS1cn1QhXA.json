@@ -1,0 +1,41 @@
+{
+    "business_id": "Y81wukOSmZ6sRS1cn1QhXA",
+    "name": "The Wok - Chinese Express",
+    "address": "703 Eastwood Dr",
+    "city": "Mahomet",
+    "state": "IL",
+    "postal_code": "61853",
+    "latitude": 40.1957401,
+    "longitude": -88.3979244,
+    "stars": 4.5,
+    "review_count": 25,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "'casual'",
+        "Alcohol": "u'none'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsReservations": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTableService": "False",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "Caters": "False",
+        "WiFi": "u'no'",
+        "RestaurantsGoodForGroups": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsTakeOut": "True",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Tuesday": "10:30-21:30",
+        "Wednesday": "10:30-21:30",
+        "Thursday": "10:30-21:30",
+        "Friday": "10:30-21:30",
+        "Saturday": "10:30-21:30",
+        "Sunday": "11:0-21:0"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "business_id": "UzSXgaJjOrtdWATtzgPWqQ",
+    "name": "Wong's Garden",
+    "address": "2044 Atwood Ave",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53704",
+    "latitude": 43.0925288,
+    "longitude": -89.3538449,
+    "stars": 3.5,
+    "review_count": 16,
+    "is_open": 0,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "NoiseLevel": "u'quiet'",
+        "Alcohol": "u'beer_and_wine'",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "False",
+        "Caters": "False",
+        "HasTV": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

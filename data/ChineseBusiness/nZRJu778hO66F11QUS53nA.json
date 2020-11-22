@@ -1,0 +1,33 @@
+{
+    "business_id": "nZRJu778hO66F11QUS53nA",
+    "name": "Li Garden Restaurant",
+    "address": "34650 Vine St",
+    "city": "Willowick",
+    "state": "OH",
+    "postal_code": "44095",
+    "latitude": 41.64082,
+    "longitude": -81.4416804,
+    "stars": 4.0,
+    "review_count": 19,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "'casual'",
+        "NoiseLevel": "'quiet'",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "BikeParking": "True",
+        "RestaurantsGoodForGroups": "False",
+        "Alcohol": "u'none'",
+        "WiFi": "'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "True",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

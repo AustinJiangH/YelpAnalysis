@@ -1,0 +1,42 @@
+{
+    "business_id": "6tY0tn39Mb8FCLYBAXXOUw",
+    "name": "China Renaissance",
+    "address": "29336 Lorain Rd",
+    "city": "North Olmsted",
+    "state": "OH",
+    "postal_code": "44070",
+    "latitude": 41.407014,
+    "longitude": -81.946028,
+    "stars": 3.5,
+    "review_count": 43,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsDelivery": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "u'free'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "BikeParking": "False",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'quiet'",
+        "HasTV": "False",
+        "Caters": "False",
+        "BusinessAcceptsBitcoin": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Tuesday": "11:30-21:0",
+        "Wednesday": "11:30-21:0",
+        "Thursday": "11:30-21:0",
+        "Friday": "11:30-21:0",
+        "Saturday": "11:30-21:0",
+        "Sunday": "11:30-21:0"
+    }
+}

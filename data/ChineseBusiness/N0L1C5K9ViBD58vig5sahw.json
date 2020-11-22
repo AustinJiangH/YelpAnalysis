@@ -1,0 +1,28 @@
+{
+    "business_id": "N0L1C5K9ViBD58vig5sahw",
+    "name": "Little China",
+    "address": "2 Ppg Pl",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15222",
+    "latitude": 40.4436281744,
+    "longitude": -80.004809091,
+    "stars": 3.5,
+    "review_count": 3,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "True",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

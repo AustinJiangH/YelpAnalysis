@@ -1,0 +1,38 @@
+{
+    "business_id": "YAhRuV3oRkwGk3Or9PJ3Ww",
+    "name": "Happy Garden",
+    "address": "3725 Medina Rd, Ste 103",
+    "city": "Medina",
+    "state": "OH",
+    "postal_code": "44256",
+    "latitude": 41.1378021,
+    "longitude": -81.8214969,
+    "stars": 3.0,
+    "review_count": 21,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "2",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'quiet'",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "OutdoorSeating": "True",
+        "RestaurantsDelivery": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "True",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Seafood, Food, Chinese, Poke, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:30",
+        "Saturday": "10:30-22:30",
+        "Sunday": "11:30-21:30"
+    }
+}

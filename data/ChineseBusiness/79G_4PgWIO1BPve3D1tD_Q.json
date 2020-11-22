@@ -1,0 +1,27 @@
+{
+    "business_id": "79G_4PgWIO1BPve3D1tD_Q",
+    "name": "New Ming Restaurant",
+    "address": "1590 S Hawkins Ave",
+    "city": "Akron",
+    "state": "OH",
+    "postal_code": "44320",
+    "latitude": 41.065849,
+    "longitude": -81.570248,
+    "stars": 2.5,
+    "review_count": 3,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:30",
+        "Tuesday": "11:0-22:30",
+        "Wednesday": "11:0-22:30",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-22:30"
+    }
+}

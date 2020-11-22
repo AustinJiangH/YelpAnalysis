@@ -1,0 +1,41 @@
+{
+    "business_id": "CxV9DJCxc04_xkDRSrfgFA",
+    "name": "China Mountain I",
+    "address": "14959 Saint Clair Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44110",
+    "latitude": 41.5531628,
+    "longitude": -81.5769338,
+    "stars": 3.0,
+    "review_count": 20,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "RestaurantsReservations": "False",
+        "BikeParking": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsAttire": "u'casual'",
+        "WiFi": "u'no'",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Caters": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:0-0:0",
+        "Tuesday": "10:0-0:0",
+        "Wednesday": "10:0-0:0",
+        "Thursday": "10:0-0:0",
+        "Friday": "10:0-0:0",
+        "Saturday": "10:0-0:0",
+        "Sunday": "13:0-22:0"
+    }
+}

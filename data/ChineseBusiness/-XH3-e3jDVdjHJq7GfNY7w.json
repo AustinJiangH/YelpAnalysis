@@ -1,0 +1,42 @@
+{
+    "business_id": "-XH3-e3jDVdjHJq7GfNY7w",
+    "name": "Asian Taste Restaurant",
+    "address": "502 E John St",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.1092811348,
+    "longitude": -88.2313949615,
+    "stars": 3.5,
+    "review_count": 34,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'average'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "RestaurantsGoodForGroups": "False",
+        "BikeParking": "True",
+        "WiFi": "u'no'",
+        "RestaurantsTableService": "False",
+        "Alcohol": "u'none'",
+        "OutdoorSeating": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "None",
+        "HasTV": "True"
+    },
+    "categories": "Vietnamese, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-20:0",
+        "Tuesday": "11:0-20:0",
+        "Wednesday": "11:0-20:0",
+        "Thursday": "11:0-20:0",
+        "Friday": "11:0-20:0",
+        "Saturday": "11:0-20:0"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "business_id": "AR1w3ragHgRvnU71A7aaZA",
+    "name": "Soga Shabu Shabu",
+    "address": "508 State St",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53703",
+    "latitude": 43.075396,
+    "longitude": -89.39366,
+    "stars": 3.0,
+    "review_count": 75,
+    "is_open": 0,
+    "attributes": {
+        "HasTV": "True",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'no'",
+        "Alcohol": "u'none'",
+        "RestaurantsDelivery": "True",
+        "OutdoorSeating": "False",
+        "Caters": "False",
+        "NoiseLevel": "u'quiet'",
+        "BikeParking": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "True",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "Ambience": "None",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "RestaurantsPriceRange2": "2"
+    },
+    "categories": "Restaurants, Chinese, Asian Fusion",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

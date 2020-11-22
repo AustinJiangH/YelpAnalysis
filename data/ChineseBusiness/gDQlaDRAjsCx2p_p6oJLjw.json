@@ -1,0 +1,43 @@
+{
+    "business_id": "gDQlaDRAjsCx2p_p6oJLjw",
+    "name": "China Star",
+    "address": "4219 Murray Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15217",
+    "latitude": 40.4225625,
+    "longitude": -79.9285714,
+    "stars": 3.0,
+    "review_count": 63,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "WiFi": "u'no'",
+        "BikeParking": "False",
+        "Caters": "False",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-23:0",
+        "Saturday": "10:30-23:0",
+        "Sunday": "11:30-22:0"
+    }
+}

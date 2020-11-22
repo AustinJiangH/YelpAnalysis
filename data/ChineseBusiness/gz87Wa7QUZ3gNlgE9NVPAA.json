@@ -1,0 +1,31 @@
+{
+    "business_id": "gz87Wa7QUZ3gNlgE9NVPAA",
+    "name": "Chan An Restaurant",
+    "address": "2013 Wharton St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15203",
+    "latitude": 40.431507,
+    "longitude": -79.977122,
+    "stars": 3.0,
+    "review_count": 8,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'average'",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "WiFi": "u'no'",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

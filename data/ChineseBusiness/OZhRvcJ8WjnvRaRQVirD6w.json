@@ -1,0 +1,29 @@
+{
+    "business_id": "OZhRvcJ8WjnvRaRQVirD6w",
+    "name": "China Star",
+    "address": "3283 W 117th",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44111",
+    "latitude": 41.4629421368,
+    "longitude": -81.76851511,
+    "stars": 2.5,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "BikeParking": "False",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "'no'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsDelivery": "True",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False",
+        "HasTV": "True"
+    },
+    "categories": "Cantonese, Restaurants, Chinese, Szechuan",
+    "hours": null
+}

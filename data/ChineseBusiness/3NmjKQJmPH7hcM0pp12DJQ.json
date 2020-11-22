@@ -1,0 +1,26 @@
+{
+    "business_id": "3NmjKQJmPH7hcM0pp12DJQ",
+    "name": "Hong Kong Cafe West",
+    "address": "7475 Mineral Point Rd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53717",
+    "latitude": 43.0586202,
+    "longitude": -89.5122609,
+    "stars": 4.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

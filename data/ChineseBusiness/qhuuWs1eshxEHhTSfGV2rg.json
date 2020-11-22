@@ -1,0 +1,33 @@
+{
+    "business_id": "qhuuWs1eshxEHhTSfGV2rg",
+    "name": "Sapporo Asian Cuisine & Sushi Bar",
+    "address": "3747 William Penn Hwy",
+    "city": "Monroeville",
+    "state": "PA",
+    "postal_code": "15146",
+    "latitude": 40.4383949828,
+    "longitude": -79.7859842106,
+    "stars": 4.0,
+    "review_count": 5,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'average'",
+        "WiFi": "u'free'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "True",
+        "Caters": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "HasTV": "True",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Japanese, Chinese, Restaurants, Sushi Bars",
+    "hours": null
+}

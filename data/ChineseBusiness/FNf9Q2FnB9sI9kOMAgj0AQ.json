@@ -1,0 +1,43 @@
+{
+    "business_id": "FNf9Q2FnB9sI9kOMAgj0AQ",
+    "name": "Golden Star",
+    "address": "4655 William Flynn Hwy",
+    "city": "Hampton Township",
+    "state": "PA",
+    "postal_code": "15101",
+    "latitude": 40.5905329,
+    "longitude": -79.9483052,
+    "stars": 3.5,
+    "review_count": 13,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsPriceRange2": "2",
+        "Alcohol": "'none'",
+        "Caters": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "NoiseLevel": "'quiet'",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsReservations": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "WiFi": "'no'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BikeParking": "True"
+    },
+    "categories": "Restaurants, Chinese, Szechuan",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

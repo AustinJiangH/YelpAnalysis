@@ -1,0 +1,30 @@
+{
+    "business_id": "471g2XO27o_zF2ZYrwvIeQ",
+    "name": "Golden Crown Chinese Restaurant",
+    "address": "1624 Mentor Ave",
+    "city": "Painesville",
+    "state": "OH",
+    "postal_code": "44077",
+    "latitude": 41.698112,
+    "longitude": -81.279524,
+    "stars": 2.5,
+    "review_count": 9,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "12:0-22:30",
+        "Sunday": "12:0-21:30"
+    }
+}

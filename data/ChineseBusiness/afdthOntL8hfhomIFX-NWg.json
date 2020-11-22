@@ -1,0 +1,43 @@
+{
+    "business_id": "afdthOntL8hfhomIFX-NWg",
+    "name": "Zen Asian Diner",
+    "address": "5100 Butler St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15201",
+    "latitude": 40.4783482,
+    "longitude": -79.9554307,
+    "stars": 3.0,
+    "review_count": 90,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "2",
+        "NoiseLevel": "u'average'",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "Alcohol": "'none'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'free'",
+        "Caters": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "HasTV": "True",
+        "OutdoorSeating": "False"
+    },
+    "categories": "Diners, Restaurants, Chinese, Sushi Bars",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-21:30"
+    }
+}

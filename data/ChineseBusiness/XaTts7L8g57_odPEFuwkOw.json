@@ -1,0 +1,23 @@
+{
+    "business_id": "XaTts7L8g57_odPEFuwkOw",
+    "name": "Chen's Wok",
+    "address": "825 Wood St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15221",
+    "latitude": 40.4426201,
+    "longitude": -79.8854317,
+    "stars": 3.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": null,
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0"
+    }
+}

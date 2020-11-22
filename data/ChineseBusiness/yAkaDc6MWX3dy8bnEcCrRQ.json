@@ -1,0 +1,43 @@
+{
+    "business_id": "yAkaDc6MWX3dy8bnEcCrRQ",
+    "name": "Imperial Garden",
+    "address": "2039 Allen Blvd",
+    "city": "Middleton",
+    "state": "WI",
+    "postal_code": "53562",
+    "latitude": 43.090642,
+    "longitude": -89.485169,
+    "stars": 3.0,
+    "review_count": 108,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': True, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "False",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsReservations": "True",
+        "GoodForKids": "True",
+        "NoiseLevel": "'average'",
+        "RestaurantsPriceRange2": "2",
+        "Alcohol": "u'full_bar'",
+        "BikeParking": "True",
+        "HasTV": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "Caters": "True",
+        "WiFi": "'free'"
+    },
+    "categories": "Chinese, Restaurants, Asian Fusion, Venues & Event Spaces, Event Planning & Services, Party & Event Planning",
+    "hours": {
+        "Monday": "0:0-0:0",
+        "Tuesday": "16:0-21:30",
+        "Wednesday": "16:0-21:30",
+        "Thursday": "16:0-21:30",
+        "Friday": "16:0-22:0",
+        "Saturday": "16:0-22:0",
+        "Sunday": "16:0-21:0"
+    }
+}

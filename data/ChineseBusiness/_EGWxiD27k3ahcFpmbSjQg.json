@@ -1,0 +1,32 @@
+{
+    "business_id": "_EGWxiD27k3ahcFpmbSjQg",
+    "name": "Great Wall Chinese Food",
+    "address": "243 Brownsville Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15210",
+    "latitude": 40.4147164,
+    "longitude": -79.9875146,
+    "stars": 3.5,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "u'average'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BikeParking": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "u'casual'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:30",
+        "Tuesday": "11:0-22:30",
+        "Wednesday": "11:0-22:30",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

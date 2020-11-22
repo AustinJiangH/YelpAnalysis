@@ -1,0 +1,29 @@
+{
+    "business_id": "hh1ed5ZU4-6NupSvORCccw",
+    "name": "Happy Home Buffet",
+    "address": "4801 McKnight Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15237",
+    "latitude": 40.5226591545,
+    "longitude": -80.006239,
+    "stars": 3.0,
+    "review_count": 58,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "HasTV": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Buffets, Restaurants, Sushi Bars, Japanese, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:0"
+    }
+}

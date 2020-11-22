@@ -1,0 +1,26 @@
+{
+    "business_id": "nbFAn60OmDt9reIRk8vilA",
+    "name": "Turney China",
+    "address": "5851 Turney Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44125",
+    "latitude": 41.4034434,
+    "longitude": -81.5958214,
+    "stars": 3.5,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "None",
+        "BusinessAcceptsCreditCards": "None",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

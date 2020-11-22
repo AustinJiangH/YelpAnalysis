@@ -1,0 +1,42 @@
+{
+    "business_id": "Ucph9MH577u6j0zPK93amw",
+    "name": "China Star",
+    "address": "111 River Pl",
+    "city": "Monona",
+    "state": "WI",
+    "postal_code": "53716",
+    "latitude": 43.0474245,
+    "longitude": -89.326964,
+    "stars": 3.0,
+    "review_count": 23,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTableService": "True",
+        "HasTV": "True",
+        "WiFi": "u'free'",
+        "NoiseLevel": "u'quiet'",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "BikeParking": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30"
+    }
+}

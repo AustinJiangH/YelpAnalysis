@@ -1,0 +1,32 @@
+{
+    "business_id": "kYTzpbnpVDZVghVqZz7qCA",
+    "name": "Long-Yun Restaurant",
+    "address": "307 Highland Rd E",
+    "city": "Macedonia",
+    "state": "OH",
+    "postal_code": "44056",
+    "latitude": 41.299793,
+    "longitude": -81.514389,
+    "stars": 3.0,
+    "review_count": 6,
+    "is_open": 0,
+    "attributes": {
+        "NoiseLevel": "u'average'",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "False",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "u'no'",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "Caters": "False",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Restaurants, Barbeque, Chinese",
+    "hours": null
+}

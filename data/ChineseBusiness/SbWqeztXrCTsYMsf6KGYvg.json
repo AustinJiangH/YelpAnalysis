@@ -1,0 +1,33 @@
+{
+    "business_id": "SbWqeztXrCTsYMsf6KGYvg",
+    "name": "Wok of the Falls",
+    "address": "8185 Columbia Rd",
+    "city": "Olmsted Falls",
+    "state": "OH",
+    "postal_code": "44138",
+    "latitude": 41.373432,
+    "longitude": -81.901042,
+    "stars": 3.5,
+    "review_count": 21,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "False",
+        "GoodForKids": "False",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsGoodForGroups": "True",
+        "WiFi": "u'no'",
+        "HasTV": "True",
+        "Caters": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

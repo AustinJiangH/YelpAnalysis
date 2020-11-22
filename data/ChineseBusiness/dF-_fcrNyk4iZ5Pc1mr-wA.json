@@ -1,0 +1,42 @@
+{
+    "business_id": "dF-_fcrNyk4iZ5Pc1mr-wA",
+    "name": "Jade Tree Chinese Cuisine",
+    "address": "7673 Mentor Ave",
+    "city": "Mentor",
+    "state": "OH",
+    "postal_code": "44060",
+    "latitude": 41.6596835,
+    "longitude": -81.3673637,
+    "stars": 4.0,
+    "review_count": 16,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "BikeParking": "True",
+        "WiFi": "u'free'",
+        "HasTV": "False",
+        "NoiseLevel": "u'quiet'",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsTakeOut": "True",
+        "Caters": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "True",
+        "GoodForMeal": "None",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Chinese, Fast Food, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:0",
+        "Saturday": "15:0-21:0",
+        "Sunday": "15:0-21:0"
+    }
+}

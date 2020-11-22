@@ -1,0 +1,43 @@
+{
+    "business_id": "DtAND35Vc4dY7usrGtbR7w",
+    "name": "Ho Wah",
+    "address": "2101 Richmond Rd",
+    "city": "Beachwood",
+    "state": "OH",
+    "postal_code": "44122",
+    "latitude": 41.500679,
+    "longitude": -81.496429,
+    "stars": 3.0,
+    "review_count": 65,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "Caters": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'full_bar'",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsGoodForGroups": "True",
+        "NoiseLevel": "u'average'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "BikeParking": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "2",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True",
+        "WiFi": "u'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "business_id": "mTPC_emDlTlfwr5o8A9APw",
+    "name": "Hing Wong ",
+    "address": "515 Pittsburgh St",
+    "city": "Springdale",
+    "state": "PA",
+    "postal_code": "15144",
+    "latitude": 40.5411720291,
+    "longitude": -79.7854216882,
+    "stars": 4.5,
+    "review_count": 9,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "OutdoorSeating": "False",
+        "WiFi": "u'no'",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "True",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "15:0-22:0"
+    }
+}

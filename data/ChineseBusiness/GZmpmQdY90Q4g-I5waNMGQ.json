@@ -1,0 +1,22 @@
+{
+    "business_id": "GZmpmQdY90Q4g-I5waNMGQ",
+    "name": "Hunan King Chinese Restaurant",
+    "address": "1700 Mount Royal Blvd",
+    "city": "Glenshaw",
+    "state": "PA",
+    "postal_code": "15116",
+    "latitude": 40.525341,
+    "longitude": -79.961673,
+    "stars": 3.0,
+    "review_count": 11,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

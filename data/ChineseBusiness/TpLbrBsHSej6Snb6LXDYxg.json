@@ -1,0 +1,36 @@
+{
+    "business_id": "TpLbrBsHSej6Snb6LXDYxg",
+    "name": "Aseoma",
+    "address": "2018 Murray Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15217",
+    "latitude": 40.4341914,
+    "longitude": -79.9230121,
+    "stars": 4.0,
+    "review_count": 20,
+    "is_open": 0,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTakeOut": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "HasTV": "False",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'"
+    },
+    "categories": "Food, Specialty Food, Restaurants, American (New), Chinese, Asian Fusion",
+    "hours": {
+        "Tuesday": "4:30-22:0",
+        "Wednesday": "4:30-22:0",
+        "Thursday": "4:30-22:0",
+        "Friday": "4:30-22:0",
+        "Saturday": "4:30-22:0",
+        "Sunday": "4:30-22:0"
+    }
+}

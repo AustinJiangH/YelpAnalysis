@@ -1,0 +1,43 @@
+{
+    "business_id": "qh1GCWP_2TKxevp3ZeMxag",
+    "name": "Chan's Tea House",
+    "address": "1009 W View Park Dr",
+    "city": "West View",
+    "state": "PA",
+    "postal_code": "15229",
+    "latitude": 40.515967754,
+    "longitude": -80.0378046557,
+    "stars": 3.5,
+    "review_count": 37,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "BikeParking": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "Alcohol": "u'full_bar'",
+        "Caters": "False",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "NoiseLevel": "u'average'",
+        "RestaurantsReservations": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTableService": "True",
+        "HasTV": "True"
+    },
+    "categories": "Soup, Chinese, Restaurants, Noodles",
+    "hours": {
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "11:30-21:0"
+    }
+}

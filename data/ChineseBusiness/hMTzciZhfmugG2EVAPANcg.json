@@ -1,0 +1,42 @@
+{
+    "business_id": "hMTzciZhfmugG2EVAPANcg",
+    "name": "Golden Wok Inn",
+    "address": "4976 Library Rd",
+    "city": "Bethel Park",
+    "state": "PA",
+    "postal_code": "15102",
+    "latitude": 40.3429128,
+    "longitude": -80.0273109,
+    "stars": 3.5,
+    "review_count": 22,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "u'no'",
+        "Alcohol": "u'none'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "2",
+        "BikeParking": "False",
+        "GoodForKids": "True",
+        "HasTV": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "12:0-22:0",
+        "Sunday": "15:30-21:0"
+    }
+}

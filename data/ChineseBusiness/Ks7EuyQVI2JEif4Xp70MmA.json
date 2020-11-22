@@ -1,0 +1,43 @@
+{
+    "business_id": "Ks7EuyQVI2JEif4Xp70MmA",
+    "name": "China House",
+    "address": "104 Front St",
+    "city": "Berea",
+    "state": "OH",
+    "postal_code": "44017",
+    "latitude": 41.36819,
+    "longitude": -81.852802,
+    "stars": 3.0,
+    "review_count": 19,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'average'",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "Ambience": "None",
+        "HasTV": "False",
+        "BikeParking": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsGoodForGroups": "False",
+        "WiFi": "u'no'",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "RestaurantsTableService": "False",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

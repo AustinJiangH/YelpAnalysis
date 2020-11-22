@@ -1,0 +1,43 @@
+{
+    "business_id": "ja7zjowr6ymsVglQXZZ6BA",
+    "name": "Great Taste Chinese Restaurant",
+    "address": "1803 E 12th St",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44114",
+    "latitude": 41.501901,
+    "longitude": -81.6845327,
+    "stars": 2.5,
+    "review_count": 69,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "HasTV": "False",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'average'",
+        "Caters": "True",
+        "RestaurantsDelivery": "True",
+        "BikeParking": "False",
+        "Alcohol": "u'none'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "WiFi": "u'free'"
+    },
+    "categories": "Restaurants, Buffets, Chinese",
+    "hours": {
+        "Monday": "0:0-0:0",
+        "Tuesday": "11:0-22:30",
+        "Wednesday": "11:0-22:30",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-23:0",
+        "Saturday": "12:0-23:0",
+        "Sunday": "12:0-23:0"
+    }
+}

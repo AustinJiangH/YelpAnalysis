@@ -1,0 +1,42 @@
+{
+    "business_id": "jjBTBObnHrY87qQIMybjzQ",
+    "name": "Blue Jade",
+    "address": "7080 Engle Rd, Ste B",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44130",
+    "latitude": 41.3746218,
+    "longitude": -81.8257664,
+    "stars": 3.5,
+    "review_count": 28,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "True",
+        "Alcohol": "u'none'",
+        "WiFi": "u'no'",
+        "RestaurantsReservations": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsDelivery": "False",
+        "Caters": "False",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'quiet'",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BikeParking": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30"
+    }
+}

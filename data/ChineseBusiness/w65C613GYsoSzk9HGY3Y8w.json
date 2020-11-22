@@ -1,0 +1,29 @@
+{
+    "business_id": "w65C613GYsoSzk9HGY3Y8w",
+    "name": "China House",
+    "address": "160 Main St",
+    "city": "Painesville",
+    "state": "OH",
+    "postal_code": "44077",
+    "latitude": 41.725564,
+    "longitude": -81.2417177,
+    "stars": 3.5,
+    "review_count": 4,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "'none'",
+        "GoodForKids": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "'casual'",
+        "NoiseLevel": "'quiet'",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

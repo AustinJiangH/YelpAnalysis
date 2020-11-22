@@ -1,0 +1,27 @@
+{
+    "business_id": "jrlkSj1TR6HWBaOJ4AzwKw",
+    "name": "Pacific Ring",
+    "address": "1900 Murray Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15217",
+    "latitude": 40.4358767,
+    "longitude": -79.92287,
+    "stars": 3.0,
+    "review_count": 14,
+    "is_open": 0,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "2",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "True"
+    },
+    "categories": "Sushi Bars, Dim Sum, Restaurants, Chinese",
+    "hours": null
+}

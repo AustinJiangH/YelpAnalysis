@@ -1,0 +1,32 @@
+{
+    "business_id": "pW-fOxuaWBkIhum5NANx2w",
+    "name": "China Sea Express",
+    "address": "1507 Euclid Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44115",
+    "latitude": 41.5012146,
+    "longitude": -81.6809972,
+    "stars": 3.0,
+    "review_count": 11,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "u'quiet'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "True",
+        "Caters": "False",
+        "HasTV": "False",
+        "WiFi": "u'no'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

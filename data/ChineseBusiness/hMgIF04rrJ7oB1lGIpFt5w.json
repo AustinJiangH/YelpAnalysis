@@ -1,0 +1,42 @@
+{
+    "business_id": "hMgIF04rrJ7oB1lGIpFt5w",
+    "name": "South China Restaurant",
+    "address": "25 E Springfield Ave",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.112114,
+    "longitude": -88.241292,
+    "stars": 3.5,
+    "review_count": 33,
+    "is_open": 1,
+    "attributes": {
+        "Caters": "True",
+        "HasTV": "True",
+        "OutdoorSeating": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsReservations": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsPriceRange2": "2",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "BikeParking": "True",
+        "WiFi": "u'no'",
+        "RestaurantsDelivery": "True",
+        "NoiseLevel": "u'average'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "12:0-21:30"
+    }
+}

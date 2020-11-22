@@ -1,0 +1,43 @@
+{
+    "business_id": "SUktrYdNQD8k2vvkM4OpfA",
+    "name": "Peking Garden Restaurant",
+    "address": "206 N Randolph St",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.1178481689,
+    "longitude": -88.2451191659,
+    "stars": 4.0,
+    "review_count": 78,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "u'quiet'",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "Caters": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsReservations": "True",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'no'",
+        "RestaurantsPriceRange2": "2",
+        "BikeParking": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

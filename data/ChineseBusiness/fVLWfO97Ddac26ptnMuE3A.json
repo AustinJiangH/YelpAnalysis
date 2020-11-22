@@ -1,0 +1,33 @@
+{
+    "business_id": "fVLWfO97Ddac26ptnMuE3A",
+    "name": "Tang's Wok",
+    "address": "25780 Miles Rd",
+    "city": "Bedford",
+    "state": "OH",
+    "postal_code": "44146",
+    "latitude": 41.4237519,
+    "longitude": -81.4970228,
+    "stars": 3.0,
+    "review_count": 12,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "Caters": "False",
+        "RestaurantsDelivery": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "NoiseLevel": "u'quiet'",
+        "HasTV": "True",
+        "WiFi": "u'no'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

@@ -1,0 +1,39 @@
+{
+    "business_id": "D0KX5BQsbaIcWd-TpQ4wLg",
+    "name": "Peking House Restaurant",
+    "address": "806 Eastwood Dr",
+    "city": "Mahomet",
+    "state": "IL",
+    "postal_code": "61853",
+    "latitude": 40.196657487,
+    "longitude": -88.3959178407,
+    "stars": 4.5,
+    "review_count": 20,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTableService": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "False",
+        "HasTV": "True",
+        "NoiseLevel": "u'average'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Korean, Chinese, Thai, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:0",
+        "Saturday": "11:0-21:0",
+        "Sunday": "11:0-21:0"
+    }
+}

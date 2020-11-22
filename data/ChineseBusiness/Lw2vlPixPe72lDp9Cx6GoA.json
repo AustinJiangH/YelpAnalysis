@@ -1,0 +1,41 @@
+{
+    "business_id": "Lw2vlPixPe72lDp9Cx6GoA",
+    "name": "Wang's Kitchen",
+    "address": "3625 Brownsville Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15227",
+    "latitude": 40.37317,
+    "longitude": -79.97514,
+    "stars": 4.0,
+    "review_count": 49,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "NoiseLevel": "u'quiet'",
+        "OutdoorSeating": "False",
+        "WiFi": "u'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsReservations": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "False",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "Caters": "False",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants, Wraps, Chicken Wings",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

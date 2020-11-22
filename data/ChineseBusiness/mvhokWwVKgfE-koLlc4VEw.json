@@ -1,0 +1,42 @@
+{
+    "business_id": "mvhokWwVKgfE-koLlc4VEw",
+    "name": "Auntie Lee's Chinese Kitchen",
+    "address": "49 E Green St, Ste B",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.1101985,
+    "longitude": -88.2402729,
+    "stars": 2.5,
+    "review_count": 25,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'",
+        "Caters": "True",
+        "WiFi": "u'paid'",
+        "NoiseLevel": "u'very_loud'",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "False",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "HasTV": "True"
+    },
+    "categories": "Szechuan, Restaurants, Chinese",
+    "hours": {
+        "Monday": "17:0-3:0",
+        "Tuesday": "17:0-3:0",
+        "Wednesday": "12:0-3:0",
+        "Thursday": "12:0-3:0",
+        "Friday": "12:0-3:0",
+        "Saturday": "15:0-3:0",
+        "Sunday": "15:0-3:0"
+    }
+}

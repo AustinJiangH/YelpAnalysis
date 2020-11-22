@@ -1,0 +1,24 @@
+{
+    "business_id": "DId2r0a4C2ixCbuLApxx8g",
+    "name": "Chopstix",
+    "address": "2018 Murray Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15217",
+    "latitude": 40.4341822,
+    "longitude": -79.9230114,
+    "stars": 1.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Restaurants, Chinese, Japanese",
+    "hours": null
+}

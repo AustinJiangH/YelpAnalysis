@@ -1,0 +1,43 @@
+{
+    "business_id": "VGxJbglGlx-a7Gdc55Q6jQ",
+    "name": "Katana",
+    "address": "3229 W Liberty Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15216",
+    "latitude": 40.3899009,
+    "longitude": -80.0406617,
+    "stars": 3.0,
+    "review_count": 149,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsDelivery": "True",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "Caters": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': True, 'valet': True}",
+        "BikeParking": "True",
+        "RestaurantsPriceRange2": "2",
+        "NoiseLevel": "u'average'",
+        "GoodForKids": "True",
+        "WiFi": "u'free'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True",
+        "HappyHour": "False"
+    },
+    "categories": "Restaurants, Japanese, Sushi Bars, Chinese, Steakhouses",
+    "hours": {
+        "Monday": "16:30-22:0",
+        "Tuesday": "16:30-22:0",
+        "Thursday": "16:30-22:0",
+        "Friday": "16:30-23:0",
+        "Saturday": "16:30-23:0",
+        "Sunday": "12:0-21:30"
+    }
+}

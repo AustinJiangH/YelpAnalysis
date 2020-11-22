@@ -1,0 +1,41 @@
+{
+    "business_id": "CZzRtq0HQKwbBaJJi-Xpnw",
+    "name": "China Cafe",
+    "address": "11520 Clifton Blvd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44102",
+    "latitude": 41.4873353,
+    "longitude": -81.766844,
+    "stars": 3.0,
+    "review_count": 22,
+    "is_open": 0,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsTableService": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "'casual'",
+        "BikeParking": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "WiFi": "'no'",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "12:0-22:0"
+    }
+}

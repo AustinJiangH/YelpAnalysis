@@ -1,0 +1,43 @@
+{
+    "business_id": "iH-BDuPiIV1Eag82oqXmAQ",
+    "name": "Frankie's Wok",
+    "address": "8926 Brecksville Rd",
+    "city": "Brecksville",
+    "state": "OH",
+    "postal_code": "44141",
+    "latitude": 41.3192925,
+    "longitude": -81.6271283,
+    "stars": 4.0,
+    "review_count": 44,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'",
+        "Caters": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "GoodForKids": "True",
+        "BikeParking": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "False",
+        "NoiseLevel": "u'quiet'",
+        "WiFi": "u'no'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Seafood, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "16:0-21:0"
+    }
+}

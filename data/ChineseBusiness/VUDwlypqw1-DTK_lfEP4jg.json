@@ -1,0 +1,39 @@
+{
+    "business_id": "VUDwlypqw1-DTK_lfEP4jg",
+    "name": "Panda",
+    "address": "238 Crafton Ingram Shp Ctr",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15205",
+    "latitude": 40.441887,
+    "longitude": -80.07068,
+    "stars": 2.5,
+    "review_count": 11,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsReservations": "True",
+        "BikeParking": "True",
+        "HasTV": "True",
+        "RestaurantsTableService": "True",
+        "Caters": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'none'"
+    },
+    "categories": "Buffets, Chinese, Food, Restaurants",
+    "hours": {
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:0-22:0"
+    }
+}

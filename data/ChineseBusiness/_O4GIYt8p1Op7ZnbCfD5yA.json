@@ -1,0 +1,42 @@
+{
+    "business_id": "_O4GIYt8p1Op7ZnbCfD5yA",
+    "name": "Hibachi 7",
+    "address": "6531 Brecksville Rd",
+    "city": "Independence",
+    "state": "OH",
+    "postal_code": "44131",
+    "latitude": 41.385197,
+    "longitude": -81.639656,
+    "stars": 3.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "False",
+        "BikeParking": "False",
+        "OutdoorSeating": "False",
+        "Caters": "False",
+        "DogsAllowed": "False",
+        "RestaurantsTableService": "False",
+        "Alcohol": "u'none'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsDelivery": "True",
+        "BusinessAcceptsBitcoin": "False",
+        "WiFi": "u'no'",
+        "WheelchairAccessible": "True",
+        "HappyHour": "False"
+    },
+    "categories": "Restaurants, Teppanyaki, Chinese, Japanese",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "12:0-22:0"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "business_id": "SWDEdiv_v1QppobT1YnEPA",
+    "name": "Chin's Pagoda Chinese & American Restaurant",
+    "address": "30708 Lake Shore Blvd",
+    "city": "Willowick",
+    "state": "OH",
+    "postal_code": "44095",
+    "latitude": 41.6406608,
+    "longitude": -81.4719222,
+    "stars": 3.0,
+    "review_count": 27,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "u'no'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "2",
+        "BikeParking": "False",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "NoiseLevel": "u'quiet'",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

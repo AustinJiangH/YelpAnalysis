@@ -1,0 +1,43 @@
+{
+    "business_id": "kIaqY45GaVX136dXomREcg",
+    "name": "Asian Cafe",
+    "address": "1700-1760 William Flynn Hwy",
+    "city": "Shaler Township",
+    "state": "PA",
+    "postal_code": "15101",
+    "latitude": 40.539151,
+    "longitude": -79.961829,
+    "stars": 4.0,
+    "review_count": 32,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BikeParking": "True",
+        "NoiseLevel": "'quiet'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsTakeOut": "True",
+        "GoodForMeal": "None",
+        "Ambience": "None",
+        "WiFi": "'no'",
+        "RestaurantsTableService": "True",
+        "BusinessParking": "None",
+        "HasTV": "True"
+    },
+    "categories": "Thai, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

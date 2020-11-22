@@ -1,0 +1,36 @@
+{
+    "business_id": "sAhKuHKCKu9p8gy9vVsXnA",
+    "name": "Hundred Flowers",
+    "address": "28898 Lake Shore Blvd",
+    "city": "Willowick",
+    "state": "OH",
+    "postal_code": "44095",
+    "latitude": 41.629209,
+    "longitude": -81.483417,
+    "stars": 3.0,
+    "review_count": 12,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "'quiet'",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:30-21:0",
+        "Tuesday": "11:30-21:0",
+        "Wednesday": "11:30-21:0",
+        "Thursday": "11:30-21:0",
+        "Friday": "11:30-22:0",
+        "Saturday": "12:30-22:0",
+        "Sunday": "12:30-21:0"
+    }
+}

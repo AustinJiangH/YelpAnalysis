@@ -1,0 +1,36 @@
+{
+    "business_id": "Q6Kp7sp3GXykifV2TjomZQ",
+    "name": "Chang Jiang",
+    "address": "1017 N Edge Trl",
+    "city": "Verona",
+    "state": "WI",
+    "postal_code": "53593",
+    "latitude": 43.0020746,
+    "longitude": -89.5306507,
+    "stars": 3.0,
+    "review_count": 11,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsTakeOut": "True",
+        "HasTV": "True",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsDelivery": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-23:0",
+        "Saturday": "10:30-23:0",
+        "Sunday": "11:30-22:0"
+    }
+}

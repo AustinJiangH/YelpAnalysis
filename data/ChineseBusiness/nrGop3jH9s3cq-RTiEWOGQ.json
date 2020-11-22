@@ -1,0 +1,29 @@
+{
+    "business_id": "nrGop3jH9s3cq-RTiEWOGQ",
+    "name": "China Express",
+    "address": "1235 E Grove Ave",
+    "city": "Rantoul",
+    "state": "IL",
+    "postal_code": "61866",
+    "latitude": 40.313236,
+    "longitude": -88.1381107,
+    "stars": 2.5,
+    "review_count": 14,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "RestaurantsAttire": "'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

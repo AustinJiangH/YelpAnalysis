@@ -1,0 +1,42 @@
+{
+    "business_id": "M5rnBQaFtjYTn3T9NIZwcA",
+    "name": "China Dragon",
+    "address": "100 E Lincoln Ave",
+    "city": "Mc Donald",
+    "state": "PA",
+    "postal_code": "15057",
+    "latitude": 40.3687253,
+    "longitude": -80.2347236,
+    "stars": 3.5,
+    "review_count": 9,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "u'average'",
+        "WiFi": "u'no'",
+        "BikeParking": "True",
+        "Alcohol": "u'none'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "Caters": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "False",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

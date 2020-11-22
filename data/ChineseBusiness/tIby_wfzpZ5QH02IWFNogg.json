@@ -1,0 +1,42 @@
+{
+    "business_id": "tIby_wfzpZ5QH02IWFNogg",
+    "name": "China Sea by CSU",
+    "address": "1900 Euclid Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44115",
+    "latitude": 41.5012603,
+    "longitude": -81.6774073,
+    "stars": 3.5,
+    "review_count": 40,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "HasTV": "False",
+        "NoiseLevel": "u'average'",
+        "RestaurantsAttire": "'casual'",
+        "Alcohol": "u'none'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "1",
+        "BikeParking": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "True",
+        "RestaurantsDelivery": "True",
+        "Caters": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': True}",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "WiFi": "u'free'"
+    },
+    "categories": "Chinese, Arts & Entertainment, Restaurants, Food, Social Clubs, Bubble Tea, Taiwanese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "12:0-23:0",
+        "Sunday": "12:0-21:0"
+    }
+}

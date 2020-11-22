@@ -1,0 +1,42 @@
+{
+    "business_id": "mqiHZYNXnMLaEK87JZOzmA",
+    "name": "Tasty Chinese Restaurant",
+    "address": "213 S Highland Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15206",
+    "latitude": 40.458491,
+    "longitude": -79.924781,
+    "stars": 3.0,
+    "review_count": 31,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "WiFi": "u'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'casual': False}",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'none'",
+        "HasTV": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsGoodForGroups": "True",
+        "Caters": "True",
+        "RestaurantsReservations": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "17:0-21:30",
+        "Tuesday": "17:0-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-21:30",
+        "Saturday": "11:30-22:0",
+        "Sunday": "11:30-21:30"
+    }
+}

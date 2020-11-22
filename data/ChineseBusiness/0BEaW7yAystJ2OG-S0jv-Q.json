@@ -1,0 +1,42 @@
+{
+    "business_id": "0BEaW7yAystJ2OG-S0jv-Q",
+    "name": "Ming Home",
+    "address": "15720 Broadway Ave",
+    "city": "Maple Heights",
+    "state": "OH",
+    "postal_code": "44137",
+    "latitude": 41.416596,
+    "longitude": -81.5719,
+    "stars": 3.0,
+    "review_count": 9,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "True",
+        "Caters": "False",
+        "NoiseLevel": "'average'",
+        "WiFi": "'no'",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True",
+        "RestaurantsAttire": "'casual'",
+        "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:30",
+        "Tuesday": "10:30-22:30",
+        "Wednesday": "10:30-22:30",
+        "Thursday": "10:30-22:30",
+        "Friday": "10:30-23:30",
+        "Saturday": "10:30-23:30",
+        "Sunday": "11:30-22:0"
+    }
+}

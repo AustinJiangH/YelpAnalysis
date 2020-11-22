@@ -1,0 +1,22 @@
+{
+    "business_id": "PT0N41nUD3CErvn046JEhg",
+    "name": "Red Pepper Chinese Restaurant",
+    "address": "1518 N Stoughton Rd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53704",
+    "latitude": 43.1176498,
+    "longitude": -89.3254581,
+    "stars": 4.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "Alcohol": "'none'",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "'casual'",
+        "GoodForKids": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

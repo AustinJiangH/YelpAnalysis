@@ -1,0 +1,42 @@
+{
+    "business_id": "xistlMeIIjG21z2SaWvfVQ",
+    "name": "Kung Fu BBQ",
+    "address": "510 E John St",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.1093708,
+    "longitude": -88.2308592,
+    "stars": 3.5,
+    "review_count": 56,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'average'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Caters": "False",
+        "WiFi": "u'no'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTableService": "True",
+        "RestaurantsTakeOut": "False",
+        "RestaurantsDelivery": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "HasTV": "True",
+        "BikeParking": "False",
+        "RestaurantsPriceRange2": "2",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False"
+    },
+    "categories": "Restaurants, Chinese, Dim Sum, Shanghainese, Barbeque, Hot Pot, Korean",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "10:30-21:0",
+        "Wednesday": "10:30-21:0",
+        "Thursday": "10:30-21:0",
+        "Friday": "10:30-21:0",
+        "Saturday": "10:30-21:0"
+    }
+}

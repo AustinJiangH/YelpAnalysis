@@ -1,0 +1,40 @@
+{
+    "business_id": "7-Wlpm30PGCBIZtH2rOlew",
+    "name": "Miss Saigon88",
+    "address": "258 N Craig St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15213",
+    "latitude": 40.4512474328,
+    "longitude": -79.9514841288,
+    "stars": 3.0,
+    "review_count": 25,
+    "is_open": 0,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "NoiseLevel": "'quiet'",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsTakeOut": "True",
+        "HasTV": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "True",
+        "BikeParking": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Alcohol": "'none'",
+        "RestaurantsDelivery": "False"
+    },
+    "categories": "Thai, Vietnamese, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

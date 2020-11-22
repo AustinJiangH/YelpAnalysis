@@ -1,0 +1,43 @@
+{
+    "business_id": "EGJb8zZPlAfRzj9rg2KwqQ",
+    "name": "China Buffet",
+    "address": "33550 Vine St",
+    "city": "Eastlake",
+    "state": "OH",
+    "postal_code": "44095",
+    "latitude": 41.64197,
+    "longitude": -81.4494426,
+    "stars": 3.0,
+    "review_count": 22,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "1",
+        "Alcohol": "u'beer_and_wine'",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "False",
+        "RestaurantsReservations": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "NoiseLevel": "u'average'",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "False",
+        "RestaurantsAttire": "u'casual'",
+        "WiFi": "u'free'",
+        "Caters": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsDelivery": "False"
+    },
+    "categories": "Restaurants, Buffets, Chinese, Italian",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:0-22:0"
+    }
+}

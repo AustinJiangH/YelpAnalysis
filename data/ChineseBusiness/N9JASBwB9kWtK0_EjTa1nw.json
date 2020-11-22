@@ -1,0 +1,41 @@
+{
+    "business_id": "N9JASBwB9kWtK0_EjTa1nw",
+    "name": "Chan An Restaurant",
+    "address": "37 Walsh Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15205",
+    "latitude": 40.439176,
+    "longitude": -80.071117,
+    "stars": 4.0,
+    "review_count": 31,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsAttire": "u'casual'",
+        "WiFi": "'no'",
+        "RestaurantsDelivery": "False",
+        "Alcohol": "u'none'",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'quiet'",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "BikeParking": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:0-21:30",
+        "Tuesday": "10:0-21:30",
+        "Wednesday": "10:0-21:30",
+        "Thursday": "10:0-21:30",
+        "Friday": "10:0-22:30",
+        "Saturday": "10:0-22:30",
+        "Sunday": "12:0-21:30"
+    }
+}

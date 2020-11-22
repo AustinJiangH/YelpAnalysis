@@ -1,0 +1,38 @@
+{
+    "business_id": "GqBP4UM_z2BAJz_ZUzdecA",
+    "name": "Eastern Palace",
+    "address": "1200 Corporate Dr, Ste 1",
+    "city": "Canonsburg",
+    "state": "PA",
+    "postal_code": "15317",
+    "latitude": 40.299569,
+    "longitude": -80.174926,
+    "stars": 4.0,
+    "review_count": 16,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "2",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "HasTV": "True",
+        "NoiseLevel": "u'quiet'",
+        "GoodForKids": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "16:0-21:0",
+        "Tuesday": "16:0-18:30",
+        "Wednesday": "16:0-21:0",
+        "Thursday": "16:0-21:0",
+        "Friday": "16:0-21:30"
+    }
+}

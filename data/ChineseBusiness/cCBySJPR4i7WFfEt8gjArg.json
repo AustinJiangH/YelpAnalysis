@@ -1,0 +1,42 @@
+{
+    "business_id": "cCBySJPR4i7WFfEt8gjArg",
+    "name": "Bahn Thai Restaurant",
+    "address": "944 Williamson St",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53703",
+    "latitude": 43.0806833,
+    "longitude": -89.3685159,
+    "stars": 3.5,
+    "review_count": 77,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "WiFi": "u'no'",
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "2",
+        "BikeParking": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsAttire": "'casual'",
+        "Alcohol": "u'beer_and_wine'",
+        "GoodForKids": "True",
+        "HasTV": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'quiet'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Chinese, Restaurants, Thai",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:30",
+        "Saturday": "12:0-21:30",
+        "Sunday": "12:0-21:0"
+    }
+}

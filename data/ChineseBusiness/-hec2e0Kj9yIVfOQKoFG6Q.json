@@ -1,0 +1,41 @@
+{
+    "business_id": "-hec2e0Kj9yIVfOQKoFG6Q",
+    "name": "Jumbo II Chinese Food",
+    "address": "26625 Brookpark Ext",
+    "city": "North Olmsted",
+    "state": "OH",
+    "postal_code": "44070",
+    "latitude": 41.41943,
+    "longitude": -81.917283,
+    "stars": 2.0,
+    "review_count": 11,
+    "is_open": 0,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "False",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'none'",
+        "RestaurantsDelivery": "True",
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "Caters": "True",
+        "WiFi": "u'no'",
+        "RestaurantsPriceRange2": "2",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "True"
+    },
+    "categories": "Buffets, Chinese, Restaurants",
+    "hours": {
+        "Monday": "16:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "16:0-21:30"
+    }
+}

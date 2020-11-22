@@ -1,0 +1,42 @@
+{
+    "business_id": "jDehhKtVZa62k32WHbnc2A",
+    "name": "China Star",
+    "address": "Mcintyre Square Shopping Ctr, 3200 McIntyre Square Dr",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15237",
+    "latitude": 40.5533580189,
+    "longitude": -80.0158953356,
+    "stars": 3.5,
+    "review_count": 43,
+    "is_open": 0,
+    "attributes": {
+        "HasTV": "True",
+        "RestaurantsTakeOut": "True",
+        "Caters": "True",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "NoiseLevel": "u'average'",
+        "WiFi": "u'no'",
+        "Alcohol": "u'beer_and_wine'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "BikeParking": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "True",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Food Delivery Services, Szechuan, Restaurants, Chinese, Food",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:0-21:30"
+    }
+}

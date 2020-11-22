@@ -1,0 +1,27 @@
+{
+    "business_id": "9VU91bqavqmmi3gstjemzA",
+    "name": "Great China Buffet & Grill",
+    "address": "5055 William Flynn Hwy",
+    "city": "Gibsonia",
+    "state": "PA",
+    "postal_code": "15044",
+    "latitude": 40.6079763,
+    "longitude": -79.9480111,
+    "stars": 4.0,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'average'"
+    },
+    "categories": "Restaurants, Chinese, Food Delivery Services, Food, Buffets",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-22:0"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "business_id": "iDHWqYdaTd5cHjppBdg5Rw",
+    "name": "Classic Chinese Cuisine",
+    "address": "1025 Washington Pike, Ste 25",
+    "city": "Bridgeville",
+    "state": "PA",
+    "postal_code": "15017",
+    "latitude": 40.36464,
+    "longitude": -80.111125,
+    "stars": 3.5,
+    "review_count": 24,
+    "is_open": 1,
+    "attributes": {
+        "HasTV": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'quiet'",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsReservations": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "15:0-21:0"
+    }
+}

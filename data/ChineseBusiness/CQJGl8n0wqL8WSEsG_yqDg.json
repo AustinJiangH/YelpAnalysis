@@ -1,0 +1,33 @@
+{
+    "business_id": "CQJGl8n0wqL8WSEsG_yqDg",
+    "name": "China King",
+    "address": "7087 Brecksville Rd",
+    "city": "Independence",
+    "state": "OH",
+    "postal_code": "44131",
+    "latitude": 41.3697164,
+    "longitude": -81.6375212,
+    "stars": 3.0,
+    "review_count": 24,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "Alcohol": "u'none'",
+        "BikeParking": "True",
+        "RestaurantsGoodForGroups": "False",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

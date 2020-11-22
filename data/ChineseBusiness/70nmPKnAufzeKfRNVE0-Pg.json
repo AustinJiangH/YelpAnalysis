@@ -1,0 +1,29 @@
+{
+    "business_id": "70nmPKnAufzeKfRNVE0-Pg",
+    "name": "Hong Kong Wok",
+    "address": "702 N Midvale Blvd, Ste 120",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53705",
+    "latitude": 43.0733473,
+    "longitude": -89.4530332,
+    "stars": 4.0,
+    "review_count": 25,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsTakeOut": "False",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "False",
+        "BusinessAcceptsCreditCards": "False",
+        "WiFi": "u'no'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True"
+    },
+    "categories": "Fast Food, Restaurants, Chinese",
+    "hours": null
+}

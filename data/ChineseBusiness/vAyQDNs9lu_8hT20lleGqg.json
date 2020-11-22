@@ -1,0 +1,42 @@
+{
+    "business_id": "vAyQDNs9lu_8hT20lleGqg",
+    "name": "China Cafe",
+    "address": "637 Brown Ave",
+    "city": "Turtle Creek",
+    "state": "PA",
+    "postal_code": "15145",
+    "latitude": 40.425353,
+    "longitude": -79.834881,
+    "stars": 2.5,
+    "review_count": 21,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "True",
+        "Ambience": "None",
+        "Caters": "False",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "True",
+        "HasTV": "True",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "BikeParking": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:0-21:30",
+        "Tuesday": "10:0-21:30",
+        "Wednesday": "10:0-21:30",
+        "Thursday": "10:0-21:30",
+        "Friday": "10:0-22:0",
+        "Saturday": "10:0-22:0",
+        "Sunday": "12:0-21:30"
+    }
+}

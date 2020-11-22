@@ -1,0 +1,42 @@
+{
+    "business_id": "sfd19Wo_7g2TwaoJmA9B8A",
+    "name": "Hunan Coventry",
+    "address": "1800 Coventry Rd",
+    "city": "Cleveland Heights",
+    "state": "OH",
+    "postal_code": "44118",
+    "latitude": 41.5103685019,
+    "longitude": -81.5802007953,
+    "stars": 3.0,
+    "review_count": 83,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "'casual'",
+        "Caters": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "WiFi": "u'no'",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': True, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': True}",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "16:0-20:30"
+    }
+}

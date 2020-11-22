@@ -1,0 +1,43 @@
+{
+    "business_id": "zXJilaBN28oUdX7Owf0fRA",
+    "name": "Sakura Teppanyaki & Sushi",
+    "address": "5882 Forbes Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15217",
+    "latitude": 40.4378362,
+    "longitude": -79.9196769,
+    "stars": 3.0,
+    "review_count": 118,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "BikeParking": "True",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "False",
+        "RestaurantsPriceRange2": "2",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsReservations": "True",
+        "NoiseLevel": "'average'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "Caters": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "WiFi": "u'free'"
+    },
+    "categories": "Restaurants, Sushi Bars, Breakfast & Brunch, Chinese, Japanese, Noodles",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "10:0-22:30",
+        "Sunday": "10:0-21:0"
+    }
+}

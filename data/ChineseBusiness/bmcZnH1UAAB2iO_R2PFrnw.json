@@ -1,0 +1,30 @@
+{
+    "business_id": "bmcZnH1UAAB2iO_R2PFrnw",
+    "name": "70 Chinese and Sushi",
+    "address": "24111 Lorain Rd",
+    "city": "North Olmsted",
+    "state": "OH",
+    "postal_code": "44070",
+    "latitude": 41.4288092,
+    "longitude": -81.8889055,
+    "stars": 3.5,
+    "review_count": 14,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "False"
+    },
+    "categories": "Chinese, Restaurants, Japanese, Sushi Bars",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "15:0-21:30"
+    }
+}

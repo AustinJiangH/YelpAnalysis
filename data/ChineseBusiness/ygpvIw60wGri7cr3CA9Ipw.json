@@ -1,0 +1,41 @@
+{
+    "business_id": "ygpvIw60wGri7cr3CA9Ipw",
+    "name": "Jerusalem Grill",
+    "address": "14421 Cedar Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44121",
+    "latitude": 41.501676,
+    "longitude": -81.520593,
+    "stars": 4.0,
+    "review_count": 30,
+    "is_open": 0,
+    "attributes": {
+        "WiFi": "u'free'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "False",
+        "OutdoorSeating": "False",
+        "BikeParking": "False",
+        "Alcohol": "u'none'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsDelivery": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "NoiseLevel": "u'average'",
+        "Caters": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "True",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Kosher, Chinese, Middle Eastern, American (New), Restaurants",
+    "hours": {
+        "Monday": "11:0-20:30",
+        "Tuesday": "11:0-20:30",
+        "Wednesday": "11:0-20:30",
+        "Thursday": "11:0-20:30",
+        "Friday": "9:0-14:0",
+        "Sunday": "11:0-20:30"
+    }
+}

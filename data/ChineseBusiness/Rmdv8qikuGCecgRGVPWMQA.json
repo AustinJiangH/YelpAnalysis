@@ -1,0 +1,32 @@
+{
+    "business_id": "Rmdv8qikuGCecgRGVPWMQA",
+    "name": "China House",
+    "address": "425 Water St, Ste 12",
+    "city": "Chardon",
+    "state": "OH",
+    "postal_code": "44024",
+    "latitude": 41.5796651,
+    "longitude": -81.2109982,
+    "stars": 4.0,
+    "review_count": 14,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsTableService": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

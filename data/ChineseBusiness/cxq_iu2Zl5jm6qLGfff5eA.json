@@ -1,0 +1,41 @@
+{
+    "business_id": "cxq_iu2Zl5jm6qLGfff5eA",
+    "name": "Amazing Wok II",
+    "address": "2169 S Taylor Rd",
+    "city": "Cleveland Heights",
+    "state": "OH",
+    "postal_code": "44118",
+    "latitude": 41.5002699,
+    "longitude": -81.5554846,
+    "stars": 3.0,
+    "review_count": 40,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'quiet'",
+        "Caters": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "False",
+        "WiFi": "u'no'",
+        "HasTV": "True",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:30",
+        "Tuesday": "11:0-22:30",
+        "Wednesday": "11:0-22:30",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-23:30",
+        "Saturday": "11:0-23:30",
+        "Sunday": "12:0-22:30"
+    }
+}

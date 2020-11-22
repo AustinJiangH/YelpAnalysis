@@ -1,0 +1,39 @@
+{
+    "business_id": "ZKBUoCqTpwMtmImz64DGyQ",
+    "name": "Hong Kong Express II",
+    "address": "529 Ct Pl",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15219",
+    "latitude": 40.437018,
+    "longitude": -79.997166,
+    "stars": 3.5,
+    "review_count": 14,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "Caters": "True",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Restaurants, Chinese, Thai",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "12:0-22:0"
+    }
+}

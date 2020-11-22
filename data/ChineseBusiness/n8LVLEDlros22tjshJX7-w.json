@@ -1,0 +1,27 @@
+{
+    "business_id": "n8LVLEDlros22tjshJX7-w",
+    "name": "New Asian Delight",
+    "address": "5391 Warrensville Center Rd",
+    "city": "Maple Heights",
+    "state": "OH",
+    "postal_code": "44137",
+    "latitude": 41.414397,
+    "longitude": -81.536049,
+    "stars": 4.0,
+    "review_count": 4,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

@@ -1,0 +1,26 @@
+{
+    "business_id": "J8PbfZbU7XTs-h55ezuQcQ",
+    "name": "CHANG HUA GARDEN",
+    "address": "811 S Gammon Rd",
+    "city": "Fitchburg",
+    "state": "WI",
+    "postal_code": "53719",
+    "latitude": 43.0474061,
+    "longitude": -89.5026303,
+    "stars": 4.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:0",
+        "Saturday": "11:0-21:0",
+        "Sunday": "12:0-21:0"
+    }
+}

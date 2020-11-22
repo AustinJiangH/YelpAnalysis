@@ -1,0 +1,43 @@
+{
+    "business_id": "xONNOYgT5BBJj_EVJBMghQ",
+    "name": "China Garden",
+    "address": "90 Malts Ln",
+    "city": "Irwin",
+    "state": "PA",
+    "postal_code": "15642",
+    "latitude": 40.33327,
+    "longitude": -79.744246,
+    "stars": 4.5,
+    "review_count": 25,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "'average'",
+        "WiFi": "'no'",
+        "RestaurantsTableService": "True",
+        "BikeParking": "False",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "True",
+        "RestaurantsAttire": "'casual'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "HasTV": "True",
+        "Alcohol": "'full_bar'",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsDelivery": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Chinese, Restaurants, Sushi Bars",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:0",
+        "Saturday": "12:0-22:0",
+        "Sunday": "12:0-21:0"
+    }
+}

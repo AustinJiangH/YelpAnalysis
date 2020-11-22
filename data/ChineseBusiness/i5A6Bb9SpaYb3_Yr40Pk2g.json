@@ -1,0 +1,31 @@
+{
+    "business_id": "i5A6Bb9SpaYb3_Yr40Pk2g",
+    "name": "Taste of China",
+    "address": "25995 Highland Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44143",
+    "latitude": 41.5531643,
+    "longitude": -81.498089,
+    "stars": 4.0,
+    "review_count": 24,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "Alcohol": "u'none'",
+        "WiFi": "'no'",
+        "RestaurantsDelivery": "True",
+        "BikeParking": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "OutdoorSeating": "False",
+        "HasTV": "True",
+        "RestaurantsPriceRange2": "2"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

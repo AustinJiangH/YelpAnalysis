@@ -1,0 +1,23 @@
+{
+    "business_id": "74O-ZufCco3hBcMQc3Vf8Q",
+    "name": "iNoodle",
+    "address": "1060 Morewood Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15213",
+    "latitude": 40.4454444,
+    "longitude": -79.9432431,
+    "stars": 2.0,
+    "review_count": 5,
+    "is_open": 1,
+    "attributes": null,
+    "categories": "Restaurants, Chinese, Noodles",
+    "hours": {
+        "Monday": "11:0-19:30",
+        "Tuesday": "11:0-19:30",
+        "Wednesday": "11:0-19:30",
+        "Thursday": "11:0-19:30",
+        "Friday": "11:0-19:30",
+        "Saturday": "11:0-19:30"
+    }
+}

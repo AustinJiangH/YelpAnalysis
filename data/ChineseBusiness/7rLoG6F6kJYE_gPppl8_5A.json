@@ -1,0 +1,41 @@
+{
+    "business_id": "7rLoG6F6kJYE_gPppl8_5A",
+    "name": "Dragon Chinese Restaurant",
+    "address": "140 Allegheny River Blvd",
+    "city": "Verona",
+    "state": "PA",
+    "postal_code": "15147",
+    "latitude": 40.4985897186,
+    "longitude": -79.8447702439,
+    "stars": 4.5,
+    "review_count": 11,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "Alcohol": "u'none'",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "WiFi": "u'no'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "False",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "False",
+        "Caters": "False",
+        "OutdoorSeating": "False",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "11:0-22:0"
+    }
+}

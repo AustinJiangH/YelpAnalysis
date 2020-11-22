@@ -1,0 +1,43 @@
+{
+    "business_id": "uZZnIe0KJEpFlJlYedrQsg",
+    "name": "Inchin's Bamboo Garden",
+    "address": "11440 Euclid Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44106",
+    "latitude": 41.5096408966,
+    "longitude": -81.6041102477,
+    "stars": 3.0,
+    "review_count": 68,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "BikeParking": "True",
+        "OutdoorSeating": "True",
+        "RestaurantsReservations": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "WiFi": "'no'",
+        "RestaurantsDelivery": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'very_loud'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsTableService": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'full_bar'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "False"
+    },
+    "categories": "Restaurants, Asian Fusion, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "13:0-22:0",
+        "Sunday": "13:0-20:0"
+    }
+}

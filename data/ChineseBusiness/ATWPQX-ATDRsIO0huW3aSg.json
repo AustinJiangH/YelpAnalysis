@@ -1,0 +1,30 @@
+{
+    "business_id": "ATWPQX-ATDRsIO0huW3aSg",
+    "name": "The Magic Noodle",
+    "address": "5829 Forbes Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15217",
+    "latitude": 40.438258,
+    "longitude": -79.9218718,
+    "stars": 4.0,
+    "review_count": 35,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsPriceRange2": "2",
+        "HasTV": "True"
+    },
+    "categories": "Soup, Restaurants, Chinese, Noodles",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:0",
+        "Saturday": "11:30-22:0",
+        "Sunday": "11:30-21:0"
+    }
+}

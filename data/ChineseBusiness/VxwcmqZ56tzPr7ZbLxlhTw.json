@@ -1,0 +1,42 @@
+{
+    "business_id": "VxwcmqZ56tzPr7ZbLxlhTw",
+    "name": "China Wok",
+    "address": "6771 University Ave, Ste 107",
+    "city": "Middleton",
+    "state": "WI",
+    "postal_code": "53562",
+    "latitude": 43.0967246413,
+    "longitude": -89.4980389997,
+    "stars": 3.0,
+    "review_count": 26,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "Alcohol": "'none'",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "Caters": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsDelivery": "True",
+        "BikeParking": "True",
+        "NoiseLevel": "u'average'",
+        "HasTV": "True",
+        "WiFi": "'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}"
+    },
+    "categories": "Soup, Seafood, Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "17:0-22:0"
+    }
+}

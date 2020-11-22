@@ -1,0 +1,33 @@
+{
+    "business_id": "XErOb3obTwM_Kby23AIYfg",
+    "name": "Golden Crown Chinese-American Restaurant",
+    "address": "449 W 4th St",
+    "city": "Lorain",
+    "state": "OH",
+    "postal_code": "44052",
+    "latitude": 41.4660517,
+    "longitude": -82.1789171,
+    "stars": 4.0,
+    "review_count": 8,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "'none'",
+        "RestaurantsAttire": "'casual'",
+        "GoodForKids": "True",
+        "WiFi": "'no'",
+        "NoiseLevel": "'quiet'",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "True",
+        "BikeParking": "False",
+        "RestaurantsTakeOut": "True",
+        "HasTV": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

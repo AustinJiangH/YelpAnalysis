@@ -1,0 +1,23 @@
+{
+    "business_id": "o5rtJcyJ6xje1PFj_rhRTA",
+    "name": "Golden Palace Chinese Restaurant",
+    "address": "206 Shiloh St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15211",
+    "latitude": 40.4306144,
+    "longitude": -80.0075896,
+    "stars": 2.0,
+    "review_count": 9,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsPriceRange2": "2",
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "True",
+        "NoiseLevel": "u'average'",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

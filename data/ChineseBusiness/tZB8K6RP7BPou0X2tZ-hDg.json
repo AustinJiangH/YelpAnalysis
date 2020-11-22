@@ -1,0 +1,33 @@
+{
+    "business_id": "tZB8K6RP7BPou0X2tZ-hDg",
+    "name": "China City",
+    "address": "6080 Steubenville Pike",
+    "city": "Mc Kees Rocks",
+    "state": "PA",
+    "postal_code": "15136",
+    "latitude": 40.4433533463,
+    "longitude": -80.1450877457,
+    "stars": 3.0,
+    "review_count": 32,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'quiet'",
+        "Alcohol": "u'none'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'casual': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "BikeParking": "False",
+        "WiFi": "'no'",
+        "RestaurantsDelivery": "True",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

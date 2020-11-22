@@ -1,0 +1,38 @@
+{
+    "business_id": "Kxlt3ZNmTzbxRFYelWAmKA",
+    "name": "China Chef",
+    "address": "15200 Puritas Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44135",
+    "latitude": 41.435459,
+    "longitude": -81.8028408,
+    "stars": 3.0,
+    "review_count": 11,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "'casual'",
+        "Ambience": "None",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "GoodForKids": "False",
+        "WiFi": "'no'",
+        "RestaurantsReservations": "False",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-23:0",
+        "Saturday": "10:30-23:0",
+        "Sunday": "11:30-22:0"
+    }
+}

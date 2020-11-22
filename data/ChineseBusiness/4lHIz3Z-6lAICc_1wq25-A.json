@@ -1,0 +1,40 @@
+{
+    "business_id": "4lHIz3Z-6lAICc_1wq25-A",
+    "name": "General Tso's Chinese Food",
+    "address": "30 Glacier Edge Sq",
+    "city": "Cross Plains",
+    "state": "WI",
+    "postal_code": "53528",
+    "latitude": 43.1113929,
+    "longitude": -89.6424937,
+    "stars": 3.0,
+    "review_count": 8,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "Caters": "False",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:0-21:0"
+    }
+}

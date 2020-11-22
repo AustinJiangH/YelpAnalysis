@@ -1,0 +1,42 @@
+{
+    "business_id": "i_t8WTwztuHweRqQ89hmuQ",
+    "name": "Panda Express",
+    "address": "2521 N Prospect Ave",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61822",
+    "latitude": 40.1460326346,
+    "longitude": -88.2585361671,
+    "stars": 3.5,
+    "review_count": 22,
+    "is_open": 1,
+    "attributes": {
+        "Caters": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': True, 'breakfast': False}",
+        "RestaurantsAttire": "'casual'",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsDelivery": "False",
+        "NoiseLevel": "u'loud'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "OutdoorSeating": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "Alcohol": "u'none'",
+        "BikeParking": "True",
+        "HasTV": "True"
+    },
+    "categories": "Fast Food, Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-21:30",
+        "Tuesday": "10:30-21:30",
+        "Wednesday": "10:30-21:30",
+        "Thursday": "10:30-21:30",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "11:0-21:0"
+    }
+}

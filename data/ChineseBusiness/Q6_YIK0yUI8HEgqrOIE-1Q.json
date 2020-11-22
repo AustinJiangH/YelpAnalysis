@@ -1,0 +1,41 @@
+{
+    "business_id": "Q6_YIK0yUI8HEgqrOIE-1Q",
+    "name": "A Sakura",
+    "address": "5401 Caddis Bend",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53711",
+    "latitude": 43.0193330474,
+    "longitude": -89.4205570221,
+    "stars": 3.0,
+    "review_count": 16,
+    "is_open": 0,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "BikeParking": "True",
+        "RestaurantsAttire": "u'casual'",
+        "WiFi": "'no'",
+        "Alcohol": "'beer_and_wine'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsReservations": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "3",
+        "NoiseLevel": "u'average'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "HasTV": "True",
+        "HappyHour": "True"
+    },
+    "categories": "Food, Sushi Bars, Restaurants, Chinese, Japanese",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "10:30-22:0"
+    }
+}

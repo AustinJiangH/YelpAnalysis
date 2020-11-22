@@ -1,0 +1,36 @@
+{
+    "business_id": "1ofeAP5vdjnOSeO5S2pzSg",
+    "name": "Panda Express",
+    "address": "202 Robinson Center Dr",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15205",
+    "latitude": 40.451404,
+    "longitude": -80.162472,
+    "stars": 2.5,
+    "review_count": 32,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "HasTV": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Chinese, Restaurants, Fast Food",
+    "hours": {
+        "Monday": "10:30-21:30",
+        "Tuesday": "10:30-21:30",
+        "Wednesday": "10:30-21:30",
+        "Thursday": "10:30-21:30",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "11:0-21:30"
+    }
+}

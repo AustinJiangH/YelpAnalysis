@@ -1,0 +1,27 @@
+{
+    "business_id": "hSfsnEa9q1Xx-0lAYDTLGw",
+    "name": "Chang Jiang Chinese Restaurant",
+    "address": "1200 Springdale St",
+    "city": "Mount Horeb",
+    "state": "WI",
+    "postal_code": "53572",
+    "latitude": 43.0107265335,
+    "longitude": -89.72526337,
+    "stars": 3.5,
+    "review_count": 3,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Tuesday": "10:30-21:30",
+        "Wednesday": "10:30-21:30",
+        "Thursday": "10:30-21:30",
+        "Friday": "10:30-22:30",
+        "Saturday": "10:30-22:30",
+        "Sunday": "11:30-21:30"
+    }
+}

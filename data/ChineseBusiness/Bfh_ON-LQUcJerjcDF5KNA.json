@@ -1,0 +1,42 @@
+{
+    "business_id": "Bfh_ON-LQUcJerjcDF5KNA",
+    "name": "Best Wok",
+    "address": "907 W Marketview Dr, Ste 8",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61822",
+    "latitude": 40.137698,
+    "longitude": -88.260784,
+    "stars": 3.0,
+    "review_count": 27,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "BusinessParking": "None",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "OutdoorSeating": "False",
+        "BikeParking": "True",
+        "WiFi": "u'free'",
+        "NoiseLevel": "'quiet'",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsPriceRange2": "1",
+        "HasTV": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:30-21:0",
+        "Tuesday": "10:30-21:0",
+        "Wednesday": "10:30-21:0",
+        "Thursday": "10:30-21:0",
+        "Friday": "10:30-21:30",
+        "Saturday": "10:30-21:30",
+        "Sunday": "10:30-21:0"
+    }
+}

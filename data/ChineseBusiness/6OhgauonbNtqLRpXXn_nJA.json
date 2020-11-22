@@ -1,0 +1,30 @@
+{
+    "business_id": "6OhgauonbNtqLRpXXn_nJA",
+    "name": "Master Wok",
+    "address": "230 W Huron Rd, Ste 7248",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44113",
+    "latitude": 41.4971659,
+    "longitude": -81.6940644,
+    "stars": 3.5,
+    "review_count": 6,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "HasTV": "False",
+        "GoodForKids": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsDelivery": "False",
+        "Ambience": "None",
+        "NoiseLevel": "u'very_loud'"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

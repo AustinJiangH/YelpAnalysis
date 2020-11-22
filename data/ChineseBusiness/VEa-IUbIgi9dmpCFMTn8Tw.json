@@ -1,0 +1,43 @@
+{
+    "business_id": "VEa-IUbIgi9dmpCFMTn8Tw",
+    "name": "Sakura Sushi House",
+    "address": "15040 Pearl Rd",
+    "city": "Strongsville",
+    "state": "OH",
+    "postal_code": "44136",
+    "latitude": 41.3060359,
+    "longitude": -81.8360017,
+    "stars": 4.0,
+    "review_count": 79,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "HasTV": "True",
+        "RestaurantsPriceRange2": "2",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "False",
+        "WiFi": "u'no'",
+        "RestaurantsReservations": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsTableService": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "Alcohol": "u'beer_and_wine'",
+        "GoodForKids": "True",
+        "BikeParking": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "RestaurantsAttire": "u'casual'"
+    },
+    "categories": "Chinese, Vegetarian, Restaurants, Sushi Bars, Japanese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

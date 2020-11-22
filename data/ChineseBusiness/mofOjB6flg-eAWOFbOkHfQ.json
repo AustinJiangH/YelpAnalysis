@@ -1,0 +1,43 @@
+{
+    "business_id": "mofOjB6flg-eAWOFbOkHfQ",
+    "name": "ChinaTown Buffet",
+    "address": "713 W Marketview Dr",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61822",
+    "latitude": 40.13727,
+    "longitude": -88.2560426,
+    "stars": 2.5,
+    "review_count": 80,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "u'average'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "'casual'",
+        "WiFi": "u'no'",
+        "Caters": "False",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "BikeParking": "False",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "Alcohol": "u'full_bar'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsPriceRange2": "2",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "HasTV": "True"
+    },
+    "categories": "Buffets, Sushi Bars, Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:0"
+    }
+}

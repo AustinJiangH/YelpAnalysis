@@ -1,0 +1,41 @@
+{
+    "business_id": "kD1u5HwZpWOH2bAU_W0ARQ",
+    "name": "Peking Chinese",
+    "address": "5900 Som Center Rd, Ste 11",
+    "city": "Willoughby",
+    "state": "OH",
+    "postal_code": "44094",
+    "latitude": 41.6072477,
+    "longitude": -81.4411265,
+    "stars": 3.5,
+    "review_count": 27,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'none'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:30",
+        "Tuesday": "10:30-22:30",
+        "Wednesday": "10:30-22:30",
+        "Thursday": "10:30-22:30",
+        "Friday": "10:30-22:30",
+        "Saturday": "10:30-22:30",
+        "Sunday": "11:30-22:0"
+    }
+}

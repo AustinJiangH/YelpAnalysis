@@ -1,0 +1,30 @@
+{
+    "business_id": "IcrFc5IwCcKyGbVmgWjVjg",
+    "name": "Red Dragon",
+    "address": "213 S Highland Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15206",
+    "latitude": 40.458491,
+    "longitude": -79.924781,
+    "stars": 4.0,
+    "review_count": 25,
+    "is_open": 1,
+    "attributes": {
+        "HasTV": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "11:0-20:0"
+    }
+}

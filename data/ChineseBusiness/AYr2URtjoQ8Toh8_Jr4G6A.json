@@ -1,0 +1,43 @@
+{
+    "business_id": "AYr2URtjoQ8Toh8_Jr4G6A",
+    "name": "Rose Tea Cafe",
+    "address": "414 S Craig St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15213",
+    "latitude": 40.444788,
+    "longitude": -79.9489549,
+    "stars": 2.5,
+    "review_count": 79,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "False",
+        "BikeParking": "True",
+        "WiFi": "'no'",
+        "NoiseLevel": "u'average'",
+        "Caters": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsDelivery": "False",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Food, Bubble Tea, Taiwanese, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:0",
+        "Saturday": "11:0-21:0",
+        "Sunday": "12:0-21:0"
+    }
+}

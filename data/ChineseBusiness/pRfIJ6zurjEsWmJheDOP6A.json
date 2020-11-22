@@ -1,0 +1,41 @@
+{
+    "business_id": "pRfIJ6zurjEsWmJheDOP6A",
+    "name": "Pan Asia",
+    "address": "5321 Clairton Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15236",
+    "latitude": 40.3434382,
+    "longitude": -79.9690533,
+    "stars": 3.5,
+    "review_count": 24,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "HasTV": "True",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'quiet'",
+        "WiFi": "u'no'",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BikeParking": "False",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsDelivery": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "'full_bar'"
+    },
+    "categories": "Restaurants, Chinese, Japanese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:30-21:0"
+    }
+}

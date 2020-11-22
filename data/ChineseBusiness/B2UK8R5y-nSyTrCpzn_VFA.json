@@ -1,0 +1,41 @@
+{
+    "business_id": "B2UK8R5y-nSyTrCpzn_VFA",
+    "name": "Mandarin House Restaurant of China",
+    "address": "3201 State Rd",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "postal_code": "44223",
+    "latitude": 41.1590203,
+    "longitude": -81.5097046,
+    "stars": 3.5,
+    "review_count": 32,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "False",
+        "WiFi": "u'no'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "NoiseLevel": "'quiet'",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'touristy': None, 'hipster': None, 'romantic': None, 'divey': None, 'intimate': None, 'trendy': None, 'upscale': None, 'classy': None, 'casual': True}"
+    },
+    "categories": "Restaurants, Chinese, Event Planning & Services, Asian Fusion, Caterers",
+    "hours": {
+        "Monday": "11:30-22:0",
+        "Tuesday": "11:30-22:0",
+        "Wednesday": "11:30-22:0",
+        "Thursday": "11:30-22:0",
+        "Friday": "11:30-22:0",
+        "Saturday": "12:0-22:0",
+        "Sunday": "12:0-22:0"
+    }
+}

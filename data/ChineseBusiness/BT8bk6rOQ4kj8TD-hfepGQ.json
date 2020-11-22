@@ -1,0 +1,31 @@
+{
+    "business_id": "BT8bk6rOQ4kj8TD-hfepGQ",
+    "name": "China Star",
+    "address": "5194 Detroit Rd",
+    "city": "Sheffield Lake",
+    "state": "OH",
+    "postal_code": "44034",
+    "latitude": 41.4249232,
+    "longitude": -82.0813203,
+    "stars": 3.0,
+    "review_count": 7,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "HasTV": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "BikeParking": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

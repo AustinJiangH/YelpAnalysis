@@ -1,0 +1,28 @@
+{
+    "business_id": "8gVq0xCXVeAAS3-nsifAgQ",
+    "name": "Chin's Asia Fresh",
+    "address": "422 State St",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53703",
+    "latitude": 43.075006,
+    "longitude": -89.3921359,
+    "stars": 2.5,
+    "review_count": 16,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1",
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

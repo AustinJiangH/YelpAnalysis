@@ -1,0 +1,28 @@
+{
+    "business_id": "qx-d5K0fugvnrW5AYcTqlw",
+    "name": "Teriyaki Express",
+    "address": "7060 Denison Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44102",
+    "latitude": 41.4620701,
+    "longitude": -81.7366726,
+    "stars": 3.5,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False"
+    },
+    "categories": "Restaurants, Japanese, Chinese",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-23:0",
+        "Saturday": "10:30-23:0",
+        "Sunday": "11:0-21:0"
+    }
+}

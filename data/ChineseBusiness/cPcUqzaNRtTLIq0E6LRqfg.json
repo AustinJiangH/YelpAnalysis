@@ -1,0 +1,33 @@
+{
+    "business_id": "cPcUqzaNRtTLIq0E6LRqfg",
+    "name": "Great Wall Chinese Cuisine",
+    "address": "1768 Golden Mile Hwy",
+    "city": "Monroeville",
+    "state": "PA",
+    "postal_code": "15146",
+    "latitude": 40.4446993,
+    "longitude": -79.7127968,
+    "stars": 3.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "False",
+        "HasTV": "False",
+        "Alcohol": "u'none'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'no'",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'average'",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "Caters": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

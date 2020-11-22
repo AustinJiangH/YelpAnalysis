@@ -1,0 +1,26 @@
+{
+    "business_id": "tHsrPOEx-VY6a6urWWT0Xw",
+    "name": "Lily Chinese Restaurant",
+    "address": "27091 Bagley Rd",
+    "city": "Olmsted Township",
+    "state": "OH",
+    "postal_code": "44138",
+    "latitude": 41.3719855,
+    "longitude": -81.9424849,
+    "stars": 2.0,
+    "review_count": 14,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "False",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

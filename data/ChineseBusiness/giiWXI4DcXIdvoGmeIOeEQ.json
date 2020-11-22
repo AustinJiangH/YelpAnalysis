@@ -1,0 +1,31 @@
+{
+    "business_id": "giiWXI4DcXIdvoGmeIOeEQ",
+    "name": "Top Food",
+    "address": "103 W Kirby Ave",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.0977343,
+    "longitude": -88.245719,
+    "stars": 3.0,
+    "review_count": 5,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTableService": "True",
+        "WheelchairAccessible": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Seafood, Barbeque, Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:30-1:30",
+        "Tuesday": "11:30-1:30",
+        "Wednesday": "11:30-1:30",
+        "Thursday": "11:30-1:30",
+        "Friday": "11:30-2:0",
+        "Saturday": "11:30-2:0",
+        "Sunday": "12:0-1:30"
+    }
+}

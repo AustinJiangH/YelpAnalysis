@@ -1,0 +1,43 @@
+{
+    "business_id": "EbxaQO95C7PUNTmokE70XA",
+    "name": "Bamboo Republic Asian Cuisine",
+    "address": "1729 5th Ave",
+    "city": "Arnold",
+    "state": "PA",
+    "postal_code": "15068",
+    "latitude": 40.5786181951,
+    "longitude": -79.7680272866,
+    "stars": 4.5,
+    "review_count": 30,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "True",
+        "RestaurantsTableService": "True",
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': True}",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "WiFi": "u'no'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsAttire": "u'casual'",
+        "Caters": "True",
+        "Alcohol": "u'none'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "BikeParking": "True",
+        "HasTV": "True"
+    },
+    "categories": "Asian Fusion, Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-21:0",
+        "Tuesday": "10:30-21:0",
+        "Wednesday": "10:30-21:0",
+        "Thursday": "10:30-21:0",
+        "Friday": "10:30-22:0",
+        "Saturday": "11:0-22:0"
+    }
+}

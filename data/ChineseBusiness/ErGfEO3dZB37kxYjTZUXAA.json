@@ -1,0 +1,43 @@
+{
+    "business_id": "ErGfEO3dZB37kxYjTZUXAA",
+    "name": "Red China",
+    "address": "909 5th Ave",
+    "city": "Coraopolis",
+    "state": "PA",
+    "postal_code": "15108",
+    "latitude": 40.518369,
+    "longitude": -80.166268,
+    "stars": 3.5,
+    "review_count": 16,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "WiFi": "u'no'",
+        "GoodForKids": "True",
+        "BikeParking": "False",
+        "OutdoorSeating": "False",
+        "Caters": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "2",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "NoiseLevel": "u'average'",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese, American (New)",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "14:0-22:0"
+    }
+}

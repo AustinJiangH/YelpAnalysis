@@ -1,0 +1,42 @@
+{
+    "business_id": "XODz0rilGYo6_xd5e7isOw",
+    "name": "China Garden",
+    "address": "114 N Vine St",
+    "city": "Urbana",
+    "state": "IL",
+    "postal_code": "61802",
+    "latitude": 40.1134464,
+    "longitude": -88.2030631,
+    "stars": 3.5,
+    "review_count": 28,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "WiFi": "u'no'",
+        "NoiseLevel": "u'quiet'",
+        "Alcohol": "u'none'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "False",
+        "Caters": "True",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BikeParking": "True",
+        "HasTV": "True",
+        "RestaurantsDelivery": "None"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:30",
+        "Tuesday": "11:0-22:30",
+        "Wednesday": "11:0-22:30",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "business_id": "NdqDt4c2ZWpGTUWvcDDKkw",
+    "name": "Yen's Gourmet",
+    "address": "6123 Penn Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15206",
+    "latitude": 40.4610218,
+    "longitude": -79.922675,
+    "stars": 2.0,
+    "review_count": 17,
+    "is_open": 0,
+    "attributes": {
+        "HasTV": "False",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'none'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "WiFi": "u'no'",
+        "NoiseLevel": "u'quiet'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "1"
+    },
+    "categories": "Food, Chinese, Restaurants",
+    "hours": null
+}

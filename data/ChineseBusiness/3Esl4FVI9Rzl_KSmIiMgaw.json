@@ -1,0 +1,42 @@
+{
+    "business_id": "3Esl4FVI9Rzl_KSmIiMgaw",
+    "name": "Jackie Chen Wok",
+    "address": "2756 Van Aken Blvd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44120",
+    "latitude": 41.4828477,
+    "longitude": -81.5888412,
+    "stars": 3.5,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "'quiet'",
+        "WiFi": "'no'",
+        "RestaurantsPriceRange2": "1",
+        "Caters": "False",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "'none'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "'casual'",
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "False",
+        "BikeParking": "False",
+        "RestaurantsDelivery": "False",
+        "GoodForKids": "False",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:30",
+        "Saturday": "12:0-22:30",
+        "Sunday": "15:0-20:30"
+    }
+}

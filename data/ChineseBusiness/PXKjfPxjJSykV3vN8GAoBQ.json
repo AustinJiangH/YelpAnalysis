@@ -1,0 +1,42 @@
+{
+    "business_id": "PXKjfPxjJSykV3vN8GAoBQ",
+    "name": "China House",
+    "address": "5513 William Flynn Hwy, Ste 600",
+    "city": "Gibsonia",
+    "state": "PA",
+    "postal_code": "15044",
+    "latitude": 40.6271469,
+    "longitude": -79.9425004,
+    "stars": 4.0,
+    "review_count": 21,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "u'quiet'",
+        "WiFi": "u'no'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsDelivery": "False",
+        "Caters": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "True",
+        "BikeParking": "False",
+        "GoodForKids": "True",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "11:30-22:0"
+    }
+}

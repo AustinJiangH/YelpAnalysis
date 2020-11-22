@@ -1,0 +1,41 @@
+{
+    "business_id": "7LlND5b0bjWylNBNQ-oZMA",
+    "name": "Green Garden",
+    "address": "300 Beverly Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15216",
+    "latitude": 40.3889009,
+    "longitude": -80.0498904,
+    "stars": 2.5,
+    "review_count": 24,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "WiFi": "u'no'",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True",
+        "NoiseLevel": "u'quiet'",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "2",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "'casual'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-21:30"
+    }
+}

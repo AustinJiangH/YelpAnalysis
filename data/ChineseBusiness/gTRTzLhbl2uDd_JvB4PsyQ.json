@@ -1,0 +1,42 @@
+{
+    "business_id": "gTRTzLhbl2uDd_JvB4PsyQ",
+    "name": "China Palace",
+    "address": "4059 William Penn Hwy",
+    "city": "Monroeville",
+    "state": "PA",
+    "postal_code": "15146",
+    "latitude": 40.4403653,
+    "longitude": -79.7697106,
+    "stars": 3.5,
+    "review_count": 38,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsPriceRange2": "2",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "OutdoorSeating": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsReservations": "True",
+        "ByAppointmentOnly": "False",
+        "WiFi": "'no'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Chinese, Food, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:30-21:0"
+    }
+}

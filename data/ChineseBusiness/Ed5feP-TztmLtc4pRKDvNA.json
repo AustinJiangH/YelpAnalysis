@@ -1,0 +1,38 @@
+{
+    "business_id": "Ed5feP-TztmLtc4pRKDvNA",
+    "name": "Lee Asian Bistro",
+    "address": "4604 Monona Dr",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53716",
+    "latitude": 43.0699604,
+    "longitude": -89.3259043,
+    "stars": 3.5,
+    "review_count": 11,
+    "is_open": 0,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "True",
+        "HasTV": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Restaurants, Vietnamese, Chinese",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:0"
+    }
+}

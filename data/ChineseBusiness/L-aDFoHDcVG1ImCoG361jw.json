@@ -1,0 +1,42 @@
+{
+    "business_id": "L-aDFoHDcVG1ImCoG361jw",
+    "name": "China Star",
+    "address": "114 Moore Rd",
+    "city": "Avon Lake",
+    "state": "OH",
+    "postal_code": "44012",
+    "latitude": 41.5043943,
+    "longitude": -82.0473114,
+    "stars": 4.0,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "NoiseLevel": "u'very_loud'",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "False",
+        "Alcohol": "u'none'",
+        "WiFi": "'no'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BikeParking": "False",
+        "Caters": "False",
+        "HasTV": "True",
+        "RestaurantsGoodForGroups": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

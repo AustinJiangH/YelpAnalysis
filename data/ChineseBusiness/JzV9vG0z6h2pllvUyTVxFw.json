@@ -1,0 +1,27 @@
+{
+    "business_id": "JzV9vG0z6h2pllvUyTVxFw",
+    "name": "Ming Moon",
+    "address": "787 N Main St",
+    "city": "Oregon",
+    "state": "WI",
+    "postal_code": "53575",
+    "latitude": 42.9379692078,
+    "longitude": -89.3832550049,
+    "stars": 2.5,
+    "review_count": 10,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'none'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "Caters": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "BikeParking": "True"
+    },
+    "categories": "American (New), Chinese, Restaurants",
+    "hours": null
+}

@@ -1,0 +1,43 @@
+{
+    "business_id": "Zs8LPufciU-jDpbAVFqKcA",
+    "name": "China Gate",
+    "address": "13919 Cedar Rd",
+    "city": "South Euclid",
+    "state": "OH",
+    "postal_code": "44118",
+    "latitude": 41.5024063,
+    "longitude": -81.5391659,
+    "stars": 4.0,
+    "review_count": 77,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsPriceRange2": "1",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Caters": "False",
+        "GoodForKids": "True",
+        "HasTV": "True",
+        "BikeParking": "True",
+        "RestaurantsReservations": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "u'no'",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:30",
+        "Saturday": "14:0-22:30",
+        "Sunday": "14:0-21:30"
+    }
+}

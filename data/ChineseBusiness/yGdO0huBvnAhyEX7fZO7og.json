@@ -1,0 +1,42 @@
+{
+    "business_id": "yGdO0huBvnAhyEX7fZO7og",
+    "name": "Honeymoon Chinese Restaurant",
+    "address": "6348 Library Rd",
+    "city": "South Park",
+    "state": "PA",
+    "postal_code": "15129",
+    "latitude": 40.290431829,
+    "longitude": -80.028886148,
+    "stars": 3.5,
+    "review_count": 20,
+    "is_open": 1,
+    "attributes": {
+        "BikeParking": "True",
+        "RestaurantsGoodForGroups": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "None",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "GoodForKids": "False",
+        "WiFi": "u'free'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "Caters": "False",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'quiet'",
+        "HasTV": "True",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "11:0-22:0"
+    }
+}

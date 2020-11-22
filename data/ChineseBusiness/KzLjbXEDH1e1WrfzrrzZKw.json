@@ -1,0 +1,43 @@
+{
+    "business_id": "KzLjbXEDH1e1WrfzrrzZKw",
+    "name": "Mandarin Gourmet",
+    "address": "305 Wood St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15222",
+    "latitude": 40.4391496,
+    "longitude": -80.0017417,
+    "stars": 3.0,
+    "review_count": 62,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False",
+        "NoiseLevel": "u'average'",
+        "RestaurantsReservations": "True",
+        "Alcohol": "u'none'",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "BikeParking": "False",
+        "Caters": "True",
+        "RestaurantsPriceRange2": "2",
+        "WiFi": "'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "OutdoorSeating": "False",
+        "DogsAllowed": "False",
+        "GoodForKids": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Cantonese, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:0",
+        "Saturday": "11:0-21:0"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "business_id": "l_pR3x7v2mvE3luVdmGuoQ",
+    "name": "Orient Kitchen",
+    "address": "4808 Baum Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15213",
+    "latitude": 40.4542791,
+    "longitude": -79.9470228,
+    "stars": 3.0,
+    "review_count": 73,
+    "is_open": 0,
+    "attributes": {
+        "Alcohol": "u'full_bar'",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "u'no'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "True",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsPriceRange2": "2",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "OutdoorSeating": "False",
+        "BikeParking": "False",
+        "NoiseLevel": "u'average'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "Caters": "False",
+        "RestaurantsDelivery": "False",
+        "HasTV": "False"
+    },
+    "categories": "Restaurants, Cantonese, Chinese, Sushi Bars, Dim Sum",
+    "hours": {
+        "Monday": "11:30-22:0",
+        "Tuesday": "11:30-22:0",
+        "Wednesday": "11:30-22:0",
+        "Thursday": "11:30-22:0",
+        "Friday": "11:30-22:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "11:30-22:0"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "business_id": "lSxAQR1FeSljX9zeVJTEWA",
+    "name": "Silver Palace Chinese Restaurant",
+    "address": "2739 Library Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15234",
+    "latitude": 40.3773915,
+    "longitude": -80.0037401,
+    "stars": 4.0,
+    "review_count": 15,
+    "is_open": 0,
+    "attributes": {
+        "HasTV": "True",
+        "OutdoorSeating": "False",
+        "Caters": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'no'",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

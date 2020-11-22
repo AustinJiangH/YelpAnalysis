@@ -1,0 +1,27 @@
+{
+    "business_id": "D2eZD_MP8Ds32rkoVI_MBQ",
+    "name": "Shanghai Wok by B & Y",
+    "address": "10424 Northfield Rd",
+    "city": "Northfield",
+    "state": "OH",
+    "postal_code": "44067",
+    "latitude": 41.3423913196,
+    "longitude": -81.5295235813,
+    "stars": 3.5,
+    "review_count": 19,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-23:0",
+        "Saturday": "10:30-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

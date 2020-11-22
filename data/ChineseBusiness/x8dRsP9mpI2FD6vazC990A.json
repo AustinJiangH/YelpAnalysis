@@ -1,0 +1,39 @@
+{
+    "business_id": "x8dRsP9mpI2FD6vazC990A",
+    "name": "Zen Cuisine",
+    "address": "401 Euclid Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44114",
+    "latitude": 41.4999744,
+    "longitude": -81.6902403,
+    "stars": 4.5,
+    "review_count": 25,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "False",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "BikeParking": "True",
+        "WiFi": "'no'",
+        "Alcohol": "'none'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "'average'",
+        "HasTV": "True"
+    },
+    "categories": "Asian Fusion, Chinese, Cantonese, Restaurants",
+    "hours": {
+        "Monday": "11:0-15:0",
+        "Tuesday": "11:0-15:0",
+        "Wednesday": "11:0-15:0",
+        "Thursday": "11:0-15:0",
+        "Friday": "11:0-15:0",
+        "Saturday": "11:0-15:0"
+    }
+}

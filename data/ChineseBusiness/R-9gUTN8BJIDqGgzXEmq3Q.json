@@ -1,0 +1,39 @@
+{
+    "business_id": "R-9gUTN8BJIDqGgzXEmq3Q",
+    "name": "Lee's Garden",
+    "address": "7475 Mineral Point Rd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53717",
+    "latitude": 43.0586202,
+    "longitude": -89.5122609,
+    "stars": 3.0,
+    "review_count": 22,
+    "is_open": 0,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "2",
+        "HasTV": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsReservations": "True",
+        "NoiseLevel": "u'quiet'",
+        "Alcohol": "u'none'"
+    },
+    "categories": "Chinese, Restaurants, Asian Fusion, Food",
+    "hours": {
+        "Monday": "16:0-21:0",
+        "Tuesday": "16:0-21:0",
+        "Wednesday": "16:0-21:0",
+        "Thursday": "16:0-21:0",
+        "Friday": "16:0-22:0",
+        "Saturday": "11:0-21:0",
+        "Sunday": "11:0-21:0"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "business_id": "QvKN1zh_BCFai6oDCx3d_g",
+    "name": "Spring Garden Chinese",
+    "address": "4737 W 130th St",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44135",
+    "latitude": 41.4251187,
+    "longitude": -81.7797488,
+    "stars": 3.5,
+    "review_count": 11,
+    "is_open": 1,
+    "attributes": {
+        "Caters": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "True",
+        "WiFi": "u'no'",
+        "RestaurantsPriceRange2": "1",
+        "Alcohol": "u'none'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "True",
+        "BikeParking": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:30",
+        "Tuesday": "11:0-22:30",
+        "Wednesday": "11:0-22:30",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-23:30",
+        "Saturday": "11:0-23:30",
+        "Sunday": "12:0-23:0"
+    }
+}

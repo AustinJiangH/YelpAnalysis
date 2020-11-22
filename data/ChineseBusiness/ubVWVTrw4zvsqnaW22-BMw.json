@@ -1,0 +1,42 @@
+{
+    "business_id": "ubVWVTrw4zvsqnaW22-BMw",
+    "name": "Pine Garden Restaurant",
+    "address": "2519 W 21st St",
+    "city": "Lorain",
+    "state": "OH",
+    "postal_code": "44053",
+    "latitude": 41.4503616,
+    "longitude": -82.2040307,
+    "stars": 4.0,
+    "review_count": 29,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsReservations": "True",
+        "BikeParking": "True",
+        "WiFi": "'no'",
+        "NoiseLevel": "'average'",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'touristy': None, 'hipster': False, 'romantic': False, 'divey': True, 'intimate': None, 'trendy': None, 'upscale': None, 'classy': None, 'casual': True}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': None, 'lot': True, 'valet': False}",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants, American (New)",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "12:0-21:0"
+    }
+}

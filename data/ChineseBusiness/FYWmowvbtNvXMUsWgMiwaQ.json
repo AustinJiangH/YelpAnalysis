@@ -1,0 +1,35 @@
+{
+    "business_id": "FYWmowvbtNvXMUsWgMiwaQ",
+    "name": "Asian House",
+    "address": "2000 Mentor Ave",
+    "city": "Painesville",
+    "state": "OH",
+    "postal_code": "44077",
+    "latitude": 41.6902256,
+    "longitude": -81.2884113,
+    "stars": 3.5,
+    "review_count": 9,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "WiFi": "u'no'",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "Alcohol": "u'none'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True"
+    },
+    "categories": "Japanese, Chinese, Restaurants",
+    "hours": {
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "10:0-21:30"
+    }
+}

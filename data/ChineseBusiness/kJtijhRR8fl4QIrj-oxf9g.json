@@ -1,0 +1,41 @@
+{
+    "business_id": "kJtijhRR8fl4QIrj-oxf9g",
+    "name": "Golden Lily",
+    "address": "6253 Pearl Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44130",
+    "latitude": 41.3910537,
+    "longitude": -81.7606659,
+    "stars": 3.5,
+    "review_count": 27,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsReservations": "False",
+        "NoiseLevel": "u'average'",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BikeParking": "True",
+        "Alcohol": "u'none'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:30-22:0",
+        "Tuesday": "10:30-22:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-23:0",
+        "Saturday": "10:30-23:0",
+        "Sunday": "12:0-21:30"
+    }
+}

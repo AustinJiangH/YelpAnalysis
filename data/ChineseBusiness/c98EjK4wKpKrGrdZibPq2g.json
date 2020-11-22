@@ -1,0 +1,43 @@
+{
+    "business_id": "c98EjK4wKpKrGrdZibPq2g",
+    "name": "Fortune Star Buffet & Grill",
+    "address": "591 Clairton Blvd",
+    "city": "Pleasant Hills",
+    "state": "PA",
+    "postal_code": "15236",
+    "latitude": 40.3326031,
+    "longitude": -79.9440673,
+    "stars": 3.0,
+    "review_count": 35,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "u'average'",
+        "RestaurantsGoodForGroups": "True",
+        "Caters": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTableService": "True",
+        "WiFi": "u'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Desserts, Food, Sushi Bars, Chinese, American (New), Restaurants, Buffets",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-21:0"
+    }
+}

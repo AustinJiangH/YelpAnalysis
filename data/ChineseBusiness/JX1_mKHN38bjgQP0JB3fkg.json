@@ -1,0 +1,26 @@
+{
+    "business_id": "JX1_mKHN38bjgQP0JB3fkg",
+    "name": "Tink Holl Seafood",
+    "address": "1735 E 36th St",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44114",
+    "latitude": 41.508393,
+    "longitude": -81.663296,
+    "stars": 3.0,
+    "review_count": 7,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "WiFi": "u'no'"
+    },
+    "categories": "Restaurants, Seafood, Chinese",
+    "hours": null
+}

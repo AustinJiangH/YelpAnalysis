@@ -1,0 +1,43 @@
+{
+    "business_id": "AB6xAAxRRVS8tJgbW1aphw",
+    "name": "China Lobster",
+    "address": "3215 Leechburg Rd",
+    "city": "New Kensington",
+    "state": "PA",
+    "postal_code": "15068",
+    "latitude": 40.585867,
+    "longitude": -79.709536,
+    "stars": 3.5,
+    "review_count": 34,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "'casual'",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsPriceRange2": "2",
+        "BikeParking": "False",
+        "WiFi": "'no'",
+        "RestaurantsReservations": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "NoiseLevel": "u'average'",
+        "RestaurantsTableService": "True",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "HasTV": "True"
+    },
+    "categories": "Buffets, Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "12:0-20:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:30-22:0"
+    }
+}

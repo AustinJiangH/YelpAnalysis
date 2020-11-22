@@ -1,0 +1,36 @@
+{
+    "business_id": "-R_dMb9Z1eBv_FlYZrrKbw",
+    "name": "Oriental Wok",
+    "address": "532 S Park St",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53715",
+    "latitude": 43.0611378,
+    "longitude": -89.4010411,
+    "stars": 2.5,
+    "review_count": 20,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "True",
+        "RestaurantsAttire": "'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "Caters": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsPriceRange2": "1"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-1:10",
+        "Tuesday": "11:0-1:10",
+        "Wednesday": "11:0-1:10",
+        "Thursday": "11:0-1:10",
+        "Friday": "11:0-1:10",
+        "Saturday": "11:0-1:10",
+        "Sunday": "11:0-1:10"
+    }
+}

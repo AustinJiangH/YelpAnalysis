@@ -1,0 +1,43 @@
+{
+    "business_id": "pTvL6Upfp91J1ryrCZpzgg",
+    "name": "Jade Garden",
+    "address": "1109 S Park St",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53715",
+    "latitude": 43.0548573,
+    "longitude": -89.3968559,
+    "stars": 3.0,
+    "review_count": 63,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1",
+        "NoiseLevel": "u'average'",
+        "RestaurantsAttire": "'casual'",
+        "BikeParking": "True",
+        "Caters": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "HasTV": "True",
+        "WiFi": "'no'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Buffets, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:30-22:0"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "business_id": "pWXVTPjNeFK0cBRbr-Qq-A",
+    "name": "Mandarin Express",
+    "address": "66 W Towne Mall",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53719",
+    "latitude": 43.058198,
+    "longitude": -89.505108,
+    "stars": 3.5,
+    "review_count": 6,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True"
+    },
+    "categories": "Chinese, Restaurants, Asian Fusion",
+    "hours": null
+}

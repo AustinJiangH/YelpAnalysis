@@ -1,0 +1,20 @@
+{
+    "business_id": "fy5ZE8oCtEw5Jiu-HjTE_A",
+    "name": "China Max",
+    "address": "1000 Robinson Centre Dr",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15205",
+    "latitude": 40.4534555566,
+    "longitude": -80.1576923579,
+    "stars": 2.5,
+    "review_count": 3,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Food Court, Chinese, Restaurants",
+    "hours": null
+}

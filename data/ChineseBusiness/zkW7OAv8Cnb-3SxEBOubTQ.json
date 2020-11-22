@@ -1,0 +1,41 @@
+{
+    "business_id": "zkW7OAv8Cnb-3SxEBOubTQ",
+    "name": "Zhen Choo Chinese Restaurant",
+    "address": "268 Yost Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15221",
+    "latitude": 40.414095,
+    "longitude": -79.855779,
+    "stars": 4.0,
+    "review_count": 11,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "False",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "False",
+        "NoiseLevel": "u'quiet'",
+        "Alcohol": "u'none'",
+        "BikeParking": "False",
+        "GoodForKids": "True",
+        "HasTV": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "WiFi": "'no'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

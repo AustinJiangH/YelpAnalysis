@@ -1,0 +1,34 @@
+{
+    "business_id": "NI75svhUpw1u0ClzrPFPCQ",
+    "name": "Grand China",
+    "address": "6631 Mayfield Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44124",
+    "latitude": 41.520549,
+    "longitude": -81.440117,
+    "stars": 2.5,
+    "review_count": 26,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "False",
+        "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-23:0",
+        "Tuesday": "11:0-23:0",
+        "Wednesday": "11:0-23:0",
+        "Thursday": "11:0-23:0",
+        "Friday": "11:0-23:30",
+        "Saturday": "11:0-23:30",
+        "Sunday": "11:0-22:30"
+    }
+}

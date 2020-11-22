@@ -1,0 +1,28 @@
+{
+    "business_id": "Vu6yNbKinh-54QT8i27LCw",
+    "name": "Hong Kong Kitchen",
+    "address": "2802 Clark Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44109",
+    "latitude": 41.470185,
+    "longitude": -81.701072,
+    "stars": 4.0,
+    "review_count": 4,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "False",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsPriceRange2": "1"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

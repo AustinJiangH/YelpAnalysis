@@ -1,0 +1,25 @@
+{
+    "business_id": "_-Z2zPiuhw3V2RixPZ89Cw",
+    "name": "China Bistro",
+    "address": "4779 William Flynn Hwy",
+    "city": "Allison Park",
+    "state": "PA",
+    "postal_code": "15101",
+    "latitude": 40.5965122,
+    "longitude": -79.9480677,
+    "stars": 2.5,
+    "review_count": 6,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "True",
+        "RestaurantsTakeOut": "False"
+    },
+    "categories": "Restaurants, Chinese, Dim Sum",
+    "hours": null
+}

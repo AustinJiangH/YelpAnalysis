@@ -1,0 +1,42 @@
+{
+    "business_id": "7sz9Rw1dbIEfLy-L9qB3Tw",
+    "name": "Chopstick Chinese Restaurant",
+    "address": "11332 Euclid Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44106",
+    "latitude": 41.5084707891,
+    "longitude": -81.6051659116,
+    "stars": 3.5,
+    "review_count": 46,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "True",
+        "NoiseLevel": "u'loud'",
+        "RestaurantsDelivery": "False",
+        "Alcohol": "'none'",
+        "RestaurantsGoodForGroups": "False",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "WiFi": "'no'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "BikeParking": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "HasTV": "True"
+    },
+    "categories": "Asian Fusion, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:30",
+        "Tuesday": "11:0-22:30",
+        "Wednesday": "11:0-22:30",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:0-22:0"
+    }
+}

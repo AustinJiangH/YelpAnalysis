@@ -1,0 +1,29 @@
+{
+    "business_id": "2pmOI_mrn1ZWB88IeiOMkA",
+    "name": "Wah Sun",
+    "address": "12550 Chillicothe Rd",
+    "city": "Chesterland",
+    "state": "OH",
+    "postal_code": "44026",
+    "latitude": 41.5277673,
+    "longitude": -81.3389531,
+    "stars": 4.0,
+    "review_count": 18,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "WiFi": "'no'",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'quiet'"
+    },
+    "categories": "Thai, Chinese, Restaurants",
+    "hours": null
+}

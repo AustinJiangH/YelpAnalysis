@@ -1,0 +1,43 @@
+{
+    "business_id": "0DarxWxf-Cv0WT_EEWsM9w",
+    "name": "Peking Restaurant",
+    "address": "18198 Sloane Ave",
+    "city": "Lakewood",
+    "state": "OH",
+    "postal_code": "44107",
+    "latitude": 41.4866806,
+    "longitude": -81.8241013,
+    "stars": 4.0,
+    "review_count": 38,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "u'no'",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "True",
+        "GoodForKids": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "Caters": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "RestaurantsReservations": "False",
+        "BikeParking": "True"
+    },
+    "categories": "Seafood, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

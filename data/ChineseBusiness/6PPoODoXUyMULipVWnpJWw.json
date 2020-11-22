@@ -1,0 +1,41 @@
+{
+    "business_id": "6PPoODoXUyMULipVWnpJWw",
+    "name": "Chen's Garden",
+    "address": "2047 State Rd",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "postal_code": "44223",
+    "latitude": 41.1355058,
+    "longitude": -81.508111,
+    "stars": 3.5,
+    "review_count": 48,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "u'loud'",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsAttire": "u'casual'",
+        "BikeParking": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "Caters": "False",
+        "HasTV": "True",
+        "WiFi": "u'no'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': None, 'divey': None, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': None}"
+    },
+    "categories": "Chinese, Food, American (New), Seafood, Food Delivery Services, Restaurants",
+    "hours": {
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

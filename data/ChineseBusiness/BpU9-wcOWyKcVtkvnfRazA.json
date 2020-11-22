@@ -1,0 +1,31 @@
+{
+    "business_id": "BpU9-wcOWyKcVtkvnfRazA",
+    "name": "Wok & Grill",
+    "address": "120 5th Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15222",
+    "latitude": 40.4419737,
+    "longitude": -80.0034017,
+    "stars": 2.5,
+    "review_count": 7,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "False",
+        "Alcohol": "u'none'",
+        "Caters": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "False",
+        "NoiseLevel": "u'loud'",
+        "GoodForKids": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "HasTV": "True",
+        "BusinessAcceptsCreditCards": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

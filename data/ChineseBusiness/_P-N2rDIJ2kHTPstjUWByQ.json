@@ -1,0 +1,30 @@
+{
+    "business_id": "_P-N2rDIJ2kHTPstjUWByQ",
+    "name": "Golden Ginger",
+    "address": "133 Broad St",
+    "city": "Elyria",
+    "state": "OH",
+    "postal_code": "44035",
+    "latitude": 41.368046,
+    "longitude": -82.100988,
+    "stars": 4.5,
+    "review_count": 18,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "'no'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "'casual'",
+        "NoiseLevel": "u'quiet'",
+        "OutdoorSeating": "False",
+        "Ambience": "None",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsPriceRange2": "2"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

@@ -1,0 +1,27 @@
+{
+    "business_id": "vTqKk3FgwwLgfCcV7F1jmw",
+    "name": "Ming's Garden",
+    "address": "1209 Business 18 and 151 E",
+    "city": "Mount Horeb",
+    "state": "WI",
+    "postal_code": "53572",
+    "latitude": 43.009679,
+    "longitude": -89.724915,
+    "stars": 3.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "WiFi": "u'no'",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1",
+        "HasTV": "False",
+        "RestaurantsDelivery": "False",
+        "NoiseLevel": "u'quiet'",
+        "Alcohol": "u'none'",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

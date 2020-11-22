@@ -1,0 +1,25 @@
+{
+    "business_id": "W7KtVjq4R_5F5EwbCBENQw",
+    "name": "Golden Kitchen",
+    "address": "402 W Center St",
+    "city": "Monticello",
+    "state": "IL",
+    "postal_code": "61856",
+    "latitude": 40.028317,
+    "longitude": -88.574491,
+    "stars": 4.5,
+    "review_count": 6,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:30"
+    }
+}

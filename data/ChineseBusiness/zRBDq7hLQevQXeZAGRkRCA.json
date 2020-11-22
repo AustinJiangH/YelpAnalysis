@@ -1,0 +1,20 @@
+{
+    "business_id": "zRBDq7hLQevQXeZAGRkRCA",
+    "name": "China King 1",
+    "address": "375 Lear Rd",
+    "city": "Avon Lake",
+    "state": "OH",
+    "postal_code": "44012",
+    "latitude": 41.4948525,
+    "longitude": -81.9860854,
+    "stars": 3.5,
+    "review_count": 7,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

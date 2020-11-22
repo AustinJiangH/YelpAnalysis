@@ -1,0 +1,27 @@
+{
+    "business_id": "XOjlj7fVauWibKrhXMS-uQ",
+    "name": "Double Dragon",
+    "address": "22929 Broadway Ave",
+    "city": "Bedford",
+    "state": "OH",
+    "postal_code": "44146",
+    "latitude": 41.369795,
+    "longitude": -81.512786,
+    "stars": 4.0,
+    "review_count": 9,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "'none'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

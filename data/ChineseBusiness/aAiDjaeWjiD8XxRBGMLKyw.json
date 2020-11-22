@@ -1,0 +1,40 @@
+{
+    "business_id": "aAiDjaeWjiD8XxRBGMLKyw",
+    "name": "Mandarin",
+    "address": "35956 Detroit Rd",
+    "city": "Avon",
+    "state": "OH",
+    "postal_code": "44011",
+    "latitude": 41.460125,
+    "longitude": -82.015855,
+    "stars": 2.5,
+    "review_count": 25,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsAttire": "u'casual'",
+        "BikeParking": "True",
+        "Alcohol": "'none'",
+        "NoiseLevel": "u'quiet'",
+        "HasTV": "True",
+        "OutdoorSeating": "True",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "None"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-21:30"
+    }
+}

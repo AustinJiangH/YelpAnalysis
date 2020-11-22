@@ -1,0 +1,41 @@
+{
+    "business_id": "X4YG1pu1MDVSi07S3i4YCA",
+    "name": "Zaw's Asian Foods",
+    "address": "2110 Murray Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15217",
+    "latitude": 40.4333064,
+    "longitude": -79.9231271,
+    "stars": 4.0,
+    "review_count": 51,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "False",
+        "Caters": "False",
+        "RestaurantsAttire": "'casual'",
+        "Alcohol": "u'none'",
+        "HasTV": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsGoodForGroups": "False",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "WiFi": "u'no'",
+        "NoiseLevel": "u'quiet'",
+        "BikeParking": "False"
+    },
+    "categories": "Chinese, Restaurants, Burmese",
+    "hours": {
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "12:0-21:0"
+    }
+}

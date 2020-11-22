@@ -1,0 +1,41 @@
+{
+    "business_id": "6lgkTtACpJR5Kijkc050KQ",
+    "name": "Dragon Garden Restaurant",
+    "address": "9415 Olde 8 Rd",
+    "city": "Northfield",
+    "state": "OH",
+    "postal_code": "44067",
+    "latitude": 41.3162454,
+    "longitude": -81.5385224,
+    "stars": 3.5,
+    "review_count": 39,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "GoodForKids": "True",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "True",
+        "BikeParking": "True",
+        "NoiseLevel": "u'quiet'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "HasTV": "True",
+        "RestaurantsPriceRange2": "1",
+        "WiFi": "u'no'",
+        "RestaurantsDelivery": "False"
+    },
+    "categories": "Chinese, Restaurants, Japanese, Sushi Bars",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "12:0-22:30",
+        "Sunday": "12:0-21:0"
+    }
+}

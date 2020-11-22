@@ -1,0 +1,36 @@
+{
+    "business_id": "hEUAUdG4fBdYWvPeEASnng",
+    "name": "Viet Bistro",
+    "address": "656 W Washington Ave",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53715",
+    "latitude": 43.0676216138,
+    "longitude": -89.3954412165,
+    "stars": 2.5,
+    "review_count": 23,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "False",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'average'",
+        "RestaurantsReservations": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Restaurants, Dim Sum, Cantonese, Vietnamese, Chinese",
+    "hours": {
+        "Monday": "10:0-21:0",
+        "Tuesday": "10:0-21:0",
+        "Wednesday": "10:0-21:0",
+        "Thursday": "10:0-21:0",
+        "Friday": "10:0-21:0",
+        "Saturday": "10:0-21:0",
+        "Sunday": "10:0-21:0"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "business_id": "XXNGKunbVfgCJhp7XrkU_g",
+    "name": "Tea Garden",
+    "address": "Library Mall",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53703",
+    "latitude": 43.0748677016,
+    "longitude": -89.3985830247,
+    "stars": 2.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "False"
+    },
+    "categories": "Food, Street Vendors, Restaurants, Chinese",
+    "hours": null
+}

@@ -1,0 +1,24 @@
+{
+    "business_id": "MNo2l4eFOOJqCo8PX0W12A",
+    "name": "China Star Restaurant",
+    "address": "400 W Center St",
+    "city": "Monticello",
+    "state": "IL",
+    "postal_code": "61856",
+    "latitude": 40.0279187,
+    "longitude": -88.5744749,
+    "stars": 3.0,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "False",
+        "NoiseLevel": "u'average'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

@@ -1,0 +1,42 @@
+{
+    "business_id": "v_YaNPJbP1XKGG-R_vUZ1Q",
+    "name": "Golden Gate Chinese Restaurant",
+    "address": "16009 Hilliard Rd",
+    "city": "Lakewood",
+    "state": "OH",
+    "postal_code": "44107",
+    "latitude": 41.4766034,
+    "longitude": -81.8091383,
+    "stars": 3.5,
+    "review_count": 29,
+    "is_open": 1,
+    "attributes": {
+        "BikeParking": "False",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "'beer_and_wine'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "Caters": "False",
+        "RestaurantsGoodForGroups": "True",
+        "WiFi": "u'no'",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "HasTV": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:30",
+        "Tuesday": "11:0-22:30",
+        "Wednesday": "11:0-22:30",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-0:0",
+        "Saturday": "11:0-0:0",
+        "Sunday": "12:0-22:30"
+    }
+}

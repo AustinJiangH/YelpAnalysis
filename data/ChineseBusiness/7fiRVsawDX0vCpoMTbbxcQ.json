@@ -1,0 +1,30 @@
+{
+    "business_id": "7fiRVsawDX0vCpoMTbbxcQ",
+    "name": "China House",
+    "address": "21789 Lorain Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44126",
+    "latitude": 41.4414556,
+    "longitude": -81.861694,
+    "stars": 2.5,
+    "review_count": 19,
+    "is_open": 1,
+    "attributes": {
+        "WiFi": "'no'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'none'",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

@@ -1,0 +1,32 @@
+{
+    "business_id": "ui4fyPJ_HRm4HPkEmIHQOA",
+    "name": "Chef Chen Chinese Resturant",
+    "address": "7211 Saltsburg Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15235",
+    "latitude": 40.477723,
+    "longitude": -79.788716,
+    "stars": 4.0,
+    "review_count": 5,
+    "is_open": 1,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "OutdoorSeating": "False",
+        "Alcohol": "u'none'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'no'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

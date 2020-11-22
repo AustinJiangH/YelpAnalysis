@@ -1,0 +1,40 @@
+{
+    "business_id": "tWtuHpIFtQHMQq8q8DG3dA",
+    "name": "Tea House Noodles",
+    "address": "1900 E 6th St",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44114",
+    "latitude": 41.5005885,
+    "longitude": -81.6897623,
+    "stars": 4.0,
+    "review_count": 92,
+    "is_open": 0,
+    "attributes": {
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "Alcohol": "u'none'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'average'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "BikeParking": "True",
+        "HasTV": "False",
+        "GoodForKids": "True",
+        "WiFi": "u'free'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "Caters": "True",
+        "RestaurantsReservations": "False"
+    },
+    "categories": "Tea Rooms, Food, Salad, Asian Fusion, Thai, Noodles, Restaurants, Chinese, Fast Food",
+    "hours": {
+        "Monday": "0:0-0:0",
+        "Tuesday": "10:30-16:0",
+        "Wednesday": "10:30-16:0",
+        "Thursday": "10:30-16:0",
+        "Friday": "10:30-14:0"
+    }
+}

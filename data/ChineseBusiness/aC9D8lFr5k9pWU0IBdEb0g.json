@@ -1,0 +1,33 @@
+{
+    "business_id": "aC9D8lFr5k9pWU0IBdEb0g",
+    "name": "Chang Jiang Chinese Kitchen",
+    "address": "631 S Main St",
+    "city": "De Forest",
+    "state": "WI",
+    "postal_code": "53532",
+    "latitude": 43.2394189,
+    "longitude": -89.3425469,
+    "stars": 3.0,
+    "review_count": 8,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "16:0-21:0"
+    }
+}

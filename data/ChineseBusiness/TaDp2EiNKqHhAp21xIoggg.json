@@ -1,0 +1,38 @@
+{
+    "business_id": "TaDp2EiNKqHhAp21xIoggg",
+    "name": "Hunan King",
+    "address": "1537 W River Rd N",
+    "city": "Elyria",
+    "state": "OH",
+    "postal_code": "44035",
+    "latitude": 41.395495,
+    "longitude": -82.106304,
+    "stars": 3.5,
+    "review_count": 7,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "4",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "Ambience": "None",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True",
+        "BikeParking": "True",
+        "RestaurantsTakeOut": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

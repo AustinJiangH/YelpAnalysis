@@ -1,0 +1,29 @@
+{
+    "business_id": "klWcP_4OVXLStd3VovuA1A",
+    "name": "Greedys Restaurant",
+    "address": "4338 E 71st St",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44105",
+    "latitude": 41.4407600634,
+    "longitude": -81.6396193246,
+    "stars": 3.5,
+    "review_count": 3,
+    "is_open": 1,
+    "attributes": {
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Restaurants, Diners, Chinese, Hainan, Soul Food",
+    "hours": {
+        "Monday": "8:0-21:0",
+        "Tuesday": "8:0-21:0",
+        "Wednesday": "8:0-21:0",
+        "Thursday": "8:0-21:0",
+        "Friday": "8:0-1:0",
+        "Saturday": "8:0-1:0",
+        "Sunday": "8:0-18:0"
+    }
+}

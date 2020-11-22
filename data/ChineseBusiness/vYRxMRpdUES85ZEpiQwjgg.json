@@ -1,0 +1,27 @@
+{
+    "business_id": "vYRxMRpdUES85ZEpiQwjgg",
+    "name": "Chopstick House",
+    "address": "2798 Robinson Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15235",
+    "latitude": 40.4604599,
+    "longitude": -79.8655148,
+    "stars": 4.0,
+    "review_count": 6,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsDelivery": "True",
+        "GoodForKids": "False",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "'casual'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "RestaurantsReservations": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

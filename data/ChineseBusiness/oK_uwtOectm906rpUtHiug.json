@@ -1,0 +1,42 @@
+{
+    "business_id": "oK_uwtOectm906rpUtHiug",
+    "name": "China House",
+    "address": "7413 Memphis Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44144",
+    "latitude": 41.4398212,
+    "longitude": -81.7363194,
+    "stars": 2.0,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "True",
+        "NoiseLevel": "u'quiet'",
+        "BusinessAcceptsCreditCards": "True",
+        "Caters": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'none'",
+        "WiFi": "u'no'",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False",
+        "BikeParking": "True",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

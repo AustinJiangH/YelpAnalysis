@@ -1,0 +1,19 @@
+{
+    "business_id": "Z-6QSR2lC-opp9l6HLYG_w",
+    "name": "Lucky Chinese Express",
+    "address": "1687 Washington Rd Ste 3",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15228",
+    "latitude": 40.3518929,
+    "longitude": -80.050278,
+    "stars": 3.0,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

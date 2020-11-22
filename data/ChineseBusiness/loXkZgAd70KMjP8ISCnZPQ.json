@@ -1,0 +1,40 @@
+{
+    "business_id": "loXkZgAd70KMjP8ISCnZPQ",
+    "name": "China Express",
+    "address": "5720 Ridge Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44129",
+    "latitude": 41.4067881,
+    "longitude": -81.7348849,
+    "stars": 4.0,
+    "review_count": 17,
+    "is_open": 1,
+    "attributes": {
+        "WiFi": "'no'",
+        "RestaurantsGoodForGroups": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsPriceRange2": "1",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'none'",
+        "BikeParking": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Tuesday": "11:30-21:0",
+        "Wednesday": "11:30-21:0",
+        "Thursday": "11:30-21:0",
+        "Friday": "11:30-21:30",
+        "Saturday": "12:0-21:30",
+        "Sunday": "12:0-20:30"
+    }
+}

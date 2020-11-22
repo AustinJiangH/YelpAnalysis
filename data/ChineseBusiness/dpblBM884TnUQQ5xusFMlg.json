@@ -1,0 +1,36 @@
+{
+    "business_id": "dpblBM884TnUQQ5xusFMlg",
+    "name": "Yen Ching Restaurant",
+    "address": "1300 S Midvale Blvd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53711",
+    "latitude": 43.0380618,
+    "longitude": -89.4515848,
+    "stars": 4.0,
+    "review_count": 9,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "True",
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsReservations": "True",
+        "RestaurantsPriceRange2": "1",
+        "OutdoorSeating": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Tuesday": "16:30-21:30",
+        "Wednesday": "16:30-21:30",
+        "Thursday": "16:30-21:30",
+        "Friday": "16:30-22:0",
+        "Saturday": "16:30-22:0",
+        "Sunday": "16:30-21:30"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "business_id": "vsoEZauF4lrADIqCYXySFQ",
+    "name": "Chopstix",
+    "address": "202 E Green St, Ste 1",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61820",
+    "latitude": 40.1105528,
+    "longitude": -88.2366073,
+    "stars": 3.0,
+    "review_count": 73,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'average'",
+        "Caters": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "WiFi": "u'no'",
+        "BikeParking": "True",
+        "RestaurantsGoodForGroups": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': True, 'lunch': False, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True",
+        "OutdoorSeating": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "16:0-3:0",
+        "Tuesday": "16:0-3:0",
+        "Wednesday": "16:0-3:0",
+        "Thursday": "16:0-3:0",
+        "Friday": "16:0-3:30",
+        "Saturday": "16:0-3:30",
+        "Sunday": "16:0-3:0"
+    }
+}

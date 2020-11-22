@@ -1,0 +1,28 @@
+{
+    "business_id": "y_Xi2V_0lGbCkRuiXLHUFA",
+    "name": "Hong Kong Buffet",
+    "address": "1975 Snow Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44134",
+    "latitude": 41.4051987,
+    "longitude": -81.6928655,
+    "stars": 2.5,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsDelivery": "False",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

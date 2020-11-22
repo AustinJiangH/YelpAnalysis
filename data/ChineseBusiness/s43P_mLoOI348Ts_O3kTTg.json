@@ -1,0 +1,20 @@
+{
+    "business_id": "s43P_mLoOI348Ts_O3kTTg",
+    "name": "Temple Garden",
+    "address": "411 W Gilman St",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53703",
+    "latitude": 43.074349,
+    "longitude": -89.393575,
+    "stars": 5.0,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

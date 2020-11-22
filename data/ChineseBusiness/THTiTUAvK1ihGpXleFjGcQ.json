@@ -1,0 +1,26 @@
+{
+    "business_id": "THTiTUAvK1ihGpXleFjGcQ",
+    "name": "No 1 Kitchen",
+    "address": "635 Abbe Rd S",
+    "city": "Elyria",
+    "state": "OH",
+    "postal_code": "44035",
+    "latitude": 41.3636267,
+    "longitude": -82.078337,
+    "stars": 3.0,
+    "review_count": 6,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "BikeParking": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

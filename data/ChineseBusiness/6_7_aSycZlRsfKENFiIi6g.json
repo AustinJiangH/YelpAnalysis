@@ -1,0 +1,43 @@
+{
+    "business_id": "6_7_aSycZlRsfKENFiIi6g",
+    "name": "Happy Wok",
+    "address": "17 Eastpark Ct",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53718",
+    "latitude": 43.147082,
+    "longitude": -89.287972,
+    "stars": 3.5,
+    "review_count": 37,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "u'average'",
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "True",
+        "OutdoorSeating": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Caters": "False",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True",
+        "WiFi": "'no'",
+        "BikeParking": "True",
+        "Ambience": "{'touristy': None, 'hipster': None, 'romantic': None, 'divey': False, 'intimate': None, 'trendy': None, 'upscale': None, 'classy': None, 'casual': None}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-21:30",
+        "Tuesday": "10:30-21:30",
+        "Wednesday": "10:30-21:30",
+        "Thursday": "10:30-21:30",
+        "Friday": "10:30-21:30",
+        "Saturday": "10:30-22:0",
+        "Sunday": "10:30-22:0"
+    }
+}

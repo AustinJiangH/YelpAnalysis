@@ -1,0 +1,32 @@
+{
+    "business_id": "iDDW5kjoLVN9rqrGM0cwjg",
+    "name": "Rice Garden",
+    "address": "1401 W Green St",
+    "city": "Champaign",
+    "state": "IL",
+    "postal_code": "61821",
+    "latitude": 40.109976,
+    "longitude": -88.268995,
+    "stars": 1.5,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "False",
+        "OutdoorSeating": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsPriceRange2": "1",
+        "Alcohol": "u'none'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "NoiseLevel": "u'loud'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "u'no'"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

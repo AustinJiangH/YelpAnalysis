@@ -1,0 +1,34 @@
+{
+    "business_id": "Hiqb7coNwQgEoAR9bn5XMg",
+    "name": "China House",
+    "address": "411 N Main St",
+    "city": "Grafton",
+    "state": "OH",
+    "postal_code": "44044",
+    "latitude": 41.2860414769,
+    "longitude": -82.0647000521,
+    "stars": 5.0,
+    "review_count": 4,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "BikeParking": "True",
+        "RestaurantsDelivery": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "business_id": "mF2EW3twSrFPmT_RVV1-Qg",
+    "name": "House of Hunan",
+    "address": "18 Public Sq",
+    "city": "Medina",
+    "state": "OH",
+    "postal_code": "44256",
+    "latitude": 41.138556,
+    "longitude": -81.8643775,
+    "stars": 3.0,
+    "review_count": 109,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "WiFi": "'free'",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "True",
+        "Alcohol": "u'full_bar'",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True",
+        "Caters": "False",
+        "BikeParking": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': True, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "NoiseLevel": "u'average'",
+        "HappyHour": "True",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Tuesday": "16:0-22:0",
+        "Wednesday": "16:0-22:0",
+        "Thursday": "16:0-22:0",
+        "Friday": "16:0-23:0",
+        "Saturday": "12:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

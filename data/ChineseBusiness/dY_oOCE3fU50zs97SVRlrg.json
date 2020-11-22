@@ -1,0 +1,38 @@
+{
+    "business_id": "dY_oOCE3fU50zs97SVRlrg",
+    "name": "Hong Kong Restaurant",
+    "address": "5855 Smith Rd",
+    "city": "Brook Park",
+    "state": "OH",
+    "postal_code": "44142",
+    "latitude": 41.4045465,
+    "longitude": -81.8040407,
+    "stars": 3.5,
+    "review_count": 7,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "WiFi": "u'no'",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "'casual'",
+        "HasTV": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}"
+    },
+    "categories": "Chinese, Restaurants, Seafood",
+    "hours": {
+        "Monday": "11:0-22:45",
+        "Tuesday": "11:0-22:45",
+        "Wednesday": "11:0-22:45",
+        "Thursday": "11:0-22:45",
+        "Friday": "11:0-23:45",
+        "Saturday": "11:0-23:45",
+        "Sunday": "12:0-22:45"
+    }
+}

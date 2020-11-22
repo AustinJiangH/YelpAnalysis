@@ -1,0 +1,42 @@
+{
+    "business_id": "35AWV2l8s2DbBxKbexPU7A",
+    "name": "Chang Jiang",
+    "address": "2935 S Fish Hatchery Rd",
+    "city": "Fitchburg",
+    "state": "WI",
+    "postal_code": "53711",
+    "latitude": 43.0144898,
+    "longitude": -89.4274581,
+    "stars": 3.0,
+    "review_count": 29,
+    "is_open": 1,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "BikeParking": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False",
+        "NoiseLevel": "u'quiet'",
+        "Caters": "False",
+        "RestaurantsDelivery": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "WiFi": "u'no'",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "10:0-22:0",
+        "Tuesday": "10:0-22:0",
+        "Wednesday": "10:0-22:0",
+        "Thursday": "10:0-22:0",
+        "Friday": "10:0-22:30",
+        "Saturday": "10:0-22:30",
+        "Sunday": "10:0-22:0"
+    }
+}

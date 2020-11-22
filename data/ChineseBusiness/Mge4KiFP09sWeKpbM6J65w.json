@@ -1,0 +1,39 @@
+{
+    "business_id": "Mge4KiFP09sWeKpbM6J65w",
+    "name": "Little Shanghai",
+    "address": "1611 Penn Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15222",
+    "latitude": 40.4488823,
+    "longitude": -79.9873238,
+    "stars": 4.5,
+    "review_count": 7,
+    "is_open": 0,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "2",
+        "HasTV": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "WiFi": "u'no'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:0",
+        "Saturday": "11:0-21:0",
+        "Sunday": "11:0-21:0"
+    }
+}

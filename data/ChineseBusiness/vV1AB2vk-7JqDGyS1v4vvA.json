@@ -1,0 +1,38 @@
+{
+    "business_id": "vV1AB2vk-7JqDGyS1v4vvA",
+    "name": "China Garden Chinese Restaurant",
+    "address": "12120 Rt 30",
+    "city": "Irwin",
+    "state": "PA",
+    "postal_code": "15642",
+    "latitude": 40.33179,
+    "longitude": -79.7416919,
+    "stars": 3.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsPriceRange2": "1",
+        "Alcohol": "u'beer_and_wine'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "OutdoorSeating": "False",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:0",
+        "Saturday": "12:0-22:0",
+        "Sunday": "12:0-21:0"
+    }
+}

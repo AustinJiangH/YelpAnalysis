@@ -1,0 +1,43 @@
+{
+    "business_id": "BY1_pf7FHUycHOwYEenDlQ",
+    "name": "Hunan's Palace",
+    "address": "2360 Ardmore Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15221",
+    "latitude": 40.415564,
+    "longitude": -79.848911,
+    "stars": 4.0,
+    "review_count": 36,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "HasTV": "True",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "WiFi": "u'no'",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'quiet'",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "2",
+        "BikeParking": "True",
+        "Caters": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "GoodForKids": "True"
+    },
+    "categories": "Soup, Restaurants, Chinese, Noodles",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

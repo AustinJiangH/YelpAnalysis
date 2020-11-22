@@ -1,0 +1,36 @@
+{
+    "business_id": "E4HlcOykIxIDiJyUKO-eIg",
+    "name": "Chang Jiang Restaurant",
+    "address": "3195 Muir Field Rd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53719",
+    "latitude": 43.0162232238,
+    "longitude": -89.5103274509,
+    "stars": 2.5,
+    "review_count": 26,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "BikeParking": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "False",
+        "HasTV": "True",
+        "RestaurantsPriceRange2": "1"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "16:0-21:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

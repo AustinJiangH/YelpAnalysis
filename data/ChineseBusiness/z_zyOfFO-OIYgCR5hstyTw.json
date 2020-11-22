@@ -1,0 +1,42 @@
+{
+    "business_id": "z_zyOfFO-OIYgCR5hstyTw",
+    "name": "Mama Fu's Asian House",
+    "address": "402 Great Northern Mall",
+    "city": "North Olmsted",
+    "state": "OH",
+    "postal_code": "44070",
+    "latitude": 41.416814,
+    "longitude": -81.906416,
+    "stars": 3.5,
+    "review_count": 35,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "NoiseLevel": "u'quiet'",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsReservations": "False",
+        "Caters": "True",
+        "HasTV": "True",
+        "RestaurantsTableService": "True",
+        "BikeParking": "True",
+        "WiFi": "u'free'",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': True, 'upscale': False, 'casual': False}",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "u'casual'"
+    },
+    "categories": "Chinese, Restaurants, Asian Fusion, Vietnamese",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:0"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "business_id": "5jSwodZ2cLIgD0SLGXYbeg",
+    "name": "City Buffet & Hibachi Grill",
+    "address": "3500 William Penn Hwy",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15235",
+    "latitude": 40.430191,
+    "longitude": -79.8068118,
+    "stars": 2.0,
+    "review_count": 8,
+    "is_open": 0,
+    "attributes": {
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'average'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "False",
+        "HasTV": "True",
+        "RestaurantsPriceRange2": "2",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsTakeOut": "True",
+        "WiFi": "u'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}"
+    },
+    "categories": "Buffets, Chinese, Asian Fusion, Restaurants, American (Traditional)",
+    "hours": null
+}

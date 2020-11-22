@@ -1,0 +1,23 @@
+{
+    "business_id": "nVqOTTfDiu12xsQtFTO7_w",
+    "name": "Green Bamboo",
+    "address": "472 44th St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15201",
+    "latitude": 40.4665129,
+    "longitude": -79.9538992,
+    "stars": 2.5,
+    "review_count": 11,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1",
+        "Caters": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False"
+    },
+    "categories": "Chinese, Food, Restaurants, Convenience Stores",
+    "hours": null
+}

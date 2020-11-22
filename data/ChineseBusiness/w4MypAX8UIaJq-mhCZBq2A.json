@@ -1,0 +1,41 @@
+{
+    "business_id": "w4MypAX8UIaJq-mhCZBq2A",
+    "name": "Hong To Chinese Restaurant",
+    "address": "4905 Robinhood Dr",
+    "city": "Willoughby",
+    "state": "OH",
+    "postal_code": "44094",
+    "latitude": 41.6262114,
+    "longitude": -81.42652,
+    "stars": 3.5,
+    "review_count": 27,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "NoiseLevel": "u'quiet'",
+        "WiFi": "u'no'",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "Alcohol": "u'full_bar'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': True}",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-20:30",
+        "Tuesday": "11:0-20:30",
+        "Wednesday": "11:0-20:30",
+        "Thursday": "11:0-20:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "12:0-21:30",
+        "Sunday": "12:0-20:30"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "business_id": "sCLXU9ehXMNsodcZqXKNZA",
+    "name": "King China Buffet",
+    "address": "5983 Andrews Rd",
+    "city": "Mentor-on-the-Lake",
+    "state": "OH",
+    "postal_code": "44060",
+    "latitude": 41.7071053,
+    "longitude": -81.3612821,
+    "stars": 3.0,
+    "review_count": 5,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "BikeParking": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsReservations": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Caters": "False",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "NoiseLevel": "u'average'",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-21:30"
+    }
+}

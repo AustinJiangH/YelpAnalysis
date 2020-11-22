@@ -1,0 +1,42 @@
+{
+    "business_id": "uh5dMhIZygTzXEvn5K10jg",
+    "name": "The Dragon Chinese Cuisine",
+    "address": "3360 Main St",
+    "city": "Munhall",
+    "state": "PA",
+    "postal_code": "15120",
+    "latitude": 40.3868616,
+    "longitude": -79.9029246,
+    "stars": 3.5,
+    "review_count": 10,
+    "is_open": 1,
+    "attributes": {
+        "WiFi": "'no'",
+        "BikeParking": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForKids": "True",
+        "Alcohol": "u'none'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "NoiseLevel": "'average'",
+        "RestaurantsDelivery": "False",
+        "HasTV": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Chinese, Restaurants, Food, Food Delivery Services",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "12:0-22:0"
+    }
+}

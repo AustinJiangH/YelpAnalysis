@@ -1,0 +1,43 @@
+{
+    "business_id": "a5xUI7TvsNhM5gZr6KowDg",
+    "name": "Sesame Inn",
+    "address": "711 Browns Ln",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15237",
+    "latitude": 40.546446483,
+    "longitude": -80.0190292792,
+    "stars": 3.5,
+    "review_count": 135,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "BikeParking": "False",
+        "RestaurantsDelivery": "True",
+        "RestaurantsAttire": "'casual'",
+        "HasTV": "True",
+        "RestaurantsReservations": "True",
+        "WiFi": "'free'",
+        "NoiseLevel": "u'average'",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "2",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Caters": "False",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "Alcohol": "u'full_bar'",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': True}"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:30-22:0",
+        "Tuesday": "11:30-22:0",
+        "Wednesday": "11:30-22:0",
+        "Thursday": "11:30-22:0",
+        "Friday": "11:30-23:0",
+        "Saturday": "11:30-23:0",
+        "Sunday": "12:0-21:0"
+    }
+}

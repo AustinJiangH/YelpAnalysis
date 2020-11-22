@@ -1,0 +1,43 @@
+{
+    "business_id": "JtSNHDRRZffnHBEsJudW-g",
+    "name": "Noodles & Company",
+    "address": "7050 Mineral Point Rd",
+    "city": "Madison",
+    "state": "WI",
+    "postal_code": "53717",
+    "latitude": 43.061559,
+    "longitude": -89.5048147,
+    "stars": 2.5,
+    "review_count": 41,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "False",
+        "BikeParking": "True",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Caters": "True",
+        "Alcohol": "u'beer_and_wine'",
+        "RestaurantsAttire": "u'casual'",
+        "WiFi": "u'no'",
+        "OutdoorSeating": "True",
+        "RestaurantsPriceRange2": "1",
+        "NoiseLevel": "u'loud'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "HasTV": "True"
+    },
+    "categories": "Asian Fusion, Chinese, Noodles, Italian, Thai, Comfort Food, American (New), Mediterranean, Fast Food, Restaurants, Salad, Food, Pasta Shops, Specialty Food",
+    "hours": {
+        "Monday": "0:0-0:0",
+        "Tuesday": "10:30-21:0",
+        "Wednesday": "10:30-22:0",
+        "Thursday": "10:30-22:0",
+        "Friday": "10:30-22:0",
+        "Saturday": "10:30-22:0",
+        "Sunday": "10:30-21:0"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "business_id": "hUtc2gE-UIcvoQ9tXUJMUA",
+    "name": "Golden Place the Chinese Restaurant",
+    "address": "29 Erie Rd",
+    "city": "Tallmadge",
+    "state": "OH",
+    "postal_code": "44278",
+    "latitude": 41.1004824,
+    "longitude": -81.4374514,
+    "stars": 4.0,
+    "review_count": 11,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsReservations": "False",
+        "Alcohol": "u'none'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0"
+    }
+}

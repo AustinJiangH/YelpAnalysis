@@ -1,0 +1,41 @@
+{
+    "business_id": "odfX0wO7fOyqa8oobxh96w",
+    "name": "Fu Lai Chinese Restaurant",
+    "address": "525 Penn Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15222",
+    "latitude": 40.442795,
+    "longitude": -80.003094,
+    "stars": 2.5,
+    "review_count": 34,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "False",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsReservations": "False",
+        "WiFi": "u'no'",
+        "OutdoorSeating": "False",
+        "BikeParking": "False",
+        "RestaurantsGoodForGroups": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "13:30-21:30",
+        "Tuesday": "13:30-21:30",
+        "Wednesday": "13:30-21:30",
+        "Thursday": "13:30-21:30",
+        "Friday": "13:30-21:30",
+        "Saturday": "12:0-21:30",
+        "Sunday": "12:0-21:0"
+    }
+}

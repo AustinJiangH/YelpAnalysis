@@ -1,0 +1,20 @@
+{
+    "business_id": "IJGce25T9M_xv9wG2F0Odg",
+    "name": "China Lu",
+    "address": "3913 Mayfield Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44121",
+    "latitude": 41.521113,
+    "longitude": -81.539316,
+    "stars": 4.0,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

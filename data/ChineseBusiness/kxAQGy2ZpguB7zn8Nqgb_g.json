@@ -1,0 +1,32 @@
+{
+    "business_id": "kxAQGy2ZpguB7zn8Nqgb_g",
+    "name": "Moonlight Truck Food",
+    "address": "Margaret Morrison St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15213",
+    "latitude": 40.442195025,
+    "longitude": -79.9385726452,
+    "stars": 3.0,
+    "review_count": 6,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsPriceRange2": "1",
+        "Caters": "False",
+        "NoiseLevel": "u'average'",
+        "WiFi": "u'no'",
+        "OutdoorSeating": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsTakeOut": "True",
+        "Alcohol": "u'none'",
+        "GoodForKids": "True",
+        "HasTV": "True"
+    },
+    "categories": "Food Trucks, Restaurants, Food Stands, Food, Chinese",
+    "hours": null
+}

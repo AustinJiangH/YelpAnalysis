@@ -1,0 +1,24 @@
+{
+    "business_id": "q3LFQHq0DPDA9PSLE7khnQ",
+    "name": "New China One",
+    "address": "525 Walnut St",
+    "city": "McKeesport",
+    "state": "PA",
+    "postal_code": "15132",
+    "latitude": 40.3502361,
+    "longitude": -79.8645523,
+    "stars": 4.5,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": null,
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "14:0-21:0"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "business_id": "LLGGe9k7NTVy1Z2wH1_Uew",
+    "name": "Tong's Cuisine",
+    "address": "228 Semple St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15213",
+    "latitude": 40.4394597,
+    "longitude": -79.9581963,
+    "stars": 3.5,
+    "review_count": 53,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "HasTV": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "True",
+        "NoiseLevel": "u'quiet'",
+        "BikeParking": "True",
+        "RestaurantsTableService": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "Alcohol": "u'none'",
+        "WiFi": "'no'"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:0",
+        "Saturday": "11:0-21:0",
+        "Sunday": "12:0-20:0"
+    }
+}

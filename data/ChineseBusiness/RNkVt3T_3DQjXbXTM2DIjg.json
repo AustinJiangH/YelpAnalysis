@@ -1,0 +1,43 @@
+{
+    "business_id": "RNkVt3T_3DQjXbXTM2DIjg",
+    "name": "China Chef",
+    "address": "33382 Walker Rd, Ste F",
+    "city": "Avon Lake",
+    "state": "OH",
+    "postal_code": "44012",
+    "latitude": 41.4940518,
+    "longitude": -82.0442893,
+    "stars": 3.0,
+    "review_count": 22,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsReservations": "False",
+        "Alcohol": "u'none'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "BikeParking": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "GoodForKids": "False",
+        "HasTV": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "NoiseLevel": "u'loud'",
+        "Caters": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "False",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsGoodForGroups": "False",
+        "WiFi": "u'no'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Seafood, Soup, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "12:0-22:0"
+    }
+}

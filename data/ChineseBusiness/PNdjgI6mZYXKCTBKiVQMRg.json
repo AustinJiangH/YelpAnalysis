@@ -1,0 +1,24 @@
+{
+    "business_id": "PNdjgI6mZYXKCTBKiVQMRg",
+    "name": "Mark Pi's",
+    "address": "520 Westgate",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44126",
+    "latitude": 41.46029,
+    "longitude": -81.851746,
+    "stars": 2.0,
+    "review_count": 5,
+    "is_open": 0,
+    "attributes": {
+        "NoiseLevel": "u'quiet'",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "u'casual'",
+        "GoodForKids": "True",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "OutdoorSeating": "False"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

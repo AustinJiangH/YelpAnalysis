@@ -1,0 +1,43 @@
+{
+    "business_id": "e9FftJq9v_porLZT7iSEhg",
+    "name": "Imperial Wok Chinese Restaurant",
+    "address": "33825 Aurora Rd",
+    "city": "Solon",
+    "state": "OH",
+    "postal_code": "44139",
+    "latitude": 41.3852806091,
+    "longitude": -81.4384078979,
+    "stars": 3.5,
+    "review_count": 106,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False",
+        "HasTV": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Alcohol": "u'full_bar'",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "NoiseLevel": "u'average'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "WiFi": "u'free'",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "True",
+        "Caters": "True",
+        "GoodForKids": "True",
+        "BikeParking": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': True, 'casual': True}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}"
+    },
+    "categories": "Seafood, Sushi Bars, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "12:0-22:30",
+        "Sunday": "12:0-21:0"
+    }
+}

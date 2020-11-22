@@ -1,0 +1,38 @@
+{
+    "business_id": "Ny7Y1Rlhwi5n4LHIpUA21g",
+    "name": "King Dragon",
+    "address": "20906 Drake Rd",
+    "city": "Strongsville",
+    "state": "OH",
+    "postal_code": "44149",
+    "latitude": 41.290602,
+    "longitude": -81.8567133,
+    "stars": 3.5,
+    "review_count": 18,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "True",
+        "Alcohol": "u'none'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Asian Fusion, Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-23:0",
+        "Saturday": "11:0-23:0",
+        "Sunday": "1:0-22:0"
+    }
+}

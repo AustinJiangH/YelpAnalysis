@@ -1,0 +1,32 @@
+{
+    "business_id": "_VYUU5HPLYasd-xdKLimNA",
+    "name": "Castle Place Chinese Restaurant",
+    "address": "331 Mount Lebanon Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15234",
+    "latitude": 40.369991,
+    "longitude": -80.034378,
+    "stars": 4.0,
+    "review_count": 14,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "1",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "u'casual'",
+        "OutdoorSeating": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Chinese, Restaurants, Seafood, Chicken Shop",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "12:0-22:0",
+        "Sunday": "16:0-21:0"
+    }
+}

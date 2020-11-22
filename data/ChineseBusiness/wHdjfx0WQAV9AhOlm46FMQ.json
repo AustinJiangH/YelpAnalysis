@@ -1,0 +1,33 @@
+{
+    "business_id": "wHdjfx0WQAV9AhOlm46FMQ",
+    "name": "Lucky Wok",
+    "address": "375 Lear Rd",
+    "city": "Avon Lake",
+    "state": "OH",
+    "postal_code": "44012",
+    "latitude": 41.4943733,
+    "longitude": -81.9861264,
+    "stars": 3.0,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsTakeOut": "True",
+        "RestaurantsReservations": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "HasTV": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "NoiseLevel": "u'average'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "2",
+        "WiFi": "u'no'",
+        "RestaurantsAttire": "u'casual'",
+        "BikeParking": "True",
+        "RestaurantsGoodForGroups": "False",
+        "GoodForKids": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'none'"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

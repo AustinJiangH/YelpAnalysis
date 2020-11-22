@@ -1,0 +1,22 @@
+{
+    "business_id": "LV6nlFQTt-KFdtapmsSzUw",
+    "name": "Empire Chinese Restaurant",
+    "address": "4793 Turney Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44125",
+    "latitude": 41.4299916,
+    "longitude": -81.6152494,
+    "stars": 2.5,
+    "review_count": 3,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

@@ -1,0 +1,42 @@
+{
+    "business_id": "gGeC3-QX-ZH1kxnpmUwQ9A",
+    "name": "China House",
+    "address": "2001 Lincoln Way, Ste 9",
+    "city": "White Oak",
+    "state": "PA",
+    "postal_code": "15131",
+    "latitude": 40.3359617418,
+    "longitude": -79.8044264784,
+    "stars": 2.5,
+    "review_count": 19,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "WiFi": "'no'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "Alcohol": "'none'",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "BikeParking": "False",
+        "RestaurantsReservations": "True",
+        "NoiseLevel": "u'quiet'",
+        "HasTV": "True",
+        "Caters": "False"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "11:0-21:0"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "business_id": "WuxgvHDQ1aMIaAQ_1ciOXg",
+    "name": "Beijing Garden",
+    "address": "7995 Darrow Rd",
+    "city": "Twinsburg",
+    "state": "OH",
+    "postal_code": "44087",
+    "latitude": 41.283934,
+    "longitude": -81.440302,
+    "stars": 4.0,
+    "review_count": 29,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "u'loud'",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "True",
+        "GoodForKids": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "16:0-21:0"
+    }
+}

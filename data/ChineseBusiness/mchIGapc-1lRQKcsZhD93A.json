@@ -1,0 +1,38 @@
+{
+    "business_id": "mchIGapc-1lRQKcsZhD93A",
+    "name": "Panda Restaurant",
+    "address": "846 5th Ave",
+    "city": "New Kensington",
+    "state": "PA",
+    "postal_code": "15068",
+    "latitude": 40.5647288,
+    "longitude": -79.7647173,
+    "stars": 4.5,
+    "review_count": 12,
+    "is_open": 1,
+    "attributes": {
+        "GoodForKids": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "OutdoorSeating": "False",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': False, 'classy': False, 'casual': False}",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "True",
+        "RestaurantsAttire": "'casual'",
+        "Alcohol": "u'none'",
+        "WiFi": "u'no'"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30"
+    }
+}

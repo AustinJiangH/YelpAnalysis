@@ -1,0 +1,21 @@
+{
+    "business_id": "pYR9KSNrJMEx8PIjx8rccw",
+    "name": "Peking Chinese Restaurant",
+    "address": "2091 McCoy Rd",
+    "city": "Sun Prairie",
+    "state": "WI",
+    "postal_code": "53590",
+    "latitude": 43.1753699,
+    "longitude": -89.2482376,
+    "stars": 4.0,
+    "review_count": 3,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsDelivery": "True",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}

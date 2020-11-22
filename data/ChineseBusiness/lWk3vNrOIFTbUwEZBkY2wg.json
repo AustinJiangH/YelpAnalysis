@@ -1,0 +1,41 @@
+{
+    "business_id": "lWk3vNrOIFTbUwEZBkY2wg",
+    "name": "Peking House",
+    "address": "2550 Brownsville Rd",
+    "city": "South Park",
+    "state": "PA",
+    "postal_code": "15129",
+    "latitude": 40.2935766,
+    "longitude": -79.9965838,
+    "stars": 3.5,
+    "review_count": 8,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsPriceRange2": "2",
+        "OutdoorSeating": "False",
+        "Alcohol": "'none'",
+        "WiFi": "'no'",
+        "GoodForKids": "False",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsReservations": "False",
+        "BikeParking": "True",
+        "NoiseLevel": "u'quiet'",
+        "Caters": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsAttire": "'casual'",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "12:0-22:0",
+        "Sunday": "13:0-20:30"
+    }
+}

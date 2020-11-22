@@ -1,0 +1,43 @@
+{
+    "business_id": "VKNwgZGroTNHcPqgRtmcpA",
+    "name": "P.F. Chang's",
+    "address": "2237 Deming Way",
+    "city": "Middleton",
+    "state": "WI",
+    "postal_code": "53562",
+    "latitude": 43.0977135,
+    "longitude": -89.520086,
+    "stars": 2.5,
+    "review_count": 101,
+    "is_open": 0,
+    "attributes": {
+        "Alcohol": "'full_bar'",
+        "RestaurantsAttire": "'casual'",
+        "OutdoorSeating": "True",
+        "HasTV": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "True",
+        "RestaurantsPriceRange2": "2",
+        "NoiseLevel": "u'average'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "GoodForKids": "True",
+        "WiFi": "'free'",
+        "BikeParking": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "RestaurantsTableService": "True",
+        "RestaurantsGoodForGroups": "True"
+    },
+    "categories": "Restaurants, Asian Fusion, Chinese, Gluten-Free",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

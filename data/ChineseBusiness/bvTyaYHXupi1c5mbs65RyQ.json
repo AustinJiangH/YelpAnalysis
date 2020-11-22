@@ -1,0 +1,42 @@
+{
+    "business_id": "bvTyaYHXupi1c5mbs65RyQ",
+    "name": "Great Wall China Buffet",
+    "address": "5088 Great Northern Blvd",
+    "city": "North Olmsted",
+    "state": "OH",
+    "postal_code": "44070",
+    "latitude": 41.415672135,
+    "longitude": -81.9118310469,
+    "stars": 2.0,
+    "review_count": 51,
+    "is_open": 1,
+    "attributes": {
+        "BusinessAcceptsCreditCards": "True",
+        "Caters": "False",
+        "Alcohol": "u'none'",
+        "RestaurantsDelivery": "False",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsTakeOut": "True",
+        "GoodForKids": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsPriceRange2": "2",
+        "NoiseLevel": "u'quiet'",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': True, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "BikeParking": "False",
+        "RestaurantsGoodForGroups": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True"
+    },
+    "categories": "Buffets, Chinese, Restaurants, Soup",
+    "hours": {
+        "Monday": "11:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:0",
+        "Saturday": "11:0-22:0",
+        "Sunday": "11:0-22:0"
+    }
+}

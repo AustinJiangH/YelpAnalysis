@@ -1,0 +1,21 @@
+{
+    "business_id": "fj7NnkbfHfEouJExa6MIhw",
+    "name": "Lin Garden",
+    "address": "16210 Madison Ave",
+    "city": "Lakewood",
+    "state": "OH",
+    "postal_code": "44107",
+    "latitude": 41.4775975,
+    "longitude": -81.8112336,
+    "stars": 2.0,
+    "review_count": 5,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "NoiseLevel": "u'average'",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsDelivery": "True"
+    },
+    "categories": "American (New), Chinese, Restaurants",
+    "hours": null
+}

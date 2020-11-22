@@ -1,0 +1,32 @@
+{
+    "business_id": "dxkchxJR7biaqK1qUSxG8A",
+    "name": "Asian Grill",
+    "address": "1166 N Court St",
+    "city": "Medina",
+    "state": "OH",
+    "postal_code": "44256",
+    "latitude": 41.157551,
+    "longitude": -81.861324,
+    "stars": 3.5,
+    "review_count": 26,
+    "is_open": 1,
+    "attributes": {
+        "RestaurantsAttire": "u'casual'",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'none'",
+        "NoiseLevel": "u'average'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "BikeParking": "False",
+        "RestaurantsReservations": "False",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "2",
+        "GoodForKids": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

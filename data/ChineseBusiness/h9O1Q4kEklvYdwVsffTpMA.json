@@ -1,0 +1,41 @@
+{
+    "business_id": "h9O1Q4kEklvYdwVsffTpMA",
+    "name": "Dragon",
+    "address": "3668 Center Rd",
+    "city": "Brunswick",
+    "state": "OH",
+    "postal_code": "44212",
+    "latitude": 41.2385172831,
+    "longitude": -81.8243254625,
+    "stars": 4.0,
+    "review_count": 14,
+    "is_open": 1,
+    "attributes": {
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsPriceRange2": "1",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsDelivery": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'none'",
+        "RestaurantsReservations": "False",
+        "RestaurantsAttire": "u'casual'",
+        "BikeParking": "False",
+        "GoodForKids": "True",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsGoodForGroups": "False",
+        "WiFi": "u'no'",
+        "HasTV": "True"
+    },
+    "categories": "Thai, Seafood, Chinese, Restaurants",
+    "hours": {
+        "Monday": "16:0-22:0",
+        "Tuesday": "11:0-22:0",
+        "Wednesday": "11:0-22:0",
+        "Thursday": "11:0-22:0",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "16:0-22:0"
+    }
+}

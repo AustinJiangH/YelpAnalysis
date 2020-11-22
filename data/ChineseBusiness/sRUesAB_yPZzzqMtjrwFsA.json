@@ -1,0 +1,41 @@
+{
+    "business_id": "sRUesAB_yPZzzqMtjrwFsA",
+    "name": "Asian Express",
+    "address": "26010 Euclid Ave",
+    "city": "Euclid",
+    "state": "OH",
+    "postal_code": "44132",
+    "latitude": 41.5883134,
+    "longitude": -81.5005106,
+    "stars": 3.0,
+    "review_count": 9,
+    "is_open": 1,
+    "attributes": {
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}",
+        "Alcohol": "u'none'",
+        "BikeParking": "True",
+        "WiFi": "u'no'",
+        "RestaurantsTakeOut": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': False, 'dinner': False, 'brunch': False, 'breakfast': False}",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "OutdoorSeating": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsTableService": "False",
+        "RestaurantsReservations": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsAttire": "u'casual'",
+        "HasTV": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": {
+        "Monday": "10:30-22:30",
+        "Tuesday": "10:30-22:30",
+        "Wednesday": "10:30-22:30",
+        "Thursday": "10:30-22:30",
+        "Friday": "10:30-23:30",
+        "Saturday": "10:30-23:30",
+        "Sunday": "10:30-22:30"
+    }
+}

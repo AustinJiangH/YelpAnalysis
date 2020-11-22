@@ -1,0 +1,42 @@
+{
+    "business_id": "7oS4RyfwnQ3n9fARzjsNNg",
+    "name": "Golden Dragon Restaurant",
+    "address": "2201 Lee Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44118",
+    "latitude": 41.4998904,
+    "longitude": -81.5651164,
+    "stars": 2.5,
+    "review_count": 14,
+    "is_open": 0,
+    "attributes": {
+        "Alcohol": "u'none'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': True}",
+        "GoodForKids": "True",
+        "WiFi": "u'no'",
+        "Caters": "False",
+        "BikeParking": "True",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsReservations": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "HasTV": "False",
+        "RestaurantsDelivery": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "1",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsAttire": "'casual'",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "11:0-22:30",
+        "Tuesday": "11:0-22:30",
+        "Wednesday": "11:0-22:30",
+        "Thursday": "11:0-22:30",
+        "Friday": "11:0-22:30",
+        "Saturday": "11:0-22:30",
+        "Sunday": "11:0-22:30"
+    }
+}

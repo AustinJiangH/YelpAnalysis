@@ -1,0 +1,27 @@
+{
+    "business_id": "ZWbJlxV7sdxBBgyw_-4vVg",
+    "name": "Bai Ling Chinese Restaurant",
+    "address": "2614 Brownsville Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15227",
+    "latitude": 40.3850883,
+    "longitude": -79.9784211,
+    "stars": 5.0,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsGoodForGroups": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': True, 'validated': False, 'lot': False, 'valet': False}",
+        "RestaurantsDelivery": "True",
+        "RestaurantsAttire": "u'casual'",
+        "Alcohol": "u'none'",
+        "OutdoorSeating": "False",
+        "RestaurantsPriceRange2": "2",
+        "GoodForKids": "True"
+    },
+    "categories": "Restaurants, Chinese",
+    "hours": null
+}

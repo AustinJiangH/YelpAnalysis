@@ -1,0 +1,39 @@
+{
+    "business_id": "MwsGayIlUkXQ46mkmV3jlA",
+    "name": "Wok In Heaven",
+    "address": "415 Unity Center Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "postal_code": "15239",
+    "latitude": 40.4894052,
+    "longitude": -79.7771043,
+    "stars": 3.0,
+    "review_count": 12,
+    "is_open": 1,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "Alcohol": "'none'",
+        "NoiseLevel": "u'quiet'",
+        "RestaurantsAttire": "u'casual'",
+        "RestaurantsDelivery": "True",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsReservations": "False",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsPriceRange2": "1",
+        "GoodForKids": "True",
+        "RestaurantsGoodForGroups": "True",
+        "BikeParking": "False",
+        "BusinessParking": "None"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": {
+        "Monday": "15:0-21:30",
+        "Tuesday": "11:0-21:30",
+        "Wednesday": "11:0-21:30",
+        "Thursday": "11:0-21:30",
+        "Friday": "11:0-21:30",
+        "Saturday": "11:0-21:30",
+        "Sunday": "12:0-21:0"
+    }
+}

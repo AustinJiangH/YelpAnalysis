@@ -1,0 +1,31 @@
+{
+    "business_id": "XgUlUmrktr2Um2gczYeYpg",
+    "name": "Garden Cafe",
+    "address": "3710 Payne Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "postal_code": "44114",
+    "latitude": 41.5094459,
+    "longitude": -81.662187,
+    "stars": 3.0,
+    "review_count": 4,
+    "is_open": 0,
+    "attributes": {
+        "RestaurantsGoodForGroups": "False",
+        "RestaurantsReservations": "True",
+        "RestaurantsPriceRange2": "1",
+        "Alcohol": "u'none'",
+        "BusinessAcceptsCreditCards": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': False, 'valet': False}"
+    },
+    "categories": "Taiwanese, Restaurants, Chinese",
+    "hours": {
+        "Monday": "11:0-21:0",
+        "Tuesday": "11:0-21:0",
+        "Wednesday": "11:0-21:0",
+        "Thursday": "11:0-21:0",
+        "Friday": "11:0-21:0",
+        "Saturday": "11:0-21:0",
+        "Sunday": "11:0-21:0"
+    }
+}

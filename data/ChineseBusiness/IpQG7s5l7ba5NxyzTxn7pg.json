@@ -1,0 +1,43 @@
+{
+    "business_id": "IpQG7s5l7ba5NxyzTxn7pg",
+    "name": "Hunan by the Falls",
+    "address": "508 E Washington St",
+    "city": "Chagrin Falls",
+    "state": "OH",
+    "postal_code": "44022",
+    "latitude": 41.426765,
+    "longitude": -81.3738366,
+    "stars": 4.0,
+    "review_count": 85,
+    "is_open": 1,
+    "attributes": {
+        "WiFi": "u'no'",
+        "RestaurantsAttire": "u'casual'",
+        "Caters": "True",
+        "RestaurantsTakeOut": "True",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'average'",
+        "BusinessAcceptsCreditCards": "True",
+        "Alcohol": "u'full_bar'",
+        "BikeParking": "True",
+        "OutdoorSeating": "False",
+        "RestaurantsDelivery": "False",
+        "RestaurantsPriceRange2": "2",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForMeal": "{'dessert': False, 'latenight': False, 'lunch': None, 'dinner': True, 'brunch': False, 'breakfast': False}",
+        "RestaurantsReservations": "True",
+        "Ambience": "{'touristy': False, 'hipster': False, 'romantic': False, 'divey': False, 'intimate': False, 'trendy': False, 'upscale': None, 'classy': None, 'casual': True}",
+        "HasTV": "True"
+    },
+    "categories": "Chinese, Restaurants, Thai",
+    "hours": {
+        "Monday": "11:30-21:30",
+        "Tuesday": "11:30-21:30",
+        "Wednesday": "11:30-21:30",
+        "Thursday": "11:30-21:30",
+        "Friday": "11:30-22:30",
+        "Saturday": "11:30-22:30",
+        "Sunday": "12:0-22:30"
+    }
+}

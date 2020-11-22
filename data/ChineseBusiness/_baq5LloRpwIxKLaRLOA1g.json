@@ -1,0 +1,28 @@
+{
+    "business_id": "_baq5LloRpwIxKLaRLOA1g",
+    "name": "Foo Sing Chinese Restaurant",
+    "address": "5186 Great Northern Plz S",
+    "city": "North Olmsted",
+    "state": "OH",
+    "postal_code": "44070",
+    "latitude": 41.4160299,
+    "longitude": -81.9019661,
+    "stars": 3.5,
+    "review_count": 5,
+    "is_open": 0,
+    "attributes": {
+        "OutdoorSeating": "False",
+        "RestaurantsAttire": "'casual'",
+        "RestaurantsTakeOut": "True",
+        "RestaurantsDelivery": "False",
+        "BusinessAcceptsCreditCards": "True",
+        "RestaurantsGoodForGroups": "True",
+        "GoodForKids": "True",
+        "NoiseLevel": "u'average'",
+        "Ambience": "{'romantic': False, 'intimate': False, 'classy': False, 'hipster': False, 'divey': False, 'touristy': False, 'trendy': False, 'upscale': False, 'casual': False}",
+        "RestaurantsPriceRange2": "1",
+        "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': True, 'valet': False}"
+    },
+    "categories": "Chinese, Restaurants",
+    "hours": null
+}
