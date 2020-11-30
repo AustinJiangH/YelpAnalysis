@@ -1,6 +1,29 @@
 setwd("D:/Desktop/UW/628/M3")
 library('ndjson')
+library(stringr)
 raw=stream_in('raw.json')
+city=stream_in('business_city_Chinese.json')
+
+################################################# general EDA
+
+par(mfrow=c(1,1))
+summary(raw$stars)
+
+reviewlength=str_count(raw$text,boundary('word'))
+h=lm(raw$stars~reviewlength)
+summary(h)
+rating=c()
+times=c()
+s=seq(1,1000,50)
+for(i in 1:(length(s)-1)){
+  rating[i]=mean(raw$stars[which(reviewlength>=s[i]&reviewlength<s[i+1])])
+  times[i]=sum(reviewlength>=s[i]&reviewlength<s[i+1])
+}
+plot(s[-length(s)],rating,ylim=c(1.5,5),pch=16,col='coral',
+     xlab='Review Length(words)',ylab='Stars(rating)',
+     main='Correlation between review length and ratings')
+text(s[-length(s)],rating+0.1,times,cex=0.7,col='dimgrey')
+abline(h$coefficients,col='darkred',lty=3)
 
 ################################################# staple
 
@@ -52,9 +75,9 @@ M=M/as.integer(unname(table(raw$stars)))
 
 par(mfrow=c(2,4))
 for(i in 1:length(u)) barplot(M[,i],main=names(u)[i],xlab='Stars')
+
 ################################################# regress
 
-city=stream_in('business_city_Chinese.json')
 stars=city$stars
 mo=city$hours.Monday
 tu=city$hours.Tuesday
