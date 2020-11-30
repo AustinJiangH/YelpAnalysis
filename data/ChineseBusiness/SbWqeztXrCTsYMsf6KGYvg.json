@@ -29,5 +29,25 @@
         "Ambience": "{'romantic': False, 'intimate': False, 'touristy': False, 'hipster': False, 'divey': False, 'classy': False, 'trendy': False, 'upscale': False, 'casual': False}"
     },
     "categories": "Restaurants, Chinese",
-    "hours": null
+    "hours": null,
+    "parsedHours": {
+        "startTime": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "durationLength": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
 }

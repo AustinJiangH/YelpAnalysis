@@ -21,5 +21,25 @@
         "RestaurantsTakeOut": "False"
     },
     "categories": "Restaurants, Chinese, Dim Sum",
-    "hours": null
+    "hours": null,
+    "parsedHours": {
+        "startTime": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "durationLength": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
 }

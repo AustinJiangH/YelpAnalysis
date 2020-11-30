@@ -30,5 +30,25 @@
         "RestaurantsPriceRange2": "1"
     },
     "categories": "Restaurants, Szechuan, Chinese",
-    "hours": null
+    "hours": null,
+    "parsedHours": {
+        "startTime": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "durationLength": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
 }

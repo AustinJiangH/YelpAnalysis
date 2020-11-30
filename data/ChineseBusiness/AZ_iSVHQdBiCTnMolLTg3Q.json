@@ -30,5 +30,25 @@
         "Ambience": "{'touristy': False, 'hipster': None, 'romantic': None, 'divey': None, 'intimate': None, 'trendy': None, 'upscale': None, 'classy': None, 'casual': True}"
     },
     "categories": "Asian Fusion, Buffets, Chinese, Restaurants",
-    "hours": null
+    "hours": null,
+    "parsedHours": {
+        "startTime": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "durationLength": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
 }

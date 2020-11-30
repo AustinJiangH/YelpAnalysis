@@ -39,5 +39,25 @@
         "Friday": "16:0-3:30",
         "Saturday": "16:0-3:30",
         "Sunday": "16:0-3:0"
+    },
+    "parsedHours": {
+        "startTime": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "durationLength": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
     }
 }

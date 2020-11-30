@@ -30,5 +30,25 @@
         "OutdoorSeating": "False"
     },
     "categories": "Specialty Food, Chinese, American (Traditional), Sushi Bars, Food, Seafood Markets, Japanese, Restaurants, Buffets",
-    "hours": null
+    "hours": null,
+    "parsedHours": {
+        "startTime": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "durationLength": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
 }

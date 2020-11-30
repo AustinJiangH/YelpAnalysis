@@ -19,5 +19,25 @@
         "RestaurantsGoodForGroups": "False"
     },
     "categories": "Chinese, Food, Restaurants, Convenience Stores",
-    "hours": null
+    "hours": null,
+    "parsedHours": {
+        "startTime": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "durationLength": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
 }

@@ -12,5 +12,25 @@
     "is_open": 1,
     "attributes": null,
     "categories": "Japanese, Fast Food, Chinese, Restaurants",
-    "hours": null
+    "hours": null,
+    "parsedHours": {
+        "startTime": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "durationLength": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
 }

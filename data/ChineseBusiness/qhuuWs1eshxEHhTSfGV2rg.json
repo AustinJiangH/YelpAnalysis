@@ -29,5 +29,25 @@
         "BusinessAcceptsCreditCards": "True"
     },
     "categories": "Japanese, Chinese, Restaurants, Sushi Bars",
-    "hours": null
+    "hours": null,
+    "parsedHours": {
+        "startTime": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "durationLength": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
 }

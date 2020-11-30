@@ -23,5 +23,25 @@
         "RestaurantsReservations": "True"
     },
     "categories": "Sushi Bars, Dim Sum, Restaurants, Chinese",
-    "hours": null
+    "hours": null,
+    "parsedHours": {
+        "startTime": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "durationLength": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
 }

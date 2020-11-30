@@ -31,5 +31,25 @@
         "RestaurantsDelivery": "False"
     },
     "categories": "Specialty Food, Food, Restaurants, Japanese, Cantonese, Chinese, Ethnic Food",
-    "hours": null
+    "hours": null,
+    "parsedHours": {
+        "startTime": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "durationLength": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
 }

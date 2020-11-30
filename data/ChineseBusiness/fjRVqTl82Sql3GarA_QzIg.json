@@ -31,5 +31,25 @@
         "BusinessParking": "{'garage': False, 'street': False, 'validated': False, 'lot': None, 'valet': False}"
     },
     "categories": "Restaurants, Food, Desserts, American (Traditional), Salad, Chinese, Mexican, Sandwiches, Tacos, Korean",
-    "hours": null
+    "hours": null,
+    "parsedHours": {
+        "startTime": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "durationLength": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
 }
