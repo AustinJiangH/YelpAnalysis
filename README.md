@@ -18,8 +18,9 @@ This folder contains all the data we have selected specifically for Chinese rest
 - <code>DataFilter_Chinese_Restaurants.ipynb</code> selects all the businesses with word Chinese in its description and write them in new json files.
 - <code>business_info.R</code> does the attribute analysis: process the business data, did some test for some attributes, check the assumption for the test and draw conclusion.
 - <code>Split_Data.ipynb</code> processes and stores the data used by the web application.
-- <code>Single_Business_Comments_Analysis.ipynb processes the comment data and does some comment analysis.
+- <code>Single_Business_Comments_Analysis.ipynb</code> processes the comment data and does some comment analysis.
 - <code>Graph_drawing.R</code> analyzes the comment data and draw some plots for the output. It include the EDA section and some of part 1.
+
 ## Plot Folder 
 The plot folder includes all plots in the summary pdf.
 
